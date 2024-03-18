@@ -25,11 +25,12 @@ function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".
     segmentIndex++;
   }
 }
+function runSplitter(companyName) {
+  fs.mkdirSync(`splitTerms/${companyName}`);
+  const inputFilePath = "sampleTerms/linkedin.txt";
+  const outputDirectory = "splitTerms/linkedin/";
+  const text = readTextFromFile(inputFilePath);
+  splitTextIntoSegments(text, 500, outputDirectory);
+}
 
-const inputFilePath = "sampleTerms/sampleText.txt";
-const outputDirectory = "splitTerms/SAMPLEOUTPUT.txt";
-const text = readTextFromFile(inputFilePath);
-console.log(text);
-fs.writeFileSync(outputDirectory, text, "utf8");
-
-// splitTextIntoSegments(text, 500, outputDirectory);
+runSplitter("linkedin");
