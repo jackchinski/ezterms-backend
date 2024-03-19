@@ -25,10 +25,17 @@ function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".
     segmentIndex++;
   }
 }
+
+/*
+   === BEFORE RUNNING === 
+    1. MAKE SURE you pass the company name, and it matches the original .txt file in the folder with all the t&c files
+    2. That the directory with the <companyName> directory does NOT exist yet 
+    3. input AND output paths are correct, test using sampleText.txt and write like SAMPLEOUTPUT.txt
+ */
 function runSplitter(companyName) {
   fs.mkdirSync(`splitTerms/${companyName}`);
-  const inputFilePath = "sampleTerms/linkedin.txt";
-  const outputDirectory = "splitTerms/linkedin/";
+  const inputFilePath = `sampleTerms/${companyName}.txt`;
+  const outputDirectory = `splitTerms/${companyName}/`;
   const text = readTextFromFile(inputFilePath);
   splitTextIntoSegments(text, 500, outputDirectory, companyName);
 }
