@@ -27,15 +27,18 @@ async function callOpenAIWithSplitText(privacyPolicySegment) {
   try {
     const completion = await openai.chat.completions.create({
       messages: [{ role: "system", content: combinedText }],
-      model: "gpt-3.5-turbo",
+      model: "gpt-4",
     });
-    console.log(completion.choices[0]);
+    console.log(completion.choices[0].message.content);
+    let categorizedTerms = completion.choices[0].message.content;
+    //TODO: make file to write out all of the completions
+    fs.writeFileSync("splitResponses/linkedin/linkedin_segment_4.txt", categorizedTerms, "utf-8");
   } catch (e) {
     console.log("Failed with error", e);
   }
 }
 
 // ====== TESTING
-const privacyPolicyFirst = fs.readFileSync("splitTerms/linkedin/linkedin_segment_1.txt");
+const privacyPolicyFirst = fs.readFileSync("splitTerms/linkedin/linkedin_segment_4.txt");
 callOpenAIWithSplitText(privacyPolicyFirst);
 // =========

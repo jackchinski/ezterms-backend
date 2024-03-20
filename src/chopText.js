@@ -14,15 +14,47 @@ function writeSegmentToFile(segment, index, outputDirectory, companyName) {
 }
 
 // split the text
+// function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".", companyName) {
+//   const words = text.split(/\s+/);
+//   let segmentIndex = 0;
+
+//   for (let i = 0; i < words.length; i += wordsPerSegment) {
+//     const segmentWords = words.slice(i, i + wordsPerSegment);
+//     const segmentText = segmentWords.join(" ");
+//     writeSegmentToFile(segmentText, segmentIndex, outputDirectory, companyName);
+//     segmentIndex++;
+//   }
+// }
+
 function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".", companyName) {
-  const words = text.split(/\s+/);
+  // common sentence endings that will or will not be split by
+  const sentenceEndings = /(?<!\b(?:Mr|Mrs|Ms|Dr|Jr|Sr|vs)\.)(?<!\b\p{L}\.)(?<=\.|\?|!)\s+/gu;
+  const sentences = text.split(sentenceEndings);
+
+  let currentSegment = [];
+  let currentWordCount = 0;
   let segmentIndex = 0;
 
-  for (let i = 0; i < words.length; i += wordsPerSegment) {
-    const segmentWords = words.slice(i, i + wordsPerSegment);
-    const segmentText = segmentWords.join(" ");
+  sentences.forEach((sentence) => {
+    const wordCount = sentence.split(/\s+/).length;
+    if (currentWordCount + wordCount > wordsPerSegment && currentSegment.length > 0) {
+      // the current segment is full so write it to file
+      const segmentText = currentSegment.join(" ").trim();
+      writeSegmentToFile(segmentText, segmentIndex, outputDirectory, companyName);
+      segmentIndex++;
+      currentSegment = []; // reset for next segment
+      currentWordCount = 0;
+    }
+
+    // add current sentence to segment
+    currentSegment.push(sentence);
+    currentWordCount += wordCount;
+  });
+
+  // write the last segment if it has content
+  if (currentSegment.length > 0) {
+    const segmentText = currentSegment.join(" ").trim();
     writeSegmentToFile(segmentText, segmentIndex, outputDirectory, companyName);
-    segmentIndex++;
   }
 }
 

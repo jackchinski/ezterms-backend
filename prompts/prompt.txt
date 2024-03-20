@@ -26,9 +26,5 @@ the company will inform you when they update their terms and conditions agreemen
 Anything that you feel like does not fit into the following 3 Criteria, put into the "Other category". After this message I will send the clauses that I would like you to categorize please. 
 The name of this application is: LinkedIn
 
-Please respond in the format of a JSON object which has been stringified, but contains the following categories for each clause you have classified: 
-'{"Danger": [{"InfringementKeyword": "quick keywords", "summary": "shorter breakdown and why it matters / why it was flagged as this", "fullClause": "paste full clause here"}, {"InfringementKeyword": "this will be the next clause"}], "Caution": [{"InfringementKeyword": "do the same as in danger"}], "Safe": [{"InfringementKeyword": "do the same as in danger"}], "Other": [{"InfringementKeyword": "do the same as in danger"}]}'
-
-
-
-If no clauses are present, please just return an empty object of the following format.
+Please respond in the format of a JSON object, but contains the following categories for each clause you have classified, if no clauses are found, please return an empty object with the categories, "danger", "caution", "safe" and "other" but empty. 
+{"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safe": [{"InfringementKeyword": "Do the same as in danger"}], "Other": [{"InfringementKeyword": "Do the same as in danger"}]}
