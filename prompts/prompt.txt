@@ -23,23 +23,12 @@ the right to delete your account and all your data
 user control - being able to control how much you share vs what the service will not touch
 the company will inform you when they update their terms and conditions agreement 
 
-Anything that you feel like does not fit into the following 3 Criteria, put into the “Other category”. After this message I will send the clauses that I would like you to categorize please. 
+Anything that you feel like does not fit into the following 3 Criteria, put into the "Other category". After this message I will send the clauses that I would like you to categorize please. 
 The name of this application is: LinkedIn
 
-Please respond in the following format: 
-{
-"Name": "application_name", 
-"Flags": {
-"Danger": [
-  {"InfrigementKeyWord": "quick keywords", 
-"summary": "shorter breakdown and why it matters / why it was flagged as this", 
-"fullClause": "paste full clause here"}, 
-  {“InfrigementKeyWord”: “this will be the next clause”}
-],
-"Caution": {“do the same as in danger”},
-"Safe": {“do the same as in danger”},
-“Other”: {“do the same as in danger”}
-}
-}
+Please respond in the format of a JSON object which has been stringified, but contains the following categories for each clause you have classified: 
+'{"Danger": [{"InfringementKeyword": "quick keywords", "summary": "shorter breakdown and why it matters / why it was flagged as this", "fullClause": "paste full clause here"}, {"InfringementKeyword": "this will be the next clause"}], "Caution": [{"InfringementKeyword": "do the same as in danger"}], "Safe": [{"InfringementKeyword": "do the same as in danger"}], "Other": [{"InfringementKeyword": "do the same as in danger"}]}'
+
+
 
 If no clauses are present, please just return an empty object of the following format.

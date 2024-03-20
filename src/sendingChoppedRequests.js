@@ -1,6 +1,9 @@
 import fs from "fs";
 import path from "path";
 import "dotenv/config";
+import OpenAI from "openai";
+
+const apiKey = process.env.OPENAI_API_KEY;
 
 function readPromptFromFile(filePath) {
   return fs.readFileSync(filePath, "utf8");
@@ -9,20 +12,30 @@ function readPromptFromFile(filePath) {
 const promptFilePath = "prompts/prompt.txt";
 const promptText = readPromptFromFile(promptFilePath);
 
-// ** this section to be refined still
-let companyName = "linkedin"; // TODO: change for others
-fs.mkdirSync(`splitResponses/${companyName}`);
-const outputDirectory = `splitResponses/${companyName}`;
-const openaiApiKey = process.env.OPENAI_API_KEY;
-// ** end here refinement
+// // ** this section to be refined still
+// let companyName = "linkedin"; // TODO: change for others
+// fs.mkdirSync(`splitResponses/${companyName}`);
+// const outputDirectory = `splitResponses/${companyName}`;
+// const openaiApiKey = process.env.OPENAI_API_KEY;
+// // ** end here refinement
 
 async function callOpenAIWithSplitText(privacyPolicySegment) {
-  // need to combine the prompt with the text that is passed here
-  const combinedText = `${promptText}\n\n${privacyPolicySegment}`;
+  const openai = new OpenAI(apiKey);
 
-  const completion = await openai.chat.completions.create({
-    messages: [{ role: "system", content: combinedText }],
-    model: "gpt-3.5-turbo",
-  });
-  console.log(completion.data.choices[0].text);
+  //combine the prompt with the privacy policy segment
+  const combinedText = `${promptText}\n\n${privacyPolicySegment}`;
+  try {
+    const completion = await openai.chat.completions.create({
+      messages: [{ role: "system", content: combinedText }],
+      model: "gpt-3.5-turbo",
+    });
+    console.log(completion.choices[0]);
+  } catch (e) {
+    console.log("Failed with error", e);
+  }
 }
+
+// ====== TESTING
+const privacyPolicyFirst = fs.readFileSync("splitTerms/linkedin/linkedin_segment_1.txt");
+callOpenAIWithSplitText(privacyPolicyFirst);
+// =========
