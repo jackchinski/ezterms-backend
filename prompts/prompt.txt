@@ -1,4 +1,4 @@
-export const initialPrompt = `Hi, there I would like you to categorize clauses into 3 categories from a terms and conditions agreement based on the following 3 criteria: 
+Hi, there I would like you to categorize clauses into 3 categories from a terms and conditions agreement based on the following 3 criteria: 
 Danger:
 anything to do with keeping track of your your location
 too much data collection
@@ -41,4 +41,5 @@ Please respond in the following format:
 “Other”: {“do the same as in danger”}
 }
 }
-`
+
+If no clauses are present, please just return an empty object of the following format.
