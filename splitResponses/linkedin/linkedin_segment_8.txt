@@ -1,0 +1,28 @@
+{"Danger": [
+    {"InfringementKeyword": "Use Members’ data", 
+     "Summary":"This clause shows that the platform, LinkedIn, reserves the right to use its members' data and content to drive engagement and invite more individuals to the service", 
+     "ClauseSection": "Advertising our Services"},
+    {"InfringementKeyword": "Work with trusted third parties", 
+     "Summary":"This clause indicates that LinkedIn might work with third party services in order to conduct its research. It could mean a potential sharing of user data", 
+     "ClauseSection": "Other Research"},
+    {"InfringementKeyword": "Data for security, fraud prevention", 
+     "Summary":"Your data including personal communications may be used for security purposes and to investigate possible contractual violations", 
+     "ClauseSection": "Security and Investigations"},
+    {"InfringementKeyword": "Data that you include on your profile", 
+     "Summary":"The clause suggests LinkedIn allows your data, such as profile information and content, to be fully visible to everyone on the platform and potentially visible to third party search engines", 
+     "ClauseSection": "Our Services"}
+], 
+"Caution": [
+    {"InfringementKeyword": "Your profile is fully visible", 
+     "Summary":"LinkedIn makes your profile publicly visible to all users and customers, potentially even off the platform depending on your settings", 
+     "ClauseSection": "Profile"}
+], 
+"Safe": [], 
+"Other": [
+    {"InfringementKeyword": "We use data to help you", 
+     "Summary":"The service uses data to solve problems and improve user experience", 
+     "ClauseSection": "Customer Support"},
+    {"InfringementKeyword": "Generate insights that do not identify you", 
+     "Summary":"Data is used to generate general statistics which don't personally identify the user", 
+     "ClauseSection": "Insights That Do Not Identify You"}
+]}

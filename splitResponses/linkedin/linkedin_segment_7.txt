@@ -1,0 +1,13 @@
+{"Danger": [{"InfringementKeyword": "Data Collection & Data Sharing", "Summary": "LinkedIn targets ads by collecting data from various sources such as profile info, use of services, etc., and by using inferred information. They share hashed IDs or device identifiers with advertising partners.", "ClauseSection": "Section 1.3 Ad Choices"}], 
+
+"Caution": [{"InfringementKeyword": "Targeted ads & Data Use", "Summary": "The clause details different data LinkedIn uses for targeted advertising, and this data includes device data as well as inferred information from your profile. This brings up potential privacy concerns.", "ClauseSection": "Section 1.3 Ad Choices"}],
+
+"Safe": [
+
+], 
+
+"Other": [
+{"InfringementKeyword": "Interest-Based Advertising", "Summary": "LinkedIn adheres to self-regulatory principles for interest-based ads and provides the option to opt-out from such ads. This does not entirely remove ads but makes them less relevant.", "ClauseSection": "Section 1.3 Ad Choices"}
+]}
+
+Note: There were no clauses that fit into the "Safe" category.

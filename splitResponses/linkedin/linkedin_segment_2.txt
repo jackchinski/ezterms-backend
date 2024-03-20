@@ -1,0 +1,14 @@
+{"Danger": [
+{"InfringementKeyword": "Data Collection", "Summary": "LinkedIn can collect personal data when you provide, post or upload it to the platform, such as filling out forms, responding to surveys or submitting resumes. The broad nature of data collection can raise privacy issues.", "ClauseSection": "Posting and Uploading"},
+{"InfringementKeyword": "Third Party Data Sharing", "Summary": "LinkedIn can receive data about you when you use the services of partners, related companies. LinkedIn may potentially have access to sensitive data and pass it onto third parties.", "ClauseSection": "Partners, Related Companies and Other Services"},
+{"InfringementKeyword": "Data Collection", "Summary": "LinkedIn collects data from syncing your address book or calendar. There might be excess data collection that is beyond the scope of the application.", "ClauseSection": "Profile, Posting and Uploading"}
+],
+"Caution": [
+{"InfringementKeyword": "Data Storage", "Summary": "LinkedIn collects and stores contact and calendar information. The data is stored and could be used for targeted ads.", "ClauseSection": "Contact and Calendar Information"},
+{"InfringementKeyword": "Data Use", "Summary": "LinkedIn uses data from your profile to help recruiters and business opportunities find you, which could lead to unwanted solicitations.", "ClauseSection": "Profile"},
+{"InfringementKeyword": "Public information", "Summary": "LinkedIn may collect public information about you and make it available on their Service, which could include personal details you may not wish to share.", "ClauseSection": "Content and News"}
+],
+"Safe": [
+{"InfringementKeyword": "User Control", "Summary": "Users have choices about the information on their profile, including the option to not provide additional information or to not post or upload personal data.", "ClauseSection": "Profile, Posting and Uploading"}
+], 
+"Other": []}

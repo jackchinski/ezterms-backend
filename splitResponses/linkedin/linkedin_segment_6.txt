@@ -1,0 +1,7 @@
+{"Danger": [{"InfringementKeyword": "data collection", "Summary": "LinkedIn will use your data to suggest jobs to you and recruiters. This means LinkedIn is collecting data based on your job preferences and potentially personal characteristics.", "ClauseSection": "Productivity"}, {"InfringementKeyword": "data selling and sharing", "Summary": "LinkedIn will export limited information from your profile to its premium services customers for managing sales leads or talent. However, they will not provide contact information without user's consent. The data stored by these customers is subject to the policies of those customers.", "ClauseSection": "Premium Services"}], 
+
+"Caution": [{"InfringementKeyword": "tailored ads", "Summary": "LinkedIn will serve you tailored ads based on your data and activity. While you have the option to choose personalized ads, completely opting out of ads is not possible.", "ClauseSection": "Advertising"}, {"InfringementKeyword": "data usage", "Summary": "LinkedIn uses automatic systems to provide relevant content and recommendations, suggesting that they analyze the data you provide to improve their services.", "ClauseSection": "Productivity"}], 
+
+"Safe": [{"InfringementKeyword": "communication control", "Summary": "LinkedIn offers settings to control what messages you receive and how frequently you do. However, you cannot opt out of receiving service-related messages, like security and legal notices.", "ClauseSection": "Communications"}], 
+
+"Other": []}

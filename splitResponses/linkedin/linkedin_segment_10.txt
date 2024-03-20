@@ -1,0 +1,10 @@
+{"Danger": [{"InfringementKeyword": "Data sharing", "Summary": "Your data will be shared across LinkedIn services and affiliates potentially including personal data. This could put your information at risk if not properly protected or mishandled.", "ClauseSection": "3.4 Related Services"},
+{"InfringementKeyword": "Third parties access", "Summary": "Your data may be made available to other services that you link your LinkedIn account to. The privacy practices of these external services could be different from LinkedIn and could expose your information to greater risks.", "ClauseSection": "3.3 Others’ Services"},
+{"InfringementKeyword": "Allocation to service providers", "Summary": "Third-party service providers that help LinkedIn operate its services will have access to your data. There's risk of your information not being appropriately protected or misused.", "ClauseSection": "3.5 Service Providers"}], 
+
+"Caution": [{"InfringementKeyword": "Communication Archival", "Summary": "Certain LinkedIn members or their employers need to archive communications within their professional capacity. This could lead to your messages being stored outside of LinkedIn's services, potentially affecting your privacy rights.", "ClauseSection": "3.2 Communication Archival"},
+{"InfringementKeyword": "Old profile information", "Summary": "Old profile information may stay on other services until they update their cache, even after updating your profile. That means outdated information could still be accessible to others.", "ClauseSection": "3.3 Others’ Services"}], 
+
+"Safe": [], 
+
+"Other": [{"InfringementKeyword": "Legal Disclosures", "Summary": "LinkedIn may share your data when required by law or to protect rights and safety. While this clause doesn't necessarily put your information at risk, it's vital to remain aware of it.", "ClauseSection": "3.6 Legal Disclosures"}]}

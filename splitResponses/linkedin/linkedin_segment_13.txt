@@ -1,0 +1,20 @@
+{
+"Danger": [
+    {"InfringementKeyword": "Data breach", "Summary": "LinkedIn offers no guarantee against potential breaches of their data security, meaning your data might be accessed, disclosed, altered, or destroyed.", "ClauseSection": "5.1 Safety Center"}, 
+    {"InfringementKeyword": "Cross-border data transfer","Summary": "LinkedIn stores and uses your data outside your country, potentially in countries with less stringent data protection laws.","ClauseSection": "5.2 Cross-Border Data Transfers"}
+],
+
+"Caution": [
+    {"InfringementKeyword": "Legitimate interests", "Summary": "LinkedIn can claim 'legitimate interests' when collecting and using your personal data, the specifics of which are not clearly defined.", "ClauseSection": "5.3 Lawful Bases for Processing"},
+    {"InfringementKeyword": "Dispute Resolution", "Summary": "LinkedIn has outlined a specific process for resolving complaints which may limit your options for legal action.", "ClauseSection": "5.5 Contact Information"}
+],
+
+"Safe": [
+    {"InfringementKeyword": "Data Consent", "Summary": "You can withdraw your data consent at any time through the settings.", "ClauseSection": "5.3 Lawful Bases for Processing"},
+    {"InfringementKeyword": "Direct Marketing", "Summary": "LinkedIn does not currently share personal data with third parties for direct marketing without your permission.", "ClauseSection": "5.4 Direct Marketing and Do Not Track Signals"},
+    {"InfringementKeyword": "Two-factor authentication", "Summary": "LinkedIn offers two-factor authentication as part of their safety mechanism.", "ClauseSection": "5.1 Safety Center"},
+    {"InfringementKeyword": "Data Protection Officer", "Summary": "LinkedIn has a dedicated data protection officer you can contact for questions regarding your personal data.", "ClauseSection": "5.3 Lawful Bases for Processing"}
+],
+
+"Other": []
+}

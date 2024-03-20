@@ -1,0 +1,17 @@
+{"Danger": [], 
+ "Caution": 
+   [{"InfringementKeyword": "Account Closure", 
+    "Summary": "LinkedIn retains some user data even after account closure, which could include personal data for legal obligations, disputes, security, and more. User data might remain visible even after account deletion.", 
+    "ClauseSection": "4.3 Account Closure"}, 
+   {"InfringementKeyword": "Security", 
+    "Summary": "While LinkedIn claims to maintain security measures, they cannot ensure complete data security. User information is the responsibility of the user to protect.", 
+    "ClauseSection": "5.1. Security"}], 
+ "Safe": 
+   [{"InfringementKeyword": "Control Of Personal Data", 
+    "Summary": "LinkedIn provides users with the function to manage, modify, or delete their personal data. It includes options for users to limit the use of their data. They also inform the individual's right to access their data.", 
+    "ClauseSection": "Personal Data Section"}], 
+ "Other": 
+   [{"InfringementKeyword": "Data Retention after Account Closure", 
+    "Summary": "LinkedIn may keep de-personalized information post-account closure. Certain content put out by closed accounts might remain visible.", 
+    "ClauseSection": "4.3 Account Closure"}]
+}
