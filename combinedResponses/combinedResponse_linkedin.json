@@ -1,0 +1,300 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "The clause states that personal data, including your name, email address, possibly mobile number and payment and billing information (for premium Services) are collected to create an account. This indicates a high level of data collection which can constitute a potential danger.",
+      "ClauseSection": "1. Data We Collect"
+    },
+    {
+      "InfringementKeyword": "Data sharing, communication archival",
+      "Summary": "LinkedIn allows regulated members to archive their communications and social media activity outside of LinkedIn. This could involve extensive data collection and sharing.",
+      "ClauseSection": "3.2 Communication Archival"
+    },
+    {
+      "InfringementKeyword": "Third-party data sharing",
+      "Summary": "LinkedIn allows linking your account to other platforms which exposes your personal data to them. Data sharing policies of third-party services apply, potentially involving exposure of personal information.",
+      "ClauseSection": "3.3 Others’ Services"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "LinkedIn shares user data across different LinkedIn services and affiliated entities. They may combine data to tailor their services, which means LinkedIn collects and processes substantial amount of user data.",
+      "ClauseSection": "3.4 Related Services"
+    },
+    {
+      "InfringementKeyword": "Data Access by service providers",
+      "Summary": "LinkedIn allows service providers to access user data as required to perform their tasks. There's potential danger if these providers don't responsibly handle user data.",
+      "ClauseSection": "3.5 Service Providers"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "LinkedIn may share your data either for legal reasons or in case of change in control or sale of the business. In such cases, your data will continue being used according to their Privacy Policy, unless you agree otherwise.",
+      "ClauseSection": "3. Legal and Safety, 3.7 Change in Control or Sale"
+    },
+    {
+      "InfringementKeyword": "Data Retention",
+      "Summary": "The platform keeps your personal data as long as your account is open or as needed to offer services. Some data may be retained in a depersonalized or aggregated form, even after you stop using the services.",
+      "ClauseSection": "4.1 Data Retention"
+    },
+    {
+      "InfringementKeyword": "Cross-Border Data Transfers",
+      "Summary": "LinkedIn stores and uses your data outside your country. This includes data processing both inside and outside of the United States. The country where data processing occurs may not have the same level of data protection as your own country.",
+      "ClauseSection": "5.2. Cross-Border Data Transfers"
+    },
+    {
+      "InfringementKeyword": "Breach of safeguards",
+      "Summary": "There is no guarantee that your data may not be accessed, disclosed, altered, or destroyed due to a breach of physical, technical, or managerial safeguards LinkedIn has in place.",
+      "ClauseSection": "5.1. Data Breach"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "LinkedIn collects large amounts of data when you fill out forms and post or upload content to the platform. Also, additional data is gathered when you sync your address book or calendar.",
+      "ClauseSection": "Posting and Uploading"
+    },
+    {
+      "InfringementKeyword": "Data From Others",
+      "Summary": "LinkedIn collects data about you from others, including when others import or sync their contacts or calendar with the platform, associate their contacts with member profiles, or send messages using the platform.",
+      "ClauseSection": "Contact and Calendar Information"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "LinkedIn shares your personal data like job title and work email address when you use the services of LinkedIn's customers and partners.",
+      "ClauseSection": "Partners"
+    },
+    {
+      "InfringementKeyword": "location tracking",
+      "Summary": "The service tracks your location data based on your phone settings and may use GPS to identify your precise location if you opt-in.",
+      "ClauseSection": "1.5 Your Device and Location"
+    },
+    {
+      "InfringementKeyword": "data collection",
+      "Summary": "The service logs your visits and use, collects information about your clicks, searches, app installations and updates. It also collects data through cookies identifying you and your device.",
+      "ClauseSection": "1.3 Service Use and 1.4 Cookies and Similar Technologies"
+    },
+    {
+      "InfringementKeyword": "data sharing",
+      "Summary": "Data about your device is collected even where you have not engaged with the Service, potentially for ad-targeting purposes. Also, other entities are allowed to use cookies, suggesting third-party data sharing.",
+      "ClauseSection": "1.4 Cookies and Similar Technologies"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Data Sharing, Personal Data Usage",
+      "Summary": "In this clause, LinkedIn mentions it receives data when you visit other sites including their own ads, cookies or plugins or when you use your LinkedIn account to log in to other services. They also mention about getting new data and discovering new ways to use data as they improve their Services.",
+      "ClauseSection": "1.8 Sites and Services of Others & 1.9 Other"
+    },
+    {
+      "InfringementKeyword": "Use of Personal Data, Targeted Ads",
+      "Summary": "LinkedIn states they use the data they have about users to provide and personalize their Services, with the collaboration of automated systems and inferences. The intent is to make their services and ads more relevant to users.",
+      "ClauseSection": "2. How We Use Your Data"
+    },
+    {
+      "InfringementKeyword": "Location data, Data Collection",
+      "Summary": "LinkedIn uses and provides your data such as profile and data provided to suggest connections and enable you to invite others. This includes using your precise location or proximity to others which can pose a risk for privacy. This is found under how they use members' data to suggest other nearby members, calculate commute, and notify connections.",
+      "ClauseSection": "Member Data Usage"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "By sending an invitation to someone to become a connection or member, the user agrees to share their basic profile and network information, which could be shared with third parties.",
+      "ClauseSection": "Invitation to Others"
+    },
+    {
+      "InfringementKeyword": "Data use for recommendations",
+      "Summary": "LinkedIn uses user data to recommend jobs and to make the Service more relevant. This involves data collection and profiling.",
+      "ClauseSection": "Productivity section"
+    },
+    {
+      "InfringementKeyword": "Data linking for premium services",
+      "Summary": "In the premium services, customers can store information about the user. The data is subject to the customers' policies, potentially allowing third-party access to user data.",
+      "ClauseSection": "2.2 Premium Services"
+    },
+    {
+      "InfringementKeyword": "Data collection, data sharing, location tracking, data use",
+      "Summary": "This clause suggests that LinkedIn collects your data from your use of the services and your provided information to target ads. It even infers extra information from the data provided such as age, gender, industry, seniority and compensation bracket. Furthermore, your actions on the LinkedIn Services can be associated with your name and viewable by others, including the advertiser. LinkedIn also shares hashed IDs or device identifiers with third-party advertisers, potentially revealing your location and habits to them. By using the service LinkedIn also get permission to share data already visible to any users.",
+      "ClauseSection": "Sections 1.3 and 2.5"
+    },
+    {
+      "InfringementKeyword": "Data usage for service development and surveys",
+      "Summary": "LinkedIn uses data collected from users for the development of its services and conducting research. This is potentially harmful as it involves data sharing with third parties, which could lead to privacy issues if not adequately managed.",
+      "ClauseSection": "2.6 Developing Services and Research"
+    },
+    {
+      "InfringementKeyword": "Public profile visibility",
+      "Summary": "Your profile is fully visible to all members and customers of LinkedIn, and, subject to your settings, to others on or off of LinkedIn. This raises privacy concerns as your data can be viewed by external parties.",
+      "ClauseSection": "3. How We Share Information"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "Your personal data may be shared depending on usage of the service. This can include posts, likes, follows, and comments which are all visible to other users.",
+      "ClauseSection": "Posts, Likes, Follows, Comments, Messages"
+    },
+    {
+      "InfringementKeyword": "Data collection",
+      "Summary": "LinkedIn collects data about how you use its Services, including job searches, posts, likes, and who you are connected with.",
+      "ClauseSection": "Enterprise Accounts"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Legal Disclosures",
+      "Summary": "LinkedIn may share user data when they believe it is required by law or to protect rights and safety. User data might be exposed without the user's knowledge or agreement.",
+      "ClauseSection": "3.6 Legal Disclosures"
+    },
+    {
+      "InfringementKeyword": "Account Closure and Retention of Data",
+      "Summary": "The app keeps some of your data even after you close your account. It holds on to your personal data if needed to comply with legal obligations, meet regulatory requirements, resolve disputes, maintain security etc. It also keeps depersonalized information once your account has been closed. Information you shared with others will remain visible after you close your account, and the company does not control data that other members have copied out of their services.",
+      "ClauseSection": "4.3 Account Closure"
+    },
+    {
+      "InfringementKeyword": "Lawful Bases for Processing",
+      "Summary": "LinkedIn has the right to collect, use and share data about you based on lawful bases. This includes consent (which you can withdraw at any time), contract, and “legitimate interests.” The specific 'legitimate interests' are not detailed.",
+      "ClauseSection": "5.3 Lawful Bases for Processing"
+    },
+    {
+      "InfringementKeyword": "Data Usage",
+      "Summary": "LinkedIn uses the collected data to create targeted suggestions for connections and events.",
+      "ClauseSection": "Posting and Uploading"
+    },
+    {
+      "InfringementKeyword": "Data Storage",
+      "Summary": "LinkedIn stores data from your contacts and calendars for suggesting connections and providing information about events.",
+      "ClauseSection": "Posting and Uploading"
+    },
+    {
+      "InfringementKeyword": "Personalized Content",
+      "Summary": "LinkedIn uses your public information to create personalized content notifications to others about your mentions in the news",
+      "ClauseSection": "Content and News"
+    },
+    {
+      "InfringementKeyword": "data usage for targeted ads",
+      "Summary": "Your data is used for providing relevant ads and understanding their effectiveness. There is also an existence of data tracking on the sites of others for ad-targeting and other ad-related purposes.",
+      "ClauseSection": "1.4 Cookies and Similar Technologies"
+    },
+    {
+      "InfringementKeyword": "Data from other sources, use of personal data",
+      "Summary": "Data is collected about the user when their organization buys a premium Service for them. Moreover, other data is gathered from sites that include LinkedIn's ads, cookies or their plugins. User's data is used to personalize and develop the Services.",
+      "ClauseSection": "1.7 Workplace and School Provided Information"
+    },
+    {
+      "InfringementKeyword": "Personalized Content",
+      "Summary": "LinkedIn uses the data provided by the user and collected from their engagement with their services to personalize their services. The data usage extends to recommending or ranking relevant content, suggesting certain members to follow or suggesting related learning content based on the user's interests.",
+      "ClauseSection": "Personalization"
+    },
+    {
+      "InfringementKeyword": "Limited control over communications",
+      "Summary": "While users have the option to control what and how often they receive some types of messages, they are not given the option of opting out of receiving service messages including legal and security notices.",
+      "ClauseSection": "2.3 Communications"
+    },
+    {
+      "InfringementKeyword": "No opt-out for Ads",
+      "Summary": "While LinkedIn offers options regarding personalized ads, there is no option to opt-out of seeing ads altogether.",
+      "ClauseSection": "2.4 Advertising"
+    },
+    {
+      "InfringementKeyword": "Specific permission, unspecific opt-out",
+      "Summary": "The clause indicates that LinkedIn requires your separate permission (e.g., in a lead generation form) for sharing your personal data and gives a vaguely defined opt-out opportunity for this. This is slightly problematic as it puts the responsibility of securing privacy on the user rather than the organization.",
+      "ClauseSection": "Sections 1.3 and 2.5"
+    },
+    {
+      "InfringementKeyword": "Data usage for ad impressions and workforce insights",
+      "Summary": "LinkedIn uses data to generate statistics for targeted ads and to create demographic workforce insights. This is a caution as it could lead to personalized ad targeting despite anonymization of your data.",
+      "ClauseSection": "2.8 Insights That Do Not Identify You"
+    },
+    {
+      "InfringementKeyword": "Termination of Account",
+      "Summary": "Your employer can review and manage your use of LinkedIn's enterprise Services. This can include sales and recruiting efforts, and your interaction with advertising campaigns.",
+      "ClauseSection": "Enterprise Accounts"
+    }
+  ],
+  "Safe": [
+    {
+      "InfringementKeyword": "User Control of Personal Data",
+      "Summary": "LinkedIn provides options for users to control how their data is collected, used, and shared. You can access or delete your personal data, and they offer settings to manage the personal data they have about you.",
+      "ClauseSection": "4.2 Rights to Access and Control Your Personal Data"
+    },
+    {
+      "InfringementKeyword": "Data Control",
+      "Summary": "Gives users the opportunity to erase, change, correct, object to, or limit/restrict use of their data. Users can also request a copy of their personal data.",
+      "ClauseSection": "Personal Data Control"
+    },
+    {
+      "InfringementKeyword": "Security Safeguards",
+      "Summary": "The platform safeguards data using protocols like HTTPS, and it regularly monitors the systems for potential vulnerabilities and attacks.",
+      "ClauseSection": "5.1 Security"
+    },
+    {
+      "InfringementKeyword": "Direct Marketing and Do Not Track Signals",
+      "Summary": "Currently, LinkedIn does not share personal data with third parties for their direct marketing purposes without your permission.",
+      "ClauseSection": "5.4. Direct Marketing and Do Not Track Signals"
+    },
+    {
+      "InfringementKeyword": "Right to object and withdraw consent",
+      "Summary": "LinkedIn provides you with the right to withdraw or decline your consent to process personal data at any time. You also have the right to object when LinkedIn relies on its 'legitimate interests' to process your data.",
+      "ClauseSection": "5.3 Lawful Bases for Processing"
+    },
+    {
+      "InfringementKeyword": "Control over the Profile",
+      "Summary": "LinkedIn provides users with the choice to decide what information to share on their profiles. Users can also opt not to add personal data to their profiles that they wouldn't want to be publicly available.",
+      "ClauseSection": "Profile"
+    },
+    {
+      "InfringementKeyword": "",
+      "Summary": "",
+      "ClauseSection": ""
+    },
+    {
+      "InfringementKeyword": "User Control, Updating terms and conditions",
+      "Summary": "LinkedIn mentions that they honor user's settings and control while providing access to the services. Additionally, if they collect significantly different personal data or greatly change how they gather, use or share your data, they will notify the users and may also modify the terms of their Privacy Policy.",
+      "ClauseSection": "1.9 Other & 2. How We Use Your Data"
+    },
+    {
+      "InfringementKeyword": "Profile accuracy",
+      "Summary": "User controls how accurate and up-to-date their profile is, keeping ultimate control over some of their data.",
+      "ClauseSection": "Productivity section"
+    },
+    {
+      "InfringementKeyword": "Security and investigations",
+      "Summary": "LinkedIn uses user data for security purposes, or to prevent or investigate possible fraud. This can be seen as safe as it shows LinkedIn's dedication to maintain the integrity and safety of its service.",
+      "ClauseSection": "2.9 Security and Investigations"
+    }
+  ],
+  "Other": [
+    {
+      "InfringementKeyword": "Privacy Policy",
+      "Summary": "This clause explains the application of the privacy policy over various LinkedIn services. It also mentions that changes to the policy will be notified and if the user continues to use the services post modification, it will be considered as acceptance of the updated policy.",
+      "ClauseSection": "Introduction"
+    },
+    {
+      "InfringementKeyword": "Affiliates",
+      "Summary": "Data is shared to Microsoft and other affiliated services.",
+      "ClauseSection": "Related Companies and Other Services"
+    },
+    {
+      "InfringementKeyword": "messages tracking",
+      "Summary": "Your messages sent, received, or engaged with in connection with the Service are monitored. The service also uses automatic scanning technology on messages to provide support and protect its site.",
+      "ClauseSection": "1.6 Messages"
+    },
+    {
+      "InfringementKeyword": "Contact info sharing",
+      "Summary": "You have the choice to share your contact information from Microsoft apps for improved professional networking activities.",
+      "ClauseSection": "Before 1.3 Service Use"
+    },
+    {
+      "InfringementKeyword": "Career Services",
+      "Summary": "LinkedIn services allow for exploration of careers, evaluation of educational opportunities, and scouting for career opportunities. This could be useful for users seeking career advancements or changes.",
+      "ClauseSection": "Career"
+    },
+    {
+      "InfringementKeyword": "Member's social actions",
+      "Summary": "Any content posted or social action taken on LinkedIn will be seen by others. This element is neither safe nor dangerous, as it's somewhat expected behaviour on social media platforms.",
+      "ClauseSection": "3.1 Our Services"
+    },
+    {
+      "InfringementKeyword": "Visibility",
+      "Summary": "Your profile visibility is determined by various factors including your settings, degree of connection with the viewing Member, subscriptions, service usage, access channels and search types.",
+      "ClauseSection": "Posts, Likes, Follows, Comments, Messages"
+    },
+    {
+      "InfringementKeyword": "Publicly shared content",
+      "Summary": "Content shared publicly can be found by others including your name and photo. However, you have control over this in your settings.",
+      "ClauseSection": "Posts, Likes, Follows, Comments, Messages"
+    }
+  ]
+}
