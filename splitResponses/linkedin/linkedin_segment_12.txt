@@ -1,17 +1,1 @@
-{"Danger": [], 
- "Caution": 
-   [{"InfringementKeyword": "Account Closure", 
-    "Summary": "LinkedIn retains some user data even after account closure, which could include personal data for legal obligations, disputes, security, and more. User data might remain visible even after account deletion.", 
-    "ClauseSection": "4.3 Account Closure"}, 
-   {"InfringementKeyword": "Security", 
-    "Summary": "While LinkedIn claims to maintain security measures, they cannot ensure complete data security. User information is the responsibility of the user to protect.", 
-    "ClauseSection": "5.1. Security"}], 
- "Safe": 
-   [{"InfringementKeyword": "Control Of Personal Data", 
-    "Summary": "LinkedIn provides users with the function to manage, modify, or delete their personal data. It includes options for users to limit the use of their data. They also inform the individual's right to access their data.", 
-    "ClauseSection": "Personal Data Section"}], 
- "Other": 
-   [{"InfringementKeyword": "Data Retention after Account Closure", 
-    "Summary": "LinkedIn may keep de-personalized information post-account closure. Certain content put out by closed accounts might remain visible.", 
-    "ClauseSection": "4.3 Account Closure"}]
-}
+{"Danger": [], "Caution": [{"InfringementKeyword": "Account Closure and Retention of Data", "Summary": "The app keeps some of your data even after you close your account. It holds on to your personal data if needed to comply with legal obligations, meet regulatory requirements, resolve disputes, maintain security etc. It also keeps depersonalized information once your account has been closed. Information you shared with others will remain visible after you close your account, and the company does not control data that other members have copied out of their services.", "ClauseSection": "4.3 Account Closure"}], "Safe": [{"InfringementKeyword": "Data Control", "Summary": "Gives users the opportunity to erase, change, correct, object to, or limit/restrict use of their data. Users can also request a copy of their personal data.", "ClauseSection": "Personal Data Control"}, {"InfringementKeyword":"Security Safeguards","Summary":"The platform safeguards data using protocols like HTTPS, and it regularly monitors the systems for potential vulnerabilities and attacks.","ClauseSection":"5.1 Security"}], "Other": []}

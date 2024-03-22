@@ -27,4 +27,5 @@ Anything that you feel like does not fit into the following 3 Criteria, put into
 The name of this application is: LinkedIn
 
 Please respond in the format of a JSON object, but contains the following categories for each clause you have classified, if no clauses are found, please return an empty object with the categories, "danger", "caution", "safe" and "other" but empty. 
+Only use double quotes, so that I can parse the response please. 
 {"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safe": [{"InfringementKeyword": "Do the same as in danger"}], "Other": [{"InfringementKeyword": "Do the same as in danger"}]}

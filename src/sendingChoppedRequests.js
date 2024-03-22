@@ -54,6 +54,7 @@ async function processCompanyTerms(companyName) {
       } catch (error) {
         console.error(`Error processing file: ${file}`, error);
       }
+      console.log(`${filePath} COMPLETE`);
     }
   } catch (e) {
     console.error("Error reading directory or file: ", e);

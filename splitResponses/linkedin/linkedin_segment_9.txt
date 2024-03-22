@@ -1,7 +1,12 @@
-{"Danger": [{"InfringementKeyword": "Data Availability, Usage Tracking", "Summary": "The clause explains that LinkedIn monitors the usage of its services and adjusts the availability of your profile and what others can see based on your settings, connections, and the other LinkedIn users' subscriptions and activity. This could be considered an invasion of privacy.", "ClauseSection": "Profile and Data Availability and Usage Tracking"}, {"InfringementKeyword": "Data Sharing, Content Visibility", "Summary": "LinkedIn shares the content that you make public, including your profile information like your name and photo. This public content can be found and seen by any LinkedIn users and can be reshared anywhere.", "ClauseSection": "Content Sharing and Public Visibility"}, {"InfringementKeyword": "Job Searches and Personal Messages", "Summary": "LinkedIn tracks users' job searches and personal messages but notes that this information is not shared with employers.", "ClauseSection": "Enterprise Accounts and Data Tracking"}], 
-
-"Caution": [{"InfringementKeyword": "Employer Oversight, Data Sharing", "Summary": "Employees whose employers offer access to LinkedIn enterprise services like LinkedIn Learning or Recruiter could be subject to review and management of their usage by their employer. Relevant data from your LinkedIn profile or other non-enterprise usage could also be shared with your employer.", "ClauseSection": "Enterprise Accounts and Employer Oversight"}], 
-
-"Safe": [], 
-
-"Other": [{"InfringementKeyword": "Data Sharing, Employer Access", "Summary": "LinkedIn offers the ability to use workplace tools and services like employee directory tools. Your usage of these tools and services might result in data sharing with your employer as well as the combination of your data with information received from the employer.", "ClauseSection": "Workplace Tools and Services"}]}
+{"Danger": [
+{"InfringementKeyword": "Data sharing", "Summary": "Your personal data may be shared depending on usage of the service. This can include posts, likes, follows, and comments which are all visible to other users.", "ClauseSection": "Posts, Likes, Follows, Comments, Messages"},
+{"InfringementKeyword": "Data collection", "Summary": "LinkedIn collects data about how you use its Services, including job searches, posts, likes, and who you are connected with.", "ClauseSection": "Enterprise Accounts"}
+], 
+"Caution": [
+{"InfringementKeyword": "Termination of Account", "Summary": "Your employer can review and manage your use of LinkedIn's enterprise Services. This can include sales and recruiting efforts, and your interaction with advertising campaigns.",  "ClauseSection": "Enterprise Accounts"}
+],
+"Safe": [],
+"Other": [
+{"InfringementKeyword": "Visibility", "Summary": "Your profile visibility is determined by various factors including your settings, degree of connection with the viewing Member, subscriptions, service usage, access channels and search types.",  "ClauseSection": "Posts, Likes, Follows, Comments, Messages"}, 
+{"InfringementKeyword": "Publicly shared content", "Summary": "Content shared publicly can be found by others including your name and photo. However, you have control over this in your settings.", "ClauseSection": "Posts, Likes, Follows, Comments, Messages"}
+]}

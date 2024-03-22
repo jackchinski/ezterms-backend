@@ -1,14 +1,7 @@
-{"Danger": [
-  {"InfringementKeyword": "Data collection, Location tracking", "Summary": "LinkedIn uses your data such as profile and the profiles you have viewed to suggest connections for you and others. It also allows use of your precise location to suggest nearby members to connect with, calculate commute to a job or notify your connections that you are at a professional event.", "ClauseSection": "1st clause"},
-  {"InfringementKeyword": "Data sharing", "Summary": "When you invite someone to connect with you, your invitation will include your network and basic profile information", "ClauseSection": "1st clause"},
-  {"InfringementKeyword": "Data collection, Personalized content", "Summary": "LinkedIn uses the data it has about you to personalize it services for you, including recommending or ranking relevant content and conversations. Also recommends skills you could add to your profile or might need to pursue next opportunity.", "ClauseSection": "2nd clause"}
-], 
-"Caution": [
-  {"InfringementKeyword": "Data stored in another location", "Summary": "Your precise location data can be used for certain tasks such as calculating commute to a job or suggesting nearby members.", "ClauseSection": "1st clause"}
-], 
-"Safe": [
-  {"InfringementKeyword": "User Control", "Summary": "You are given the control whether or not to share your own list of connections with your connections.", "ClauseSection": "1st clause"}
-], 
-"Other": [
-  {"InfringementKeyword": "Professional growth", "Summary": "LinkedIn uses your data to suggest possible professional contacts who work in similar industry, function or location, or have certain skills and connections.", "ClauseSection": "3rd clause"}
-]}
+{"Danger": [{"InfringementKeyword": "Location data, Data Collection", "Summary": "LinkedIn uses and provides your data such as profile and data provided to suggest connections and enable you to invite others. This includes using your precise location or proximity to others which can pose a risk for privacy. This is found under how they use members' data to suggest other nearby members, calculate commute, and notify connections.", "ClauseSection": "Member Data Usage" }, {"InfringementKeyword": "Data Sharing", "Summary": "By sending an invitation to someone to become a connection or member, the user agrees to share their basic profile and network information, which could be shared with third parties.", "ClauseSection": "Invitation to Others"}], 
+
+"Caution": [{"InfringementKeyword": "Personalized Content", "Summary": "LinkedIn uses the data provided by the user and collected from their engagement with their services to personalize their services. The data usage extends to recommending or ranking relevant content, suggesting certain members to follow or suggesting related learning content based on the user's interests.", "ClauseSection": "Personalization"}], 
+
+"Safe": [], 
+
+"Other": [{"InfringementKeyword": "Career Services", "Summary": "LinkedIn services allow for exploration of careers, evaluation of educational opportunities, and scouting for career opportunities. This could be useful for users seeking career advancements or changes.", "ClauseSection": "Career"}] }
