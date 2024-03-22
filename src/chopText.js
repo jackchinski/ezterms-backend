@@ -1,6 +1,14 @@
 import fs from "fs";
 import path from "path";
 
+/*
+   === BEFORE RUNNING === 
+    1. MAKE SURE you pass the company name, and it matches the original .txt file in the folder with all the t&c files
+    2. That the directory with the <companyName> directory does NOT exist yet 
+    3. input AND output paths are correct, test using sampleText.txt and write like SAMPLEOUTPUT.txt
+    4. finally call runSplitter() to run 
+ */
+
 // read text from file
 function readTextFromFile(filePath) {
   return fs.readFileSync(filePath, "utf8");
@@ -11,20 +19,8 @@ function writeSegmentToFile(segment, index, outputDirectory, companyName) {
   const fileName = `${companyName}_segment_${index + 1}.txt`;
   const filePath = path.join(outputDirectory, fileName);
   fs.writeFileSync(filePath, segment, "utf8");
+  console.log(`Wrote Segment ${index} for ${companyName}`);
 }
-
-// split the text
-// function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".", companyName) {
-//   const words = text.split(/\s+/);
-//   let segmentIndex = 0;
-
-//   for (let i = 0; i < words.length; i += wordsPerSegment) {
-//     const segmentWords = words.slice(i, i + wordsPerSegment);
-//     const segmentText = segmentWords.join(" ");
-//     writeSegmentToFile(segmentText, segmentIndex, outputDirectory, companyName);
-//     segmentIndex++;
-//   }
-// }
 
 function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".", companyName) {
   // common sentence endings that will or will not be split by
@@ -56,20 +52,22 @@ function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".
     const segmentText = currentSegment.join(" ").trim();
     writeSegmentToFile(segmentText, segmentIndex, outputDirectory, companyName);
   }
+  console.log(`SPLITTER: Finished splitting the text into: ${segmentIndex} segments`);
 }
 
-/*
-   === BEFORE RUNNING === 
-    1. MAKE SURE you pass the company name, and it matches the original .txt file in the folder with all the t&c files
-    2. That the directory with the <companyName> directory does NOT exist yet 
-    3. input AND output paths are correct, test using sampleText.txt and write like SAMPLEOUTPUT.txt
- */
-function runSplitter(companyName) {
-  fs.mkdirSync(`splitTerms/${companyName}`);
-  const inputFilePath = `sampleTerms/${companyName}.txt`;
-  const outputDirectory = `splitTerms/${companyName}/`;
-  const text = readTextFromFile(inputFilePath);
-  splitTextIntoSegments(text, 500, outputDirectory, companyName);
+export function runSplitter(companyName) {
+  try {
+    fs.mkdirSync(`splitTerms/${companyName}`);
+    console.log("SPLITTER: Output directory created");
+    const inputFilePath = `fullTermsAndConditions/${companyName}.txt`;
+    const outputDirectory = `splitTerms/${companyName}/`;
+    const text = readTextFromFile(inputFilePath);
+    console.log("SPLITTER: Text successfully read");
+    splitTextIntoSegments(text, 500, outputDirectory, companyName);
+  } catch (error) {
+    console.error("Run Splitter Error: ", error);
+  }
 }
 
-runSplitter("linkedin");
+// To test on a single file:
+// runSplitter("===enter company name here===");

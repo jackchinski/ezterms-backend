@@ -1,0 +1,14 @@
+{"Danger": [
+  {"InfringementKeyword": "Data Collection", "Summary": "Data collected for Services improvement, analytics, communication and research. Companies often collect data to improve their services and to measure their effectiveness. This can sometimes lead into the danger zone if not handled properly.", "ClauseSection": "https://bereal.com/en/privacy/ 4/8"},
+  {"InfringementKeyword": "Data Sharing", "Summary": "Personal data shared with employees, other users, service providers for delivering the service, and partner integration. Data sharing can lead to potential misuse if not controlled properly.", "ClauseSection": "https://bereal.com/en/privacy/ 4/8"},
+  {"InfringementKeyword": "Change in Ownership", "Summary": "Personal data may be shared, sold, or transferred in the event of a change in company ownership. This clause could potentially lead to misuse of user data in the hands of new ownership.", "ClauseSection": "https://bereal.com/en/privacy/ 5/8"}
+],
+"Caution": [
+  {"InfringementKeyword": "Legal and Statutory Purposes", "Summary": "Data is disclosed for legal and statutory purposes, which may or may not always be in the users' favor.", "ClauseSection": "https://bereal.com/en/privacy/ 5/8"}
+],
+"Safe": [
+  {"InfringementKeyword": "User Control over Research Participation", "Summary": "Consent is obtained from the user before including them in research or product testing, giving them the control over what they wish to share for research.", "ClauseSection": "https://bereal.com/en/privacy/ 4/8"}
+],
+"Other": [
+  {"InfringementKeyword": "Notification", "Summary": "Users are communicated regarding features and, questions or Content reporting. This is neither a risk nor a caution but more of standard communication protocol.", "ClauseSection": "https://bereal.com/en/privacy/ 4/8"}
+]}

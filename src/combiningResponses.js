@@ -8,7 +8,7 @@ let combinedObject = {
   Other: [],
 };
 
-async function combineJSONObjects(companyName) {
+export async function combineJSONObjects(companyName) {
   const directoryPath = `splitResponses/${companyName}/`;
 
   try {
@@ -34,4 +34,4 @@ async function combineJSONObjects(companyName) {
   }
 }
 
-combineJSONObjects("linkedin");
+// combineJSONObjects("linkedin");

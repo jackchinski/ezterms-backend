@@ -1,0 +1,7 @@
+{"Danger": [{"InfringementKeyword": "Data Sharing, Targeted Advertising", "Summary": "This clause relates to sharing your behavior information on and off Pinterest to advertisers, which might be considered as selling under some state privacy laws. While you can opt out, it still poses a risk.", "ClauseSection": "Sharing information with advertisers"}], 
+
+"Caution": [{"InfringementKeyword": "Opt Out, No prohibited content", "Summary": "The clause offers an opt-out for targeted advertising, selling or sharing. However, the user will still see ads that are not informed by off-site data.", "ClauseSection": "Opt out of targeted advertising"}], 
+
+"Safe": [{"InfringementKeyword": "Consent, Control, Access", "Summary": "Provides rights to individual users for access, correction, rectification, and deletion of their own data. Also, the user can withdraw consent at any time. This empowers users to have control over their data", "ClauseSection": "Your Rights and Choices"}], 
+
+"Other": []}

@@ -1,0 +1,7 @@
+{"Danger": [{"InfringementKeyword": "Data Collection", "Summary": "Collects information that you provide and through your use of the services. This includes profile photos, videos, RealMojis, captions, comments, messages or geolocation.", "ClauseSection": "1.1 Data that you provide to us"},{"InfringementKeyword": "Data Collection", "Summary": "Automatically receives information about you from your device and your usage of the service like IP address, account creation date, last login, terminal equipment and port.", "ClauseSection": "1.2 Data we collect when you use our Services"},{"InfringementKeyword": "Location Tracking", "Summary": "During account creation, you can decide to share your location with us too.", "ClauseSection": "1.1 Data that you provide to us"}], 
+
+"Caution": [],
+
+"Safe": [],
+
+"Other": [{"InfringementKeyword": "Account Creation", "Summary": "Mandatory account creation data includes phone number, name, date of birth, and username.", "ClauseSection": "1.1 Data that you provide to us"}]}

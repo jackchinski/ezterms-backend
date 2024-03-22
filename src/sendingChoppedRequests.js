@@ -13,16 +13,7 @@ function readPromptFromFile(filePath) {
 const promptFilePath = "prompts/prompt.txt";
 const promptText = readPromptFromFile(promptFilePath);
 
-// // ** this section to be refined still
-// let companyName = "linkedin"; // TODO: change for others
-// fs.mkdirSync(`splitResponses/${companyName}`);
-// const outputDirectory = `splitResponses/${companyName}`;
-// const openaiApiKey = process.env.OPENAI_API_KEY;
-// // ** end here refinement
-
 async function callOpenAIWithSplitText(privacyPolicySegment) {
-  //   const openai = new OpenAI(apiKey);
-
   //combine the prompt with the privacy policy segment
   const combinedText = `${promptText}\n\n${privacyPolicySegment}`;
   try {
@@ -32,13 +23,12 @@ async function callOpenAIWithSplitText(privacyPolicySegment) {
     });
     let categorizedTerms = completion.choices[0].message.content;
     return categorizedTerms;
-    // fs.writeFileSync("splitResponses/linkedin/linkedin_segment_4.txt", categorizedTerms, "utf-8");
   } catch (e) {
     console.log("Failed with error", e);
   }
 }
 
-async function processCompanyTerms(companyName) {
+export async function processCompanyTerms(companyName) {
   fs.mkdirSync(`splitResponses/${companyName}`); // create output path
   const inputDirectoryPath = `splitTerms/${companyName}/`; // input path for the split terms
 
@@ -61,9 +51,6 @@ async function processCompanyTerms(companyName) {
   }
 }
 
-// ====== TESTING
-// const privacyPolicyFirst = fs.readFileSync("splitTerms/linkedin/linkedin_segment_4.txt");
-// callOpenAIWithSplitText(privacyPolicyFirst);
+// ====== TESTING for single file
+// processCompanyTerms("linkedin");
 // =========
-
-processCompanyTerms("linkedin");

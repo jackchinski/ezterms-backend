@@ -1,0 +1,36 @@
+Interaction Data:
+friends, number of friends, friend invitations, reactions, comments you leave on Content
+shared by others, the friends with whom you interact the most, functional data related to
+comments or messages. Usage Data: actions performed, including use of RealMojis, time of posting, how many times
+you retook a photo before posting, number of late BeReal posts, Content viewed, Content
+
+2/1/24, 3:42 PM BeReal. Your Friends for Real. Privacy Policy
+
+https://bereal.com/en/privacy/ 3/8
+interactions, deletions, blocking, hiding, screenshotting, application crashes and event logs. Device and Equipment Data: device type, operating system version, language preference,
+and applications. We also receive data when you decide at your discretion to use certain features of our
+Services:
+Cameras and Photos Library: You can create an account without allowing us to access and
+collect data from your device’s camera or photo library. If you refuse to allow us this access,
+you will not be able to share or see Content on our Services. It’s a foundational part of how
+BeReal works. Geolocation Data: You can decide to share your location when you share Content through
+our Services. If you choose to share your location, depending on the feature, you can share
+your precise or approximate location. Address Book Data: You can decide to allow BeReal to access your address book to identify
+the friends in your Address Book who may already be on BeReal. We do not access your
+Address Book without your permission. If you decide to find your friends by giving us access
+to your Address Book, we hash the phone numbers in your Address Book (we don’t look at
+anything else), securely send those hashed phone numbers to our systems, compare those
+hashed numbers to the list of hashed phone numbers for other BeReal users, and return the
+username to you as a friend suggestion. Integrations with partners: When you decide to connect a partner application to use a
+specific integration on BeReal, we receive information that allows us to bring that feature to
+you. This will include all necessary device data, and other optional data that you may choose
+to share as part of the integration. 2. How we use information we receive about you
+We would not want anyone selling our information so we do not sell your information. We use
+your information carefully and thoughtfully to bring you our Services. Our Services are brought to you through a variety of software and technical infrastructure. Understanding how these systems work is complicated and they are constantly evolving as
+we improve our Services. Information is often used by multiple parts of the systems to bring
+you even just a small feature. As a general rule the use cases BeReal makes of the
+information we receive falls into the following categories:
+Operation, Improvement, and Provision of our Services: To create an account for you,
+receive and display Content, identify Content or accounts that may interest you, ensure our
+
+2/1/24, 3:42 PM BeReal. Your Friends for Real.

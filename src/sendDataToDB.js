@@ -12,7 +12,7 @@ const app = initializeApp({
 
 const db = getFirestore(app);
 
-async function sendJSONToFirebase(companyName) {
+export async function sendJSONToFirebase(companyName) {
   try {
     const combinedResponse = JSON.parse(fs.readFileSync(`combinedResponses/combinedResponse_${companyName}.json`));
 
@@ -23,11 +23,12 @@ async function sendJSONToFirebase(companyName) {
       Caution: combinedResponse["Caution"],
       Safe: combinedResponse["Safe"],
     });
+    console.log("SEND DATA TO DB: COMPLETE");
   } catch (error) {
     console.error("Error sending data to firestore:", error);
   }
 }
 
 // test
-const companyName = "linkedin";
-sendJSONToFirebase(companyName);
+// const companyName = "linkedin";
+// sendJSONToFirebase(companyName);
