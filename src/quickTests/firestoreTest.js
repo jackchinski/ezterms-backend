@@ -12,10 +12,13 @@ const app = initializeApp({
 
 const db = getFirestore(app);
 
-const docRef = db.collection("backend-test").doc("alovelace");
+const aTuringRef = db.collection("users").doc("aturing");
 
-await docRef.set({
-  first: "Ada",
-  last: "Lovelace",
-  born: 1815,
+await aTuringRef.set({
+  first: "Alan",
+  middle: "Mathison",
+  last: "Turing",
+  born: 1912,
 });
+
+
