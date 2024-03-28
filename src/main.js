@@ -28,4 +28,4 @@ async function main(companyName) {
   await sendJSONToFirebase(companyName);
 }
 
-main("pinterest").then(() => console.log("All processes completed successfully!"));
+main("amazon").then(() => console.log("All processes completed successfully!"));

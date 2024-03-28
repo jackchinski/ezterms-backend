@@ -1,0 +1,10 @@
+{"Danger": [{"InfringementKeyword": "Data sharing and selling", "Summary": "Amazon shares personal information with third parties as described including business transfers and providing services with third parties. These third parties including businesses which are acquired in the future may not necessarily adhere to similar privacy practices.", "ClauseSection": "Does Amazon Share Your Personal Information?"}, 
+{"InfringementKeyword": "Too much data collection", "Summary": "Amazon seeks consent to process your personal information but the specific purpose is not clearly stated. This may encompass a broader range of data collection than expected.", "ClauseSection": "Purposes for which we seek your consent"}, 
+{"InfringementKeyword": "Financial tracking", "Summary": "Amazon uses personal information to manage credit risks, which may infer tracking financial information.", "ClauseSection": "We use personal information to prevent and detect fraud and abuse"}],
+
+"Caution": [{"InfringementKeyword": "Targeted Ads", "Summary": "Third-party service providers analyze data, suggesting that they may use your data to create targeted ads.", "ClauseSection": "Third-Party Service Providers"}, 
+{"InfringementKeyword": "Data stored in another country", "Summary": "This clause hints at the likelihood of data transfers across borders, especially during business transfers. However, it does not specifically mention storage in a different country.", "ClauseSection": "Business Transfers"}], 
+
+"Safe": [{"InfringementKeyword": "Security measures", "Summary": "Amazon apparently takes measures to prevent and detect fraud and abuse to protect the security of customers, implicitly indicating that some form of security measures are in place.", "ClauseSection": "We use personal information to prevent and detect fraud and abuse"}],
+
+"Other": [{"InfringementKeyword": "Cookies and identifiers", "Summary": "Amazon uses cookies and other identifiers to enable and improve services, which entails using personal information.", "ClauseSection": "What About Cookies and Other Identifiers?"}]}
