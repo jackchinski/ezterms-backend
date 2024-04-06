@@ -7,7 +7,9 @@ import { sendJSONToFirebase } from "./sendDataToDB.js";
  * This will be the main file that is ran that will run through all the steps.
  * =====
  * SETUP:
- * 1) upload the T&C document into the fullTermsAndConditions folder and name it <company name.txt> no spaces
+ * 1) upload the T&C document into the fullTermsAndConditions folder and name it <companyName.txt> no spaces
+ * 2) replace the name of the service in the call to the main function, at the bottom
+ *  of the file, with the same name
  * =====
  *
  * STEP1: runSplitter from chopText.js
@@ -28,4 +30,5 @@ async function main(companyName) {
   await sendJSONToFirebase(companyName);
 }
 
+// ENTER SERVICE NAME BELOW
 main("amazon").then(() => console.log("All processes completed successfully!"));
