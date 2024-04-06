@@ -31,4 +31,4 @@ async function main(companyName) {
 }
 
 // ENTER SERVICE NAME BELOW
-main("x").then(() => console.log("All processes completed successfully!"));
+main("").then(() => console.log("All processes completed successfully!"));

@@ -1,0 +1,1 @@
+{"Danger": [], "Caution": [], "Safe": [{"InfringementKeyword": "Exercising User Rights", "Summary": "This clause gives users the right to contact the company and exercise their rights as stated in the document. It also provides specific information on how to do so, increasing transparency and user control.", "ClauseSection": "Contacting us"}]}

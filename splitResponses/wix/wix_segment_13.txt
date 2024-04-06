@@ -1,0 +1,7 @@
+{"Danger": [{"InfringementKeyword": "Data Retention", "Summary": "The service retains your personal information for as long as your account is active. Even after deactivation, your personal information may still be retained as necessary under several circumstances.", "ClauseSection": "12. Data Retention"}], 
+
+"Caution": [{"InfringementKeyword": "Inability to Sue", "Summary": "The clause suggests users to first contact the service with any concerns they have rather than filing a complaint with a local supervisory authority. This may limit users' legal recourse.", "ClauseSection": "Complaints and Questions"}], 
+
+"Safe": [{"InfringementKeyword": "Data Protection", "Summary": "The service has implemented security measures designed to protect personal information. It uses HTTPS secure access, SSL/TLS encrypted connections for sensitive payment information, and PCI DSS certification.", "ClauseSection": "13. Security"}, 
+
+{"InfringementKeyword": "User control of information", "Summary": "The service gives you control over your personal information, you can contact them with any questions or to file a complaint.", "ClauseSection": "Questions and complaints"}]}
