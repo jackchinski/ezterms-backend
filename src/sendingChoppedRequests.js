@@ -40,7 +40,8 @@ export async function processCompanyTerms(companyName) {
 
       try {
         const categorizedTerms = await callOpenAIWithSplitText(privacyPolicySegment);
-        fs.writeFileSync(`splitResponses/${companyName}/${file}`, categorizedTerms, "utf-8");
+        const jsonString = JSON.stringify(categorizedTerms, null, 2);
+        fs.writeFileSync(`splitResponses/${companyName}/${file.replace(".txt", ".json")}`, jsonString, "utf-8");
       } catch (error) {
         console.error(`Error processing file: ${file}`, error);
       }
