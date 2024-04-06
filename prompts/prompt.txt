@@ -23,8 +23,7 @@ the right to delete your account and all your data
 user control - being able to control how much you share vs what the service will not touch
 the company will inform you when they update their terms and conditions agreement 
 
-Anything that you feel like does not fit into the following 3 Criteria, put into the "Other category". After this message I will send the clauses that I would like you to categorize please. 
 
-Please respond in the format of a JSON object, that contains the following categories for each clause you have classified, if no clauses are found, please return an empty array within the object with the categories, "danger", "caution", "safe" and "other" but empty. 
+Please respond in the format of a JSON object, that contains the following categories for each clause you have classified, if no clauses are found, please return an empty array within the object with the categories, "danger", "caution", "safe" but empty. 
 Only use double quotes, so that I can parse the response please. 
-{"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safe": [{"InfringementKeyword": "Do the same as in danger"}], "Other": [{"InfringementKeyword": "Do the same as in danger"}]}
+{"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safe": [{"InfringementKeyword": "Do the same as in danger"}]}
