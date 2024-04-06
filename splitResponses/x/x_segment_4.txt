@@ -1,5 +1,13 @@
-{"Danger": [{"InfringementKeyword": "Third-party data collection", "Summary": "This clause indicates that the company receives information about you from third parties, which is tantamount to excessive data collection and a potential risk to your privacy.", "ClauseSection": "Part 1"}, {"InfringementKeyword": "Data use for personalization and advertising", "Summary": "The company uses your data to show you personalized content and ads, which means they track and analyze your habits and preferences.", "ClauseSection": "Part 2.1"}, {"InfringementKeyword": "Sharing data with ad partners", "Summary": "The company shares your information with ad partners, which extends the risk of misuse of your information.", "ClauseSection": "Part 2.1"}], 
-
-"Caution": [{"InfringementKeyword": "Data storage and processing", "Summary": "The company stores and process your data based on your settings which might potentially involve data storage in another country.", "ClauseSection": "Part 2.1"}], 
-
-"Safe": [{"InfringementKeyword": "Account safety and security", "Summary": "The company uses the data it collects to ensure the safety and security of your account.", "ClauseSection": "Part 2.2"}]}
+{"Danger": [
+  {"InfringementKeyword": "Third-party data collection", "Summary": "Information about you can be received from third parties that aren't ad partners, putting your data at potential risk.", "ClauseSection": "Third-party data collection and use"}, 
+  {"InfringementKeyword": "Broad data use", "Summary": "Information collected is used for various purposes including operating, improving, and personalizing services. It's also used for targeted advertising and training AI models.", "ClauseSection": "2. How We Use Information"}, 
+  {"InfringementKeyword": "Contact sharing", "Summary": "Your contact information may be used to help others find your account, potentially exposing your contact information to other users.", "ClauseSection": "2.1 Operate, improve, and personalize our services"},
+  {"InfringementKeyword": "Data sharing with ad partners", "Summary":"Data is shared by ad partners and affiliates and can be combined with your data on X.", "ClauseSection": "2.1 Operate, improve, and personalize our services"}
+],
+"Caution": [
+  {"InfringementKeyword": "Authenticating your account", "Summary": "They use your information to provide for your account's safety and security including verification of your identity, which indicates the possible storage of personal identification data.", "ClauseSection": "2.2 Foster safety and security."}
+],
+"Safe": [
+  {"InfringementKeyword": "User control", "Summary": "Advertising and sponsored content services are only provided subject to your settings, indicating that you have some control over your data and what is shared with advertisers.", "ClauseSection": "2.1 Operate, improve, and personalize our services"},
+  {"InfringementKeyword": "Safety and Security", "Summary": "The information you provide is used to safeguard your data against fraudulent or unauthorized use.", "ClauseSection": "2.2 Foster safety and security."}
+]}

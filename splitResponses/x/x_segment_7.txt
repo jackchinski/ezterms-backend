@@ -1,1 +1,24 @@
-{"Danger": [{"InfringementKeyword": "Data Sharing", "Summary": "The company may share, sell, or transfer your information in connection with a merger, acquisition, reorganization, sale of assets, or bankruptcy.", "ClauseSection": "Section 3.5 change in ownership"}, {"InfringementKeyword": "Data collection", "Summary": "The company will hold your profile information for the duration of your account and other personal data for up to 18 months", "ClauseSection": "Section 4 - How Long We Keep Information"}], "Caution": [{"InfringementKeyword": "Account Termination", "Summary": "The company may indefinitely suspend accounts that have violated their rules and retain associated identifiers to prevent policy offenders from creating new accounts.", "ClauseSection": "Section 4 - How Long We Keep Information"}], "Safe": [{"InfringementKeyword": "Data Encryption and Deletion", "Summary": "You are allowed to access, correct, modify, and ultimately delete your information by following certain steps to verify your identity.", "ClauseSection": "Section 5 - Take Control"}]}
+{"Danger": 
+    [{"InfringementKeyword": "Sharing Information", 
+    "Summary": "Sharing, selling or transferring your details to third parties which could potentially breach privacy.", 
+    "ClauseSection": "Section 3: Share Information"}, 
+    {"InfringementKeyword": "Data preservation", 
+    "Summary": "Preserving personalized data for a longer duration (18 months) than deemed necessary.", 
+    "ClauseSection": "Section 4: How Long We Keep Information"},
+    {"InfringementKeyword": "Holding data indefinitely",
+    "Summary": "The service may keep identifiers such as email or phone number indefinitely if rules are violated.",
+    "ClauseSection": "Section 4: How Long We Keep Information"}],
+"Caution": 
+    [{"InfringementKeyword": "Denying access", 
+    "Summary": "In certain situations, your request for access, correction, or portability may be rejected. This gives them control over your data.", 
+    "ClauseSection": "Section 5.2: Deleting your Information"},
+    {"InfringementKeyword": "Account Suspension",
+    "Summary": "Your account can be suspended if you violate their rules and this can restrict your access to your own information.",
+    "ClauseSection": "Section 4: How Long We Keep Information"}],
+"Safe": 
+    [{"InfringementKeyword": "Data access and correction", 
+    "Summary": "You can access, correct, or modify the information you provided by adjusting your account settings.", 
+    "ClauseSection": "Section 5.1 Access, Correction, Portability"},
+    {"InfringementKeyword":  "Account deletion",
+    "Summary": "You are allowed to delete your account and all your data with it suggesting the company respects user rights to some extent.",
+    "ClauseSection": "Section 5.2 Deleting your Information"}]}

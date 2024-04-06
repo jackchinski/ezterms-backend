@@ -1,30 +1,18 @@
 {"Danger": [
-  {
-    "InfringementKeyword": "Data collection",
-    "Summary": "The company collects a lot of data about user's identity inferred from account settings",
-    "ClauseSection": "1st clause"
-  },
-  {
-    "InfringementKeyword": "Device information",
-    "Summary": "Apart from tracking online activity, the company also gathers data related to the device being used",
-    "ClauseSection": "2nd clause"
-  },
-  {
-    "InfringementKeyword": "Information sharing",
-    "Summary": "User's information is being shared with third parties, including Ad partners and affiliates",
-    "ClauseSection": "2nd clause sub-point - Interactions with our content on third-party sites, and Information we receive from third parties"
-  }
-],
-"Caution": [
-  {
-    "InfringementKeyword": "Advertisements Interaction",
-    "Summary": "The company collects data about user's interaction with advertisements on the website",
-    "ClauseSection": "3rd clause"
-  },
-  {
-    "InfringementKeyword": "Data Storage in other country",
-    "Summary": "The user's data may be combined and stored elsewhere, probably in another country as well",
-    "ClauseSection": "Final clause"
-  }
-],
-"Safe": []}
+  {"InfringementKeyword": "data collection, location, IP address, email", 
+   "Summary": "This clause talks about X inferring your identity based on your data, location, IP address, and other identifiers. This also includes gathering data from your device outside the scope of the service.", 
+   "ClauseSection": "Data Collection"},
+  {"InfringementKeyword": "data sharing with third parties", 
+   "Summary": "The clause mentions that X receives information from other online products and services, ad partners, developers, publishers, and other third parties, indicating a high level of data sharing.", 
+   "ClauseSection": "Data Sharing"}
+  ], 
+  "Caution": [
+  {"InfringementKeyword": "targeted ads, data storing for ads", 
+   "Summary": "X collects data to serve you personalized adverts, hence implying potentially intrusive advertising.", 
+   "ClauseSection": "Advertisements and Data Usage"},
+  {"InfringementKeyword": "data storage in other countries", 
+   "Summary": "The clause does not mention where the data is stored, this data could be stored in a different country.", 
+   "ClauseSection": "Data Storage"}
+  ], 
+  "Safe": []
+}

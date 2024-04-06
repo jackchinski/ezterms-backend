@@ -1,16 +1,18 @@
-{"Danger": 
+{"Danger": [
+  {"InfringementKeyword": "data collection", "Summary": "The company collects information about user activity, broadcast activity, user interactions, communications, purchase and payments information, as well as information from links interacted within services.", "ClauseSection": "Data Collection Clause"},
+  {"InfringementKeyword": "device information", "Summary": "Information such as IP address, browser types, device settings, carrier, language, memory, apps installed and battery level are being collected. The company also collects user's device address book if it is shared.", "ClauseSection": "Device Information Clause"},
+  {"InfringementKeyword": "location tracking", "Summary": "Information about users' approximate locations is collected to show them relevant ads. In addition, precise locations or places where services have been previously used can also be collected if these settings are enabled in user's account.", "ClauseSection": "Location Information Clause"},
+  {"InfringementKeyword": "financial tracking", "Summary": "If a user makes a payment, the company collects information about the transaction including date, subscription expiration or renewal dates, and payment amount.", "ClauseSection": "Purchase and Payment Clause"},
+  {"InfringementKeyword": "inferred identity", "Summary": "The company may collect or receive information to infer the user's identity, associating the user's account with browsers or devices other than those used to sign into the service.", "ClauseSection": "Inferred Identity Clause"}
+],
 
-[{"InfringementKeyword": "Data Collection", "Summary": "Extensive data about user posts, interactions, and communication is being collected", "ClauseSection": "We collect information about your activity on X"},
-{"InfringementKeyword": "Purchase and Payments", "Summary": "Financial transactions and associated data is collected", "ClauseSection": "Purchase and payments"},
-{"InfringementKeyword": "Device Information", "Summary": "Collects information about user device and its settings, with possibility of gathering additional data from apps installed", "ClauseSection": "Device Information"},
-{"InfringementKeyword": "Location Information", "Summary": "Collects user's approximate and possibly precise location", "ClauseSection": "Location Information"},
-{"InfringementKeyword": "Inferred Identity", "Summary": "Collects information that can be used to infer user's identity, a possible overreach of necessary data collection", "ClauseSection": "Inferred Identity"}],
+"Caution": [
+  {"InfringementKeyword": "synchronizing contacts", "Summary": "The company will have access to your device address book if you've chosen to share it, with possibility of syncing your contacts which may lead to data breaches.", "ClauseSection": "Sync Contacts Clause"},
+  {"InfringementKeyword": "personalized content", "Summary": "The company collects data to show you relevant ads. This implies that your data is used to create targeted ads.", "ClauseSection": "Personalized Content Clause"},
+  {"InfringementKeyword": "data storage location", "Summary": "This clause is vague about where data will be stored, which could possibly be in another country causing potential jurisdictional and data protection issues.", "ClauseSection": "Data Storage Clause"}
+],
 
-"Caution": 
-
-[{"InfringementKeyword": "Data Sharing", "Summary": "Your device address book may be shared if chosen, this could lead to using your contacts' data for targeted ads", "ClauseSection": "Device Information"},
-{"InfringementKeyword": "Data Storage", "Summary": "Data collected may be stored 'subject to your settings', it's unclear where exactly that data is stored", "ClauseSection": "Inferred Identity"}],
-
-"Safe": 
-
-[{"InfringementKeyword": "User Control", "Summary": "Allows user to control sharing of precise location, and possibly other settings", "ClauseSection": "Location Information"}]}
+"Safe": [
+  {"InfringementKeyword": "user control", "Summary": "Users have some control over their data. They can choose to share their address book and enable precise location tracking.", "ClauseSection": "Location Information Clause"},
+  {"InfringementKeyword": "Encryption", "Summary": "Metadata related to encrypted messages (assuming the encryption is strong and properly implemented) would be safe.", "ClauseSection": "Interaction with others Clause"}
+]}
