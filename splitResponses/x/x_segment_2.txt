@@ -1,0 +1,16 @@
+{"Danger": 
+
+[{"InfringementKeyword": "Data Collection", "Summary": "Extensive data about user posts, interactions, and communication is being collected", "ClauseSection": "We collect information about your activity on X"},
+{"InfringementKeyword": "Purchase and Payments", "Summary": "Financial transactions and associated data is collected", "ClauseSection": "Purchase and payments"},
+{"InfringementKeyword": "Device Information", "Summary": "Collects information about user device and its settings, with possibility of gathering additional data from apps installed", "ClauseSection": "Device Information"},
+{"InfringementKeyword": "Location Information", "Summary": "Collects user's approximate and possibly precise location", "ClauseSection": "Location Information"},
+{"InfringementKeyword": "Inferred Identity", "Summary": "Collects information that can be used to infer user's identity, a possible overreach of necessary data collection", "ClauseSection": "Inferred Identity"}],
+
+"Caution": 
+
+[{"InfringementKeyword": "Data Sharing", "Summary": "Your device address book may be shared if chosen, this could lead to using your contacts' data for targeted ads", "ClauseSection": "Device Information"},
+{"InfringementKeyword": "Data Storage", "Summary": "Data collected may be stored 'subject to your settings', it's unclear where exactly that data is stored", "ClauseSection": "Inferred Identity"}],
+
+"Safe": 
+
+[{"InfringementKeyword": "User Control", "Summary": "Allows user to control sharing of precise location, and possibly other settings", "ClauseSection": "Location Information"}]}

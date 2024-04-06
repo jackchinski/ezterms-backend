@@ -1,0 +1,1 @@
+{"Danger": [{"InfringementKeyword": "Location, Address, Payment Information, Biometric Information", "Summary": "The service is collecting sensitive data such as your location, address, payment, and even biometric information which poses potential privacy threats.", "ClauseSection": "1. Information We Collect"}], "Caution": [], "Safe": []}

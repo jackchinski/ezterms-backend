@@ -1,0 +1,30 @@
+{"Danger": [
+  {
+    "InfringementKeyword": "Data collection",
+    "Summary": "The company collects a lot of data about user's identity inferred from account settings",
+    "ClauseSection": "1st clause"
+  },
+  {
+    "InfringementKeyword": "Device information",
+    "Summary": "Apart from tracking online activity, the company also gathers data related to the device being used",
+    "ClauseSection": "2nd clause"
+  },
+  {
+    "InfringementKeyword": "Information sharing",
+    "Summary": "User's information is being shared with third parties, including Ad partners and affiliates",
+    "ClauseSection": "2nd clause sub-point - Interactions with our content on third-party sites, and Information we receive from third parties"
+  }
+],
+"Caution": [
+  {
+    "InfringementKeyword": "Advertisements Interaction",
+    "Summary": "The company collects data about user's interaction with advertisements on the website",
+    "ClauseSection": "3rd clause"
+  },
+  {
+    "InfringementKeyword": "Data Storage in other country",
+    "Summary": "The user's data may be combined and stored elsewhere, probably in another country as well",
+    "ClauseSection": "Final clause"
+  }
+],
+"Safe": []}
