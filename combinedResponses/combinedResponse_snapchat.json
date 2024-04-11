@@ -1,0 +1,288 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "collect and use your data",
+      "Summary": "The company collects and uses user data which can impose a serious privacy risk based on how the information is used or who it's shared with",
+      "ClauseSection": "4. Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "provide you a more personalized experience",
+      "Summary": "This indicates that the company may be tracking user behavior to create targeted content, which is a privacy concern",
+      "ClauseSection": "4. Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "show you content and information that is most relevant",
+      "Summary": "This allows the company to curtail your experience based on your data, it involves monitoring and tracking user behavior",
+      "ClauseSection": "4. Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "Data collection, Location information",
+      "Summary": "The application collects personal data and may transfer it to different locations around the world, potentially breaching privacy boundaries. The application also stores precise location data associated to the user's actions.",
+      "ClauseSection": "International Data Transfers"
+    },
+    {
+      "InfringementKeyword": "Data retention, Legal obligations",
+      "Summary": "The application retains data for different lengths of time based on its nature and usefulness. The duration of data retention is also influenced by legal obligations, potentially jeopardizing users' privacy.",
+      "ClauseSection": "How Long We Keep Your Information"
+    },
+    {
+      "InfringementKeyword": "Data Retention",
+      "Summary": "The company retains user data for various purposes such as to investigate possible violations of terms of service, court orders or reports of abuse. There is no specific deletion timeframe, and in some cases, data deletion is prevented due to legal requirements.",
+      "ClauseSection": "Data Retention and Deletion"
+    },
+    {
+      "InfringementKeyword": "Tracking",
+      "Summary": "The terms discuss the ability for the application to track your activity both on and off the application, this includes on websites and platforms of partners and advertisers.",
+      "ClauseSection": "Tracking"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "The terms mention the collection of additional data like your phone contacts for the purpose of the application's functions like making friending easier.",
+      "ClauseSection": "Change your permissions"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "Data is shared with advertisers and partners for the showing of activity-based ads and audience-based ads. Data can be linked to your activity for advertising purposes without specifically identifying you.",
+      "ClauseSection": "Opt-out options"
+    },
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "This clause seems to indicate that the service might collect a large amount of personal information, such as name, address, payment information, birthday, and even transaction history. Potentially dangerous considering the amount of sensitive user data gathered.",
+      "ClauseSection": "Information You Provide"
+    },
+    {
+      "InfringementKeyword": "Location Information",
+      "Summary": "The clause reveals that information related to activities is also collected, which could include user location data. In addition, the app has access to the content you save within the services, which could have location-related information.",
+      "ClauseSection": "Information We Collect"
+    },
+    {
+      "InfringementKeyword": "excessive data collection, location tracking, data sharing",
+      "Summary": "The clause highlights that the application collects not only usage and content information, but also device information, location information, information from cookies and similar technologies, log information which may include excessive infiltration of user's privacy. It also states the collection of precise location data using GPS signals when given permission, and shares information with third parties including affiliates and advertisers.",
+      "ClauseSection": "Data collection and sharing"
+    },
+    {
+      "InfringementKeyword": "Location Tracking and Data Collection",
+      "Summary": "The clause mentions using location data for personalized suggestions, which may mean potential location tracking.",
+      "ClauseSection": "Keep Things Up & Running"
+    },
+    {
+      "InfringementKeyword": "Data Sharing and Content Personalization",
+      "Summary": "Based on this clause, the company may provide personalized content, like dog videos or dog food ads. In practice, this could indicate excessive data collection and potential sharing or selling data.",
+      "ClauseSection": "Personalize Your Experience & Give Context"
+    },
+    {
+      "InfringementKeyword": "Data Collection through Device Access",
+      "Summary": "The clause refers to company asking permission to access device’s camera roll or Contact Book. This could lead to collection of data outside scope of the application.",
+      "ClauseSection": "Other Information, With Your Permission"
+    },
+    {
+      "InfringementKeyword": "personalized ads, data collection, content tags",
+      "Summary": "The agreement mentions using your data to personalize ads and experiences on the service by collecting information on your preferences and activities which can be excessive and falls outside the core functionality of the app.",
+      "ClauseSection": "Personalization"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Cookies",
+      "Summary": "The use of cookies and other similar technologies to collect information can lead to excessive data collection and privacy concerns.",
+      "ClauseSection": "A note about information collected by cookies and other technologies"
+    },
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "The company is using algorithms and machine learning models which might collect more data than necessary to develop features and models.",
+      "ClauseSection": "Develop & Improve Features, Algorithms & Machine Learning Models"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "The company studies data from users and creates information about users for understanding demand, which might involve sharing collected data within the company or with partners.",
+      "ClauseSection": "Analytics"
+    },
+    {
+      "InfringementKeyword": "Data Collection Outside Scope",
+      "Summary": "The company uses user data for research to develop new techniques and technologies, which might go beyond the scope of the app services.",
+      "ClauseSection": "Research"
+    },
+    {
+      "InfringementKeyword": "excessive data, tracking your location",
+      "Summary": "The company appears to harness a range of surveillance methods, including checking the URLs you send on Snapchat to determine potential security risks, this could raise data privacy concerns.",
+      "ClauseSection": "Two-factor authentication"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "The company shares information with your Snapchat friends and possibly other entities, this could be a problem if the scope of this sharing is not clearly defined.",
+      "ClauseSection": "How We Share Information"
+    },
+    {
+      "InfringementKeyword": "Law enforcement",
+      "Summary": "The company may use or share your data to cooperate with law enforcement. While enforcing law and maintaining safety is important, this point could raise concerns if they might overshare information.",
+      "ClauseSection": "Enforce Our Terms & Policies"
+    },
+    {
+      "InfringementKeyword": "Share information",
+      "Summary": "Snapchat shares information about your activity with their service providers, business and integrated partners, anti-fraud partners and affiliates to carry out their Services. This can mean your data is being shared to multiple parties.",
+      "ClauseSection": "Service Providers, Business and Integrated Partners, Anti-Fraud Partners, Affiliates"
+    },
+    {
+      "InfringementKeyword": "Third-party Apps",
+      "Summary": "Snapchat could potentially share additional information not limited to just your activity and usage when you connect your account with a third-party app. There's a risk this goes beyond necessary data scope.",
+      "ClauseSection": "Third-Party Apps"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "more relevant advertisements",
+      "Summary": "The clause suggests that user data would be used to create targeted ads, users need to be aware of their data being used for marketing",
+      "ClauseSection": "4. Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "Data storage in another country",
+      "Summary": "The application collects user data and may store and process it outside the user's country. Even though safeguards are promised, storing data in another country may pose security risks.",
+      "ClauseSection": "International Data Transfers"
+    },
+    {
+      "InfringementKeyword": "Termination of services",
+      "Summary": "If the company becomes aware that a user is under the age of 13, they will stop providing services to that user and delete their account and data. However, it does not provide details about how it will determine the age of the user.",
+      "ClauseSection": "Our Audience"
+    },
+    {
+      "InfringementKeyword": "Termination",
+      "Summary": "The agreement suggests that by altering permissions like disabling access to your phone contacts, certain features and services, like finding friends in your contact book, may stop working or may terminate your account.",
+      "ClauseSection": "Change your permissions"
+    },
+    {
+      "InfringementKeyword": "Data Stored",
+      "Summary": "Your data may be available in Snapchat in a portable format, enabling it to be moved or stored somewhere else. However, it doesn’t specify where data may currently be stored.",
+      "ClauseSection": "Download your data"
+    },
+    {
+      "InfringementKeyword": "Unclear Termination Policy",
+      "Summary": "The clause makes mention of content that can be saved or shared by other users, which could potentially lead to termination of the user's account without further explanation or cause.",
+      "ClauseSection": "Information You Provide"
+    },
+    {
+      "InfringementKeyword": "personal data for targeted ads, contact syncing",
+      "Summary": "The company collects data from other users, advertisers, and third parties, indicating that personal data is being used to create targeted ads to measure the performance of ads. Additionally, if another user uploads a contact list that includes your information, this clause suggests the company may use this to potentially sync contacts and determine other ways to communicate with the user.",
+      "ClauseSection": "Data received from others"
+    },
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "The content clearly indicates that the company is gathering your info for customizing targeted ads. You may not control what data the company collects to design such ads.",
+      "ClauseSection": "Personalize Your Experience & Give Context"
+    },
+    {
+      "InfringementKeyword": "Data Storage Location",
+      "Summary": "As there is mention of suggestions based on your location, there is potential that data may be stored in different locations or countries.",
+      "ClauseSection": "Keep Things Up & Running"
+    },
+    {
+      "InfringementKeyword": "creating targeted ads, data stored",
+      "Summary": "While creating targeted ads does provide relevant content, it can also be seen as intrusive. Moreover, the clause does not specify where or how your data will be stored, which could potentially involve data storage in a different country.",
+      "ClauseSection": "Provide Relevant Ads"
+    },
+    {
+      "InfringementKeyword": "Personalized Content",
+      "Summary": "The company uses the data for personalization, advertising, safety and security, which might result in personal data being used for targeted content.",
+      "ClauseSection": "Develop & Improve Features, Algorithms & Machine Learning Models"
+    },
+    {
+      "InfringementKeyword": "Data Stored In A Different Country",
+      "Summary": "User data is likely to be stored in different locations to help in understanding general consumer interests, trends and improvement of services.",
+      "ClauseSection": "Research"
+    },
+    {
+      "InfringementKeyword": "Targeted ads",
+      "Summary": "Their communication sometimes include promotional offers based on the data they collect, this may result in associated targeted ads.",
+      "ClauseSection": "Contacting You"
+    },
+    {
+      "InfringementKeyword": "Data storage location",
+      "Summary": "Your data may be transferred outside the country it was collected from. It's not clear where your data is stored, or how that affects you.",
+      "ClauseSection": "How We Share Information"
+    },
+    {
+      "InfringementKeyword": "No right to know why",
+      "Summary": "Under the section 'Enforce Our Terms & Policies', they reserve the right to enforce their terms but don't specify whether they will inform you about it.",
+      "ClauseSection": "Enforce Our Terms & Policies"
+    },
+    {
+      "InfringementKeyword": "No control over third-party integrations",
+      "Summary": "Snapchat aren't responsible for how integrated partners collect or use your information. This means they can potentially use your data in ways you may not be aware of or agree with.",
+      "ClauseSection": "Integrated Partners"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "delete content by default",
+      "Summary": "This clause points that they prioritize user privacy by deleting content by default and offering them tools to control their content",
+      "ClauseSection": "4. Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "Control Over Your Information",
+      "Summary": "Snap Inc. provides users control over their information indicating safety measures",
+      "ClauseSection": "Control Over Your Information"
+    },
+    {
+      "InfringementKeyword": "access and update your information",
+      "Summary": "Users are allowed to access and update their details, providing a sense of control over their data",
+      "ClauseSection": "Control Over Your Information"
+    },
+    {
+      "InfringementKeyword": "Delete your information",
+      "Summary": "Users have rights to delete their information. It's a safety measure for data protection rights",
+      "ClauseSection": "Control Over Your Information"
+    },
+    {
+      "InfringementKeyword": "Deletion rights",
+      "Summary": "Users who are minors or under the age of 13 have the right to get their account and data deleted by the company.",
+      "ClauseSection": "Our Audience"
+    },
+    {
+      "InfringementKeyword": "Update of Privacy Policy",
+      "Summary": "The organization assures the user of being informed about any key changes or updates made to the privacy policy. This promotes transparency and aids the user's awareness of their data privacy situation.",
+      "ClauseSection": "Updates to the Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "Encryption",
+      "Summary": "The app provides tools allowing you to choose who you share your content with, guard against unwanted communications, and prevent the gathering of additional data from your device that is outside the scope of the application.",
+      "ClauseSection": "Sharing controls"
+    },
+    {
+      "InfringementKeyword": "Control/Sharing",
+      "Summary": "The terms allow you to control your sharing preferences and ensure the privacy and safety of your data.",
+      "ClauseSection": "Change your permissions"
+    },
+    {
+      "InfringementKeyword": "Data Control",
+      "Summary": "The clause provides the user with control over the type of ads they see and the lifestyle category inferences based on their interests and activity, promising a degree of user control over personal data",
+      "ClauseSection": "Introduction"
+    },
+    {
+      "InfringementKeyword": "Encrypting Stored Data- Safety",
+      "Summary": "The company is focused on privacy and is likely to have measures in place to protect the data of the users.",
+      "ClauseSection": "Develop & Improve Features, Algorithms & Machine Learning Models"
+    },
+    {
+      "InfringementKeyword": "Control Over Data Share",
+      "Summary": "The company states that they don't want to use more personal information than necessary indicating user has some control over what is shared.",
+      "ClauseSection": "Develop & Improve Features, Algorithms & Machine Learning Models"
+    },
+    {
+      "InfringementKeyword": "Data Protection Updates",
+      "Summary": "The company takes measures like verifying user identity to prevent unauthorized or illegal activity indicating protection measures are continually updated.",
+      "ClauseSection": "Enhance the Safety & Security of our Services"
+    },
+    {
+      "InfringementKeyword": "Encrypted data",
+      "Summary": "They provide 2 factor authentication to help protect the security of your account.",
+      "ClauseSection": "Two-factor authentication"
+    },
+    {
+      "InfringementKeyword": "Control over data",
+      "Summary": "You have certain controls over who sees what through your Settings, this suggests you have control over your data.",
+      "ClauseSection": "Recipients & Reasons for Sharing"
+    },
+    {
+      "InfringementKeyword": "Not sharing private communications",
+      "Summary": "Snapchat claim they do not share private communications when collaborating with their service providers and integrated partners, reducing the amount of highly personal data being shared.",
+      "ClauseSection": "Service Providers, Business and Integrated Partners"
+    }
+  ]
+}

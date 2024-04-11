@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "Data collection, Location information", "Summary": "The application collects personal data and may transfer it to different locations around the world, potentially breaching privacy boundaries. The application also stores precise location data associated to the user's actions.", "ClauseSection": "International Data Transfers"}, {"InfringementKeyword": "Data retention, Legal obligations", "Summary": "The application retains data for different lengths of time based on its nature and usefulness. The duration of data retention is also influenced by legal obligations, potentially jeopardizing users' privacy.", "ClauseSection": "How Long We Keep Your Information"}], 
+
+"Caution": [{"InfringementKeyword": "Data storage in another country", "Summary": "The application collects user data and may store and process it outside the user's country. Even though safeguards are promised, storing data in another country may pose security risks.", "ClauseSection": "International Data Transfers"}], 
+
+"Safety": []}

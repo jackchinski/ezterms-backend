@@ -1,0 +1,1 @@
+{"Danger": [], "Caution": [], "Safety": [{"InfringementKeyword": "Update of Privacy Policy", "Summary": "The organization assures the user of being informed about any key changes or updates made to the privacy policy. This promotes transparency and aids the user's awareness of their data privacy situation.", "ClauseSection": "Updates to the Privacy Policy"}]}

@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "personalized ads, data collection, content tags", "Summary": "The agreement mentions using your data to personalize ads and experiences on the service by collecting information on your preferences and activities which can be excessive and falls outside the core functionality of the app.", "ClauseSection": "Personalization"}, {"InfringementKeyword":"Data Collection, Cookies", "Summary":"The use of cookies and other similar technologies to collect information can lead to excessive data collection and privacy concerns." , "ClauseSection":"A note about information collected by cookies and other technologies"}], 
+
+"Caution": [{"InfringementKeyword": "creating targeted ads, data stored", "Summary": "While creating targeted ads does provide relevant content, it can also be seen as intrusive. Moreover, the clause does not specify where or how your data will be stored, which could potentially involve data storage in a different country.", "ClauseSection": "Provide Relevant Ads"}], 
+
+"Safety": []}
