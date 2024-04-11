@@ -1,0 +1,1 @@
+{"Danger": [], "Caution": [], "Safety": [{"InfringementKeyword": "exercise any of your rights", "Summary": "The clause provides information on how to get in touch with the company to exercise data protection rights, which indicates a respect for user privacy and safety.", "ClauseSection": "Contacting us"}]}

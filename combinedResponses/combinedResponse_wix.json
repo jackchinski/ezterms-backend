@@ -1,0 +1,258 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "data collection, personal identifiable information",
+      "Summary": "Wix.com collects personal information, such as names, email addresses, phone numbers, payment information, and scanned IDs the user provides. This can be seen as excessive data collection for a service to create websites.",
+      "ClauseSection": "2. What ‘Personal Information’ do we collect? 2.1. User information:"
+    },
+    {
+      "InfringementKeyword": "Data Retention and Data Collection",
+      "Summary": "The company retains personal information as long as your account is active and even after deactivation for legal, dispute resolution, fraud prevention, and enforcement of their agreements.",
+      "ClauseSection": "12. Data retention"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Data Sharing, Third-Party Sources",
+      "Summary": "The company collects metadata about your device, usage, and browsing activity. They also receive personal information from third-party security providers, social media platforms, and marketing partners. Some of this data is used for fraud prevention, improving services, and marketing efforts.",
+      "ClauseSection": "1. Information we collect from other sources, 3. Why do we collect such 'Personal Information'"
+    },
+    {
+      "InfringementKeyword": "Machine Learning",
+      "Summary": "The company uses machine learning techniques (autonomous decision-making tools) to improve their services, which involves processing user data, potentially infringing on user privacy.",
+      "ClauseSection": "3. Why do we collect such ‘Personal Information’"
+    },
+    {
+      "InfringementKeyword": "Excessive data collection",
+      "Summary": "This clause states the company may use machine learning to collect, monitor, and analyze user data, potentially going beyond the scope of the application.",
+      "ClauseSection": "First clause"
+    },
+    {
+      "InfringementKeyword": "Data sharing with third parties",
+      "Summary": "Personal information, possibly including financial details and other identifiers, are shared with third-party service providers, which can increase the risk of data misuse.",
+      "ClauseSection": "3rd and 4th clause"
+    },
+    {
+      "InfringementKeyword": "data sharing, legal request, Wix Subsidiaries and Affiliated Companies",
+      "Summary": "Your personal data can be shared with law enforcement or within affiliated companies.",
+      "ClauseSection": "4. Law Enforcement, Legal Requests and Duties"
+    },
+    {
+      "InfringementKeyword": "data sharing with third party",
+      "Summary": "Your data may also be accessed and processed by third party services you choose to engage with.",
+      "ClauseSection": "4.5. Upon Your Further Direction"
+    },
+    {
+      "InfringementKeyword": "share, and use the Personal Information",
+      "Summary": "Third-party developers potentially have access to your personal information",
+      "ClauseSection": "Wix App Market Partner Agreement"
+    },
+    {
+      "InfringementKeyword": "Personal Information from your Users-of-Users",
+      "Summary": "Social media features integrated into the platform can collect various types of personal information",
+      "ClauseSection": "Social Media Features"
+    },
+    {
+      "InfringementKeyword": "Wix will share your Users-of-Users’ Personal Information with Third Parties Services",
+      "Summary": "Wix shares your data with third-party services potentially without your explicit consent",
+      "ClauseSection": "Section 4.6"
+    },
+    {
+      "InfringementKeyword": "Transfer of Personal Information",
+      "Summary": "The company may transfer your personal information to different locations, which may involve third-party service providers. While they ensure to use an adequate level of protection, it raises potential privacy concerns due to varying privacy laws in different jurisdictions.",
+      "ClauseSection": "Data Privacy Framework"
+    },
+    {
+      "InfringementKeyword": "Personal information sharing",
+      "Summary": "Wix is sharing personal data with third parties in order to run their business and provide services. This raises concerns about the possibility of misuse of such information by third parties.",
+      "ClauseSection": "5.4"
+    },
+    {
+      "InfringementKeyword": "Data collection on behalf of users",
+      "Summary": "Wix collects, stores and processes personal information of 'Users-of-Users'. This involves collecting personal data beyond the scope of application and can lead to excessive data collection.",
+      "ClauseSection": "6. Users-of-users’ ‘Personal Information’"
+    },
+    {
+      "InfringementKeyword": "Data collection and handling",
+      "Summary": "Wix handles personal information of the users on behalf of their users, potentially leading to excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Users controlling and operating"
+    },
+    {
+      "InfringementKeyword": "Data transfer and processing",
+      "Summary": "There is potential for data to be transferred to third countries outside the European Union that may not ensure an adequate level of protection, although this is supposed to be conducted under an approved transfer mechanism.",
+      "ClauseSection": "Processing of Users-of-users’ Personal Information"
+    },
+    {
+      "InfringementKeyword": "Cookies, third-party technologies",
+      "Summary": "The company uses cookies and third-party services for various purposes, including tracking and stability. This might indicate a potential excess data collection beyond what is necessary for the service.",
+      "ClauseSection": "7. Use of cookies and other third-party technologies"
+    },
+    {
+      "InfringementKeyword": "Promotional messages",
+      "Summary": "The company uses your personal information to send promotional content. It also means that they're sharing your data with third parties for promotional activities.",
+      "ClauseSection": "8. Communications from Wix: 8.1. Promotional messages"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Complaint Resolution",
+      "Summary": "The company suggests users to contact them first for any privacy complaint and to try to resolve it, potentially diverting actions against the company.",
+      "ClauseSection": "Questions and complaints"
+    },
+    {
+      "InfringementKeyword": "Terminating account/personal information",
+      "Summary": "The company can terminate your account and make your personal information publicly available without any explanation.",
+      "ClauseSection": "Section 1"
+    },
+    {
+      "InfringementKeyword": "Changes in policy",
+      "Summary": "The company reserves the right to change the policy at any time without giving a reason.",
+      "ClauseSection": "Section 2"
+    },
+    {
+      "InfringementKeyword": "Legal binding",
+      "Summary": "Only the left column of these terms is legally binding.",
+      "ClauseSection": "Section 3"
+    },
+    {
+      "InfringementKeyword": "Language translation",
+      "Summary": "Translations of these terms are provided for convenience only and the English version is the legally constitutional.",
+      "ClauseSection": "Section 4"
+    },
+    {
+      "InfringementKeyword": "Data Sharing, Personalized Ads",
+      "Summary": "Personal information collected is used to send personalized service-related notices and promotional messages. Also, data from marketing partners could be used for targeted advertisements.",
+      "ClauseSection": "3. Why do we collect such ‘Personal Information’"
+    },
+    {
+      "InfringementKeyword": "No right to know why the account is suspended",
+      "Summary": "The company can monitor and suspend accounts engaging in what they determine as spam, abusive or fraudulent activity without explicit reasoning provided to the user.",
+      "ClauseSection": "First clause"
+    },
+    {
+      "InfringementKeyword": "transfer your Personal Information outside of your country",
+      "Summary": "Wix may transfer personal data out of your country of residence",
+      "ClauseSection": "Where do we Store/Process your ‘Personal Information’?"
+    },
+    {
+      "InfringementKeyword": "Data stored in another country",
+      "Summary": "Your personal information may be stored and processed not only in your home country but also in the USA, Europe, Israel, or other jurisdictions. This could potentially expose your data to different risks and legal jurisdictions.",
+      "ClauseSection": "Data Privacy Framework"
+    },
+    {
+      "InfringementKeyword": "Complaint resolution",
+      "Summary": "The complaint resolution process has a number of steps and may eventually involve a third-party dispute resolution provider located in the U.S. This can complicate the complaint process for users located in other countries.",
+      "ClauseSection": "5.4"
+    },
+    {
+      "InfringementKeyword": "Account control and responsibility",
+      "Summary": "You are responsible for the security, integrity and authorized usage of Personal Information about Users-of-Users, which means your account could be terminated without explanation if you fail to comply.",
+      "ClauseSection": "User's Responsibility"
+    },
+    {
+      "InfringementKeyword": "Unable to opt-out",
+      "Summary": "The company sends service and billing messages that you cannot opt out of, unless you deactivate your account. This could lead to one-sided communications.",
+      "ClauseSection": "8. Communications from Wix: 8.2. Service and billing messages"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Delete account and data",
+      "Summary": "The clause states that a user can permanently delete their Wix account, erasing all Personal Information from Wix's databases. Post deletion, the user can no longer use any Wix Services, the account data is permanently removed and cannot be restored.",
+      "ClauseSection": "Deleting your account"
+    },
+    {
+      "InfringementKeyword": "Access, update, amend personal information",
+      "Summary": "The clause states the right for a user to access, receive a copy of, update, amend, port Personal Information. It also indicates that the user has right to withdraw consent for processing of Personal Information.",
+      "ClauseSection": "Rights of users with regards to their Personal Information"
+    },
+    {
+      "InfringementKeyword": "Personal Information",
+      "Summary": "The clause provides the user a right to access, update, amend, delete, restrict or object to certain uses of their data. Plus, it also states that Wix doesn't sell users' personal information.",
+      "ClauseSection": "#ItsThatEasy"
+    },
+    {
+      "InfringementKeyword": "CCPA",
+      "Summary": "This section outlines rights under the California Consumer Privacy Act, including the right to request access to and deletion of personal information, the right to opt-out of the sale of their personal information, and the right not to be discriminated against for exercising any CCPA rights.",
+      "ClauseSection": "10. Additional Information for California residents"
+    },
+    {
+      "InfringementKeyword": "Right to Deletion",
+      "Summary": "This clause acknowledges the user's right to request the deletion of their accumulated personal data from the service's databases, and indicates the process by which this request may be fulfilled.",
+      "ClauseSection": "10"
+    },
+    {
+      "InfringementKeyword": "No selling of personal information",
+      "Summary": "The company explicitly states that it does not participate in the selling of user's personal information to third parties, fulfilling the user's right to privacy.",
+      "ClauseSection": "11"
+    },
+    {
+      "InfringementKeyword": "Data Security Measures",
+      "Summary": "The company ensures the implementation of security measures including physical, electronic and procedural ones. Sensitive payment information is protected using SSL/TLS encryption. They also maintain a PCI DSS certification.",
+      "ClauseSection": "13.Security"
+    },
+    {
+      "InfringementKeyword": "strong passwords, avoid sensitive Personal Information",
+      "Summary": "Encourages setting strong passwords and avoiding sharing sensitive Personal Information",
+      "ClauseSection": "Security"
+    },
+    {
+      "InfringementKeyword": "security of Personal Information",
+      "Summary": "Wix values the security of customers' Personal Information and encourages to be careful and avoid submitting sensitive information",
+      "ClauseSection": "14. Third-party websites"
+    },
+    {
+      "InfringementKeyword": "Personal Information for recruitment, employment",
+      "Summary": "Wix uses Personal Information solely for internal recruitment, employment and business purposes",
+      "ClauseSection": "15. Wix job applications"
+    },
+    {
+      "InfringementKeyword": "Public forums and user content",
+      "Summary": "Advises against posting any Personal Information that users don’t wish to publicize",
+      "ClauseSection": "16. Public forums and user content"
+    },
+    {
+      "InfringementKeyword": "Security measures",
+      "Summary": "The company has put adequate security measures in place to protect your Personal Information",
+      "ClauseSection": "Section 1"
+    },
+    {
+      "InfringementKeyword": "exercise any of your rights",
+      "Summary": "The clause provides information on how to get in touch with the company to exercise data protection rights, which indicates a respect for user privacy and safety.",
+      "ClauseSection": "Contacting us"
+    },
+    {
+      "InfringementKeyword": "Data Security",
+      "Summary": "The company mentions using the data to enhance their data security and fraud prevention capabilities, suggesting they take active measures to keep user data safe.",
+      "ClauseSection": "3. Why do we collect such 'Personal Information'"
+    },
+    {
+      "InfringementKeyword": "Right to delete account and data",
+      "Summary": "Your personal information is used to maintain and improve services, which may involve deleting your data or account when needed.",
+      "ClauseSection": "Second clause"
+    },
+    {
+      "InfringementKeyword": "security, privacy and confidentiality",
+      "Summary": "Wix values your privacy and secure your data with vetting processes",
+      "ClauseSection": "Where do we Store/Process your ‘Personal Information’?"
+    },
+    {
+      "InfringementKeyword": "adequate level of protection for the Personal Information",
+      "Summary": "Wix is controlled from Israel, which has a satisfactory level of personal information protection",
+      "ClauseSection": "Where do we Store/Process your ‘Personal Information’?"
+    },
+    {
+      "InfringementKeyword": "Data protection measures",
+      "Summary": "The company's data storage providers are committed to protecting and securing your data, and there is a mention of compliance with the European data protection laws and specific Data Privacy Frameworks.",
+      "ClauseSection": "Data Privacy Framework"
+    },
+    {
+      "InfringementKeyword": "Information deletion and control",
+      "Summary": "Users can request to delete or control their personal information processed by Wix on behalf of its Users, ensuring a level of control over their data. Wix will respond to such requests in accordance with applicable law.",
+      "ClauseSection": "Data deletion and control"
+    },
+    {
+      "InfringementKeyword": "Control over Personal Information",
+      "Summary": "The company acknowledges the importance of users' control over their Personal Information, although the specifics of what this control encompasses are not outlined.",
+      "ClauseSection": "9. Your rights in relation to your ‘Personal Information’"
+    }
+  ]
+}
