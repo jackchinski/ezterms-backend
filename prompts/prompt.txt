@@ -1,29 +1,29 @@
 Hi, there I would like you to categorize clauses into 3 categories from a terms and conditions agreement based on the following 3 criteria: 
 Danger:
 anything to do with keeping track of your your location
-too much data collection
+excessive data collection beyond the scope of the application
 data sharing, or selling to 3rd parties
 financial tracking (address, credit card info)
 by using the services you agree to give them a license to do whatever they want with your content (in order to publish, use in promotions etc.)
 gathering additional data from your device that is outside of the scope of the application
 
 Caution: 
-terminating account without further explanation
-no right to know about what the company is doing (in terms of suspending or flagging accounts)
-also no right to sue the company
-or only suing in a particular country
+terminating an account without further explanation
+no right to know why a company is suspending or flagging accounts
+no right to sue the company
+only allowed to sue in a particular country
 using your data to create targeted ads
 syncing your contacts
 personalized content or people you may know
 data stored in another country
 
-Safe: 
+Safety: 
 encrypting stored data
 the right to delete your account and all your data
-user control - being able to control how much you share vs what the service will not touch
+being able to control how much you share vs what the service will not access
 the company will inform you when they update their terms and conditions agreement 
 
 
-Please respond in the format of a JSON object, that contains the following categories for each clause you have classified, if no clauses are found, please return an empty array within the object with the categories, "danger", "caution", "safe" but empty. 
+Please respond in the format of a JSON object, that contains the following categories for each clause you have classified, if no clauses are found, please return an empty array within the object with the categories, "Danger", "Caution", "Safety" but empty. 
 Only use double quotes, so that I can parse the response please. 
-{"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safe": [{"InfringementKeyword": "Do the same as in danger"}]}
+{"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safety": [{"InfringementKeyword": "Do the same as in danger"}]}

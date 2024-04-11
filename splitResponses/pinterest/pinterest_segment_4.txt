@@ -1,9 +1,0 @@
-{"Danger": [{"InfringementKeyword": "data collection, data sharing, device information", "Summary": "The clause details extensive data collection procedures, including collecting and analyzing user activity, log data and device information. These data sets can also be used in legal proceedings.", "ClauseSection": "Usage of User Information"}, 
-
-{"InfringementKeyword": "targeted ads", "Summary": "The clause indicates that user information is used to select personalized ads and this information may be shared with third parties such as Facebook Ads and Google Marketing Platform in order to advertise Pinterest products and services to the user on other sites and apps.", "ClauseSection": "Data Usage for Advertising"}],
-
- "Caution": [{"InfringementKeyword": "data stored, use of cookies", "Summary": "The clause stipulates the use of cookies and storage of data in order to track the user's activity and advertise based on their preferences. It also mentions a possible requirement for user consent.", "ClauseSection": "Usage of Cookies and Storage of Data"}],
-
- "Safe": [{"InfringementKeyword": "opt out, unsubscribe", "Summary": "The clause provides the user with the ability to opt out of receiving promotional emails and updates through settings adjustments", "ClauseSection": "User Control and Consent"}], 
-
-"Other": [{"InfringementKeyword": "Creating aggregated or de-identified information", "Summary": "The clause mentions creating aggregated or de-identified information for official use. As this doesn't fit within any category labels but is still noteworthy, it is placed under 'Other'.", "ClauseSection": "Data Collection and Usage"}]}

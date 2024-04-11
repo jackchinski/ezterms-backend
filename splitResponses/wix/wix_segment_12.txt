@@ -1,4 +1,0 @@
-{"Danger": [], "Caution": [], "Safe": [
-{"InfringementKeyword": "Right to Deletion, Not Selling Information", 
-"Summary": "The clause provides users with the details on how they can delete their personal information stored with the company. It also states that the company does not sell personal or customer information to third parties.", 
-"ClauseSection": "Account Deletion and Data privacy"}]}

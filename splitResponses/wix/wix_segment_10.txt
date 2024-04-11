@@ -1,8 +1,0 @@
-{"Danger": [], "Caution": [], "Safe": [
-{"InfringementKeyword": "right to request access, receive a copy, update", "Summary": "The user has the right to access, copy, update, or delete their personal information. This ensures user control over their data.", "ClauseSection": "Wix Services and Users' Rights"},
-{"InfringementKeyword": "exercise your rights by sending your request", "Summary": "Contact information is provided for users to exercise their rights to privacy and data protection.", "ClauseSection": "Wix Services and Users' Rights"},
-{"InfringementKeyword": "identity verification", "Summary": "Before complying with requests, the company takes steps to verify the user's identity, which protects user privacy and security.", "ClauseSection": "Wix Services and Users' Rights"},
-{"InfringementKeyword": "right to file a complaint", "Summary": "Users can file a complaint with their local supervisory authority for data protection if they are unsatisfied with the company's handling of their data.", "ClauseSection": "Wix Services and Users' Rights"},
-{"InfringementKeyword": "retrieving your wix account data", "Summary": "Instructions are given for users who want to access or correct their personal information, which ensures user control over their data.", "ClauseSection": "Wix Services and Users' Rights"},
-{"InfringementKeyword": "permanently deleting your wix account", "Summary": "Users can permanently delete their Wix account and all associated personal information, thereby maintaining control over their data.", "ClauseSection": "Wix Services and Users' Rights"}
-]}

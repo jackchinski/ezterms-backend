@@ -1,7 +1,0 @@
-{"Danger": [{"InfringementKeyword": "personal identifiable information", "Summary": "The clause mentions collecting a wide range of personal identifiable information which relates to data collection.", "ClauseSection": "Information You Can Access"}, {"InfringementKeyword": "voice recordings", "Summary": "This indicates that the service could potentially collect more data than is necessary for its operation.", "ClauseSection": "Information You Can Access"}], 
-
-"Caution": [{"InfringementKeyword": "personalized advertising preferences", "Summary": "This suggests the service could use your data to create targeted ads.", "ClauseSection": "Information You Can Access"}],
-
-"Safe": [{"InfringementKeyword": "adjust your communications preferences", "Summary": "This phrase implies that the user has some control over what they share and how their data is used.", "ClauseSection": "Information You Can Access"}, {"InfringementKeyword": "Your Profile", "Summary": "This clause suggests the user has the right/control to manage their personal profile.", "ClauseSection": "Information You Can Access"}],
-
-"Other": [{"InfringementKeyword": "shopping lists and gift registries", "Summary": "This information does not seem to fit into any of the specified categories.", "ClauseSection": "Information You Can Access"}]}

@@ -1,7 +1,0 @@
-{"Danger": [{"InfringementKeyword": "data collection, data sharing, location tracking", "Summary": "This clause indicates that the company collects information from marketing firms and advertisers, tracks your online behaviour, and may use your precise location to customize your experience.", "ClauseSection": "Technical service partners, Advertisers or other partners, How we use the info we collect"}], 
-
-"Caution": [{"InfringementKeyword": "targeted ads, sync contacts", "Summary": "The company shares your information to show you targeted ads. It also uses data to help your friends and contacts find you, implying syncing your contacts.", "ClauseSection": "Advertisers or other partners, Build your community on our Services"}],
-
-"Safe": [{"InfringementKeyword": "user control", "Summary": "The user has control over how their information is used to personalize their experience and the ads they see.", "ClauseSection": "Pinterest Tag, Privacy and Data Settings"}],
-
-"Other": [{"InfringementKeyword": "content recommendation", "Summary": "The company uses your information to recommend content related to your interests.", "ClauseSection": "How we use the info we collect"}]}

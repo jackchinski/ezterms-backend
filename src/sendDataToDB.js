@@ -21,7 +21,7 @@ export async function sendJSONToFirebase(companyName) {
     await updateDbRef.set({
       Danger: combinedResponse["Danger"],
       Caution: combinedResponse["Caution"],
-      Safe: combinedResponse["Safe"],
+      Safety: combinedResponse["Safety"],
     });
     console.log("SEND DATA TO DB: COMPLETE");
   } catch (error) {

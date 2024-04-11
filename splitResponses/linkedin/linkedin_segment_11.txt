@@ -1,7 +1,0 @@
-{"Danger": [{"InfringementKeyword": "Data sharing", "Summary": "LinkedIn may share your data either for legal reasons or in case of change in control or sale of the business. In such cases, your data will continue being used according to their Privacy Policy, unless you agree otherwise.", "ClauseSection": "3. Legal and Safety, 3.7 Change in Control or Sale"}, {"InfringementKeyword": "Data Retention", "Summary": "The platform keeps your personal data as long as your account is open or as needed to offer services. Some data may be retained in a depersonalized or aggregated form, even after you stop using the services.", "ClauseSection": "4.1 Data Retention"}], 
-
-"Caution": [], 
-
-"Safe": [{"InfringementKeyword": "User Control of Personal Data", "Summary": "LinkedIn provides options for users to control how their data is collected, used, and shared. You can access or delete your personal data, and they offer settings to manage the personal data they have about you.", "ClauseSection": "4.2 Rights to Access and Control Your Personal Data"}], 
-
-"Other": []}

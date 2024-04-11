@@ -1,8 +1,0 @@
-{"Danger": [{"InfringementKeyword": "machine learning, Personal Information", "Summary": "The company uses machine learning to monitor and suspend accounts. This is potentially risky as it involves significant data and privacy implications.", "ClauseSection": "1st paragraph"}, 
-{"InfringementKeyword": "share Personal Information", "Summary": "The company shares personal user data with third-party service providers which may include personal identifiers like name, email, address etc.", "ClauseSection": "5th and 6th paragraph"}, 
-{"InfringementKeyword": "share Personal Information with various third parties", "Summary": "Personal information may be widely shared with many third parties.", "ClauseSection": "Final paragraph"}], 
-
-"Caution": [{"InfringementKeyword": "suspension of accounts", "Summary": "The company has the right to suspend accounts and they use machine learning to identify such accounts, process could be arbitrary.", "ClauseSection": "1st paragraph"}, 
-{"InfringementKeyword": "share Personal Information with law enforcement", "Summary": "The agreement states that user's personal information can be shared with law enforcement. Users may not have a say in this decision.", "ClauseSection": "Final Paragraph"}], 
-
-"Safe": [{"InfringementKeyword": "safer services, privacy rights respected", "Summary": "The company stresses the importance of improving their services' safety and respects users' privacy rights.", "ClauseSection": "1st paragraph"}]}

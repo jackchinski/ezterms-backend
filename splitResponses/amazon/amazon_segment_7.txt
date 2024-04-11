@@ -1,7 +1,0 @@
-{"Danger": [{"InfringementKeyword": "Data collection", "Summary": "The company collects a wide scope of data logins, emails, location, interactions, purchasing history, usage metrics, IP addresses and more. Substantial concern as it goes beyond the necessary functionality of the applications.", "ClauseSection": "Automatic Information"}, {"InfringementKeyword":"Gathering data from device", "Summary": "Collects data like device metrics, connectivity, errors, application usage which is beyond the application's scope.", "ClauseSection": "Automatic Information"}, {"InfringementKeyword": "Location tracking", "Summary": "Tracks the location of the device. This could be a breach of privacy.", "ClauseSection": "Automatic Information"}, {"InfringementKeyword": "Data sharing", "Summary": "They share data with third parties, such as credit bureaus which may introduce security concerns and privacy violations.", "ClauseSection": "Information from Other Sources"}], 
-
-"Caution": [{"InfringementKeyword": "Data used for advertisement", "Summary": "Data collected about your interactions with products and services or search results and links, including sponsored links, can be used for targeted ads.", "ClauseSection": "Information from Other Sources"}],
-
-"Safe": [], 
-
-"Other": [{"InfringementKeyword": "Customer service", "Summary": "Stores phone numbers used to call the customer service. This may not fit directly into danger, caution, or safe.", "ClauseSection": "Automatic Information"}]}
