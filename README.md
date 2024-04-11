@@ -2,4 +2,4 @@
 
 I'll run you through the basics of how EzTerms works behind the scenes and how to set it up!
 
-Here is our information architecture: ![Alt text](https://drive.google.com/file/d/10Q6-dUh1J7du9ct2hZz1SKDEta5bm8Nq/view?usp=sharing)
+Here is our information architecture: ![Alt text](https://imgur.com/a/a5AoDYp)
