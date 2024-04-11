@@ -3,4 +3,4 @@
 I'll run you through the basics of how EzTerms works behind the scenes and how to set it up!
 
 Here is our information architecture: 
-![Information Architecture](https://imgur.com/a/a5AoDYp)
+![Information Architecture](https://i.imgur.com/jO5PDDz.png)
