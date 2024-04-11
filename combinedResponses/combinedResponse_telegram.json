@@ -1,0 +1,198 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "The policy mentions the collection of 'Basic Account Data' including your mobile number and any profile details you add. Though it's necessary for function of the app, it's still data collection. Furthermore, your screen name, profile pictures, and your username are always public which maybe a concern for some users.",
+      "ClauseSection": "3. What Personal Data We Use - 3.1. Basic Account Data"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Location Data",
+      "Summary": "The clause mentions location data being used when shared in a chat or when 'Make Myself Visible' in People Nearby is turned on, potentially exposing personal data to third parties.",
+      "ClauseSection": "3.5. Location Data"
+    },
+    {
+      "InfringementKeyword": "Sync Contacts",
+      "Summary": "The clause indicates that Telegram uses phone numbers as unique identifiers, syncing and storing contacts with user permission. The data potentially could be used outside the scope of the application.",
+      "ClauseSection": "3.4. Phone Number and Contacts"
+    },
+    {
+      "InfringementKeyword": "metadata collection, IP address",
+      "Summary": "Telegram collects metadata such as your IP address, devices used, username changes, etc., for security reasons and to prevent violations of their Terms of Service. This data can be kept for up to 12 months.",
+      "ClauseSection": "5.2. Safety and Security"
+    },
+    {
+      "InfringementKeyword": "data sharing",
+      "Summary": "Telegram has an API that allows third-party developers to create bots and when you interact with these bots, you share some of your data with the respective third-party bot developers.",
+      "ClauseSection": "6. Bot Messages"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "Telegram may store some metadata and aggregated data about how you use their service in order to create features that work across all your devices.",
+      "ClauseSection": "5.4. Cross-Device Functionality & 5.5. Advanced features"
+    },
+    {
+      "InfringementKeyword": "Track of your location, Access to messages in groups",
+      "Summary": "The clause mentions that everything users type to a bot is sent to the bot, indicating it could potentially track the whereabouts of the user, and that third-party bots have access to all messages in a group.",
+      "ClauseSection": "6. Bots"
+    },
+    {
+      "InfringementKeyword": "Access to your data",
+      "Summary": "While it states bots should ask for permission before accessing user data, the clause does not guarantee that this is adhered to by all third-party bots.",
+      "ClauseSection": "6.4. Bots Are Not Maintained by Telegram"
+    },
+    {
+      "InfringementKeyword": "Shared with other users, Telegram's Group Companies, Law Enforcement Authorities",
+      "Summary": "Your personal data can be shared with other users of Telegram that you interact with, the company's own group of companies, and potentially law enforcement authorities if warranted by a court order. This poses a potential privacy risk as it involves data sharing.",
+      "ClauseSection": "8. Who Your Personal Data May Be Shared With"
+    },
+    {
+      "InfringementKeyword": "Translation of Chats",
+      "Summary": "Telegram uses Google LLC for automatic translation of messages. In doing so, the text of the messages chosen to be translated may be shared with Google. While Google is not reported to use this data for other products, services, or advertising, this is still a method of data sharing with third-party services.",
+      "ClauseSection": "8.4. Translation of Chats, Channels and specific Messages at the Request of the User"
+    },
+    {
+      "InfringementKeyword": "Data Sharing with Third Party",
+      "Summary": "The audio data of voice and video messages that users choose to convert to text may be shared with Google in order to obtain their transcribed versions.",
+      "ClauseSection": "Transcription of Voice and Video Messages at the Request of the User"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "data stored in another country",
+      "Summary": "The policy mentions that Telegram is located outside the European Economic Area (EEA). Thus, the data of users within the EEA will be managed by a separate entity, and may be stored outside their home country.",
+      "ClauseSection": "1.4. EEA Representative"
+    },
+    {
+      "InfringementKeyword": "Email Address",
+      "Summary": "The company may require some users to provide an email address to receive login codes. The login email address will be stored until it is changed or the account is deleted, potentially raising privacy concerns.",
+      "ClauseSection": "3.2. Your Email Address"
+    },
+    {
+      "InfringementKeyword": "Sync Contacts, Data Storage",
+      "Summary": "The app stores up-to-date contacts and can calculate statistics of potential contacts an unregistered number may have on Telegram, which may pose data privacy concerns.",
+      "ClauseSection": "3.4. Phone Number and Contacts"
+    },
+    {
+      "InfringementKeyword": "account limitations",
+      "Summary": "If a spam report on a message you sent is confirmed by Telegram's moderators, your account may be limited from contacting strangers, either temporarily or permanently.",
+      "ClauseSection": "5.3. Spam and Abuse"
+    },
+    {
+      "InfringementKeyword": "terminating an account without explanation",
+      "Summary": "In cases of serious violations, Telegram has the right to ban your account without any further specifications or warnings.",
+      "ClauseSection": "5.3. Account bann"
+    },
+    {
+      "InfringementKeyword": "Account Self-Destruction",
+      "Summary": "The clause implies that if the user stops using Telegram and doesn't come online for at least 6 months, then the account along with all data is deleted. This can be flagged as a caution because it terminates the account without any further explanation or notification to the user.",
+      "ClauseSection": "10.4. Account Self-Destruction"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "ability to control shared data",
+      "Summary": "Telegram states that it doesn't require your actual name, gender, age, or preferences. This means you have control over what additional personal data you provide.",
+      "ClauseSection": "3. What Personal Data We Use - 3.1. Basic Account Data"
+    },
+    {
+      "InfringementKeyword": "right to delete your account and data",
+      "Summary": "Not explicitly stated in the provided extract, but as users provide data freely, it implies they should have the ability to withdraw this and delete their account.",
+      "ClauseSection": "Not mentioned in the provided clauses"
+    },
+    {
+      "InfringementKeyword": "putting user privacy first",
+      "Summary": "Telegram has two fundamental principles, both of which are ostensibly intended to protect user data. They claim not to use your data for ads and only store what they need for function of the service.",
+      "ClauseSection": "1.1 Privacy Principles"
+    },
+    {
+      "InfringementKeyword": "Encrypted Stored Data",
+      "Summary": "The company stores all data heavily encrypted, making it inaccessible to local engineers or physical intruders. In addition, they use end-to-end encryption for secret chats.",
+      "ClauseSection": "3.3.1. Cloud Chats & 3.3.2. Secret Chats"
+    },
+    {
+      "InfringementKeyword": "Control over sharing",
+      "Summary": "In secret chats, all data is encrypted with a key known only to the sender and recipient. The company does not keep any logs for messages in secret chats and they are not available in the cloud, giving users control over how much they share.",
+      "ClauseSection": "3.3.2. Secret Chats & 3.3.3. Media in Secret Chats"
+    },
+    {
+      "InfringementKeyword": "Data Deletion",
+      "Summary": "After a secret message is sent, the company no longer knows who or when it was messaged. It appears that user data can be made inaccessible after a certain amount of time.",
+      "ClauseSection": "3.3.2. Secret Chats"
+    },
+    {
+      "InfringementKeyword": "Data Encryption, Delete Your Account",
+      "Summary": "Data posted in public communities is encrypted, both in storage and transit. The user can stop syncing contacts or delete them from the servers. This respects user's control of their data and its security.",
+      "ClauseSection": "3.3.4. Public Chats, 3.4. Phone Number and Contacts"
+    },
+    {
+      "InfringementKeyword": "encrypted data, right to delete",
+      "Summary": "Telegram heavily encrypts users' data and it only processes on the sender and receiver's devices. Telegram has no way to decipher the actual information. It neither stores nor processes personal data, rather it stores and processes random sequences of symbols.",
+      "ClauseSection": "4.2. End-to-End Encrypted Data"
+    },
+    {
+      "InfringementKeyword": "data storage, data retention",
+      "Summary": "Personal data provided will only be stored for as long as necessary for Telegram to fulfill its service provision obligations.",
+      "ClauseSection": "4.3. Retention"
+    },
+    {
+      "InfringementKeyword": "ability to delete data",
+      "Summary": "Telegram lets you turn off the 'Suggest Frequent Contacts' feature and delete the relevant data. This indicates that you have some control over shared data",
+      "ClauseSection": "5.5. Advanced features"
+    },
+    {
+      "InfringementKeyword": "no ads based on user data",
+      "Summary": "Telegram does not use your data for ad targeting or other commercial purposes as they only store the information needed for the functioning of their service.",
+      "ClauseSection": "5.6. No Ads Based on User Data"
+    },
+    {
+      "InfringementKeyword": "Credit Card Information",
+      "Summary": "It is mentioned that credit card information is not accessed nor stored by Telegram, but directly sent to the payment provider's server.",
+      "ClauseSection": "7.2. Credit Card Information"
+    },
+    {
+      "InfringementKeyword": "Delete Payment & Shipping Info",
+      "Summary": "This clause ensures that users can clear all payment and shipping information related to their account whenever they want.",
+      "ClauseSection": "7.4. Clearing Payment Information"
+    },
+    {
+      "InfringementKeyword": "Encryption of Data",
+      "Summary": "Personal data shared with other Telegram users is encrypted for a secure level of protection. This ensures the safety and privacy of user data.",
+      "ClauseSection": "8.1. Other Telegram Users"
+    },
+    {
+      "InfringementKeyword": "Secure safeguards",
+      "Summary": "They are implementing appropriate safeguards to protect the security and integrity of shared personal data with group companies, adhering to standard contract clauses approved by the European Commission.",
+      "ClauseSection": "8.2. Telegram’s Group Companies"
+    },
+    {
+      "InfringementKeyword": "Right to Delete Personal Data",
+      "Summary": "You have the right to delete your personal data and all the messages, media, contacts and every other piece of data you store in the Telegram cloud.",
+      "ClauseSection": "Deleting data"
+    },
+    {
+      "InfringementKeyword": "Control Over Personal Data",
+      "Summary": "You have controls over how your data is used. You can delete synced contacts in the settings.",
+      "ClauseSection": "Your Rights Regarding the Personal Data You Provide to Us"
+    },
+    {
+      "InfringementKeyword": "Right to Amend Personal Data",
+      "Summary": "You have the right to amend your personal data.",
+      "ClauseSection": "Your Rights Regarding the Personal Data You Provide to Us"
+    },
+    {
+      "InfringementKeyword": "Right to Restrict Processing of Personal Data",
+      "Summary": "You have the right to restrict the processing of your personal data.",
+      "ClauseSection": "Your Rights Regarding the Personal Data You Provide to Us"
+    },
+    {
+      "InfringementKeyword": "Deleting Messages & Account Self-Destruction",
+      "Summary": "Telegram provides the option for any user to delete the messages in their chats and these messages, once deleted, are gone forever. This can be flagged as safety as it gives users control over their data. Additionally, accounts are set to self-destruct after 6 months of inactivity by default, which can also be managed by users.",
+      "ClauseSection": "10.2. Deleting Messages"
+    },
+    {
+      "InfringementKeyword": "Privacy Policy Update",
+      "Summary": "Telegram states that any changes made to this Privacy Policy will be notified to the users, thus keeping users updated on any changes in the privacy terms.",
+      "ClauseSection": "11. Changes to this Privacy Policy"
+    }
+  ]
+}

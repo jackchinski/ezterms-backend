@@ -26,4 +26,5 @@ the company will inform you when they update their terms and conditions agreemen
 
 Please respond in the format of a JSON object, that contains the following categories for each clause you have classified, if no clauses are found, please return an empty array within the object with the categories, "Danger", "Caution", "Safety" but empty. 
 Only use double quotes, so that I can parse the response please. 
+And only respond with the object, and no additional message before it. Thank you.
 {"Danger": [{"InfringementKeyword": "Quick keywords", "Summary": "Shorter breakdown and why it matters / why it was flagged as this", "ClauseSection": "Include which section this clause was found in"}, {"InfringementKeyword": "This will be the next clause"}], "Caution": [{"InfringementKeyword": "Do the same as in danger"}], "Safety": [{"InfringementKeyword": "Do the same as in danger"}]}

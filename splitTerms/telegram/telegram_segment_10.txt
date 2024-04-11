@@ -1,0 +1,6 @@
+Further Information
+If you have any questions please feel free to explore our FAQ or contact Telegram's Volunteer Support in-app via Settings > Ask a Question. If you live in the EU and would like to submit a GDPR-related request, please see here. Telegram is an open source project. You can find more information on our:
+API at: https://core.telegram.org/api;
+Bot Platform at: https://core.telegram.org/bots;
+Protocol at: https://core.telegram.org/mtproto; and
+Source Code at: https://telegram.org/apps#source-code. Confirm that Telegram apps downloaded from app stores are using the same code that we publish at: https://core.telegram.org/reproducible-builds
