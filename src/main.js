@@ -31,4 +31,4 @@ async function main(companyName) {
 }
 
 // ENTER SERVICE NAME BELOW
-main("pinterest").then(() => console.log("All processes completed successfully!"));
+main("shopify").then(() => console.log("All processes completed successfully!"));

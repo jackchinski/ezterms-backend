@@ -1,0 +1,203 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "collect and use information",
+      "Summary": "The privacy policy stated the company collects and use information, though it isn't specified what data they collect and how it is used. This could potentially include location tracking, excessive data collection, data sharing and selling to 3rd parties and possibly financial tracking. ",
+      "ClauseSection": "Introduction"
+    },
+    {
+      "InfringementKeyword": "sharing your personal information",
+      "Summary": "The policy specifies that without permission or unless legally required, the company refuses to share personal information. However, it is unclear that what scenarios would require them to share and who would they be sharing this information with which could include 3rd parties.",
+      "ClauseSection": "Our Values"
+    },
+    {
+      "InfringementKeyword": "Data processing, sharing",
+      "Summary": "The company will process your data, potentially share it with third parties, and keep it for an undisclosed period of time. This could include sensitive personal information.",
+      "ClauseSection": "Laws in the European Economic Area (EEA) and in the United Kingdom (UK) call these reasons legitimate interests."
+    },
+    {
+      "InfringementKeyword": "Consent Withdrawal",
+      "Summary": "The company might process sensitive data based upon the user's consent, but also acknowledges a user's right to withdraw that consent, indicating that sensitive information is likely being collected.",
+      "ClauseSection": "We only process personal information for these legitimate interests after considering the potential risks to your privacy."
+    },
+    {
+      "InfringementKeyword": "Third party, data collection, data sharing",
+      "Summary": "The terms state that a third party may be involved in collecting and verifying identification documents, indicating a potential transfer or sharing of your data beyond the scope of the application.",
+      "ClauseSection": "Paragraph 1"
+    },
+    {
+      "InfringementKeyword": "Data storage location, cross-border data transfer",
+      "Summary": "The terms specify that they may send your personal information outside of your region, including to the United States, and multiple such cross-border transfers could lead to data being exposed to risks.",
+      "ClauseSection": "Paragraph 2, 3, 4 and 5"
+    },
+    {
+      "InfringementKeyword": "Legal request, data disclosure",
+      "Summary": "The terms mention that under legal compulsion, the company may be required to disclose user's personal information, introducing potential for third-party access.",
+      "ClauseSection": "Paragraph 5"
+    },
+    {
+      "InfringementKeyword": "Data retention",
+      "Summary": "The company retains and uses personal information as needed for legal obligations, resolving disputes, and enforcing policies. This may involve excessive data collection.",
+      "ClauseSection": "Data Retention"
+    },
+    {
+      "InfringementKeyword": "Machine learning",
+      "Summary": "The company uses machine learning techniques to improve services, which could involve automated decision-making and potentially excessive data collection.",
+      "ClauseSection": "Use of Machine Learning"
+    },
+    {
+      "InfringementKeyword": "Data controller",
+      "Summary": "Shopify International Ltd and Shopify Commerce Singapore Pte. Ltd. are the controllers of your personal data depending on your location. This could involve potential risks as they have complete control of the use and processing of your data",
+      "ClauseSection": "Data controllers"
+    },
+    {
+      "InfringementKeyword": "location tracking, data sharing",
+      "Summary": "The clause outlines use of geolocation data and ability to share user's data with various third parties.",
+      "ClauseSection": "Sensitive personal information"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "The clause informs about the collection of a broad spectrum of user data including account credentials, browsing activity and highly sensitive personal information.",
+      "ClauseSection": "Internet or other electronic network activity information"
+    },
+    {
+      "InfringementKeyword": "Excessive data collection",
+      "Summary": "The company collects information about the devices you use to access their services or apps, and third parties like email providers, service providers, marketplaces, and subprocessors provide them information related to your usage. This data collection goes beyond the immediate scope of the application",
+      "ClauseSection": "Your device(s), Third parties"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "Your information is shared with third-party subprocessors, cookie and analytics providers to assist in providing services, which increases the risk of information misuse.",
+      "ClauseSection": "Subprocessors, Analytics and cookie providers"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "If a third party requests",
+      "Summary": "The company makes it clear they will refuse to share personal information unless the user gives permission or they are legally required to do so. However, the policy does not make it clear what situations would peg them as 'legally required' which could potentially result in an account termination without further explanation.",
+      "ClauseSection": "Our Values"
+    },
+    {
+      "InfringementKeyword": "Data Transfer",
+      "Summary": "The company can transfer your information to another third party if you tell them to do so, potentially leading to unwanted consequences.",
+      "ClauseSection": "In particular, where we cannot rely on an alternative legal basis for processing, where you direct us to transfer information to a third party."
+    },
+    {
+      "InfringementKeyword": "Communication Choices",
+      "Summary": "While the company notes that a user can change their communication choices to withdraw consent, this statement tends to blur the boundaries of explicit data sharing consent and marketing communications.",
+      "ClauseSection": "At any time, you have a right to withdraw your consent by changing your communication choices."
+    },
+    {
+      "InfringementKeyword": "Account deletion",
+      "Summary": "If a user stops using the services or deletes their account, their personal information is stored in an aggregated and anonymized format or deleted - the clause is not clear about user control over this.",
+      "ClauseSection": "Data Retention"
+    },
+    {
+      "InfringementKeyword": "Cookies and tracking",
+      "Summary": "The company uses cookies and other tracking technologies on their website and during the provision of services, potentially using data for targeted ads.",
+      "ClauseSection": "Use of Cookies"
+    },
+    {
+      "InfringementKeyword": "Data storage location",
+      "Summary": "Your data may be stored in Ireland, Singapore, or elsewhere depending on your location which may affect the legal protections for your data",
+      "ClauseSection": "Where your data is stored"
+    },
+    {
+      "InfringementKeyword": "Data Usage for advertizing",
+      "Summary": "The clause mentions of sharing personal user data with advertisiers and marketing vendors which implies usage of user data for targeted marketing and personalized ads.",
+      "ClauseSection": "Why we collect and share your Personal Information"
+    },
+    {
+      "InfringementKeyword": "Data storage in another country",
+      "Summary": "The clause suggests data storage and sharing with Cloud storage providers implying potential storage in another country.",
+      "ClauseSection": "Companies who help us provide you with our services"
+    },
+    {
+      "InfringementKeyword": "Termination and data retention",
+      "Summary": "If you close the store, stop paying your subscription fees, or your account is terminated, the company retains your store information for two years before deletion. This can be concerning as it suggests the company keeps your data even after you've discontinued their services.",
+      "ClauseSection": "How long we keep your information"
+    },
+    {
+      "InfringementKeyword": "Data location",
+      "Summary": "Your information could be stored in countries other than where you reside as the company uses third-party subprocessors for various services.",
+      "ClauseSection": "Subprocessors"
+    },
+    {
+      "InfringementKeyword": "terminating accounts",
+      "Summary": "This clause might potentially lead to the termination of accounts without any further explanation, especially when a user submits a request in regards to their personal data. This could raise caution as it takes away the right of the user to know why actions are being made on their account.",
+      "ClauseSection": "Right to Request Deletion"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "delete or anonymize this information",
+      "Summary": "Company has stated that where possible, they delete or anonymize user's information that they no longer need. This leaves a door open for user to delete their account data.",
+      "ClauseSection": "Our Values"
+    },
+    {
+      "InfringementKeyword": "we will let you know",
+      "Summary": "Company will update users by email or through Shopify admin if any significant changes are made to their privacy practice, indicating that they are committed to keeping users informed about updates to their terms and conditions.",
+      "ClauseSection": "Introduction"
+    },
+    {
+      "InfringementKeyword": "Privacy Measures",
+      "Summary": "The company states that they take steps to protect user information, such as providing transparency, allowing control over personal information, and utilizing technical measures for protection.",
+      "ClauseSection": "These legitimate interests after considering the potential risks to your privacy."
+    },
+    {
+      "InfringementKeyword": "Personal Information Control",
+      "Summary": "The company allows users to access and control their personal information, including the option to correct, amend, delete or transfer it.",
+      "ClauseSection": "We believe you should be able to access and control your personal information no matter where you live."
+    },
+    {
+      "InfringementKeyword": "Data Subject Request",
+      "Summary": "The company acknowledges the right of data subjects to make requests about their data, providing an online portal for such requests.",
+      "ClauseSection": "please submit your data subject request through our online portal."
+    },
+    {
+      "InfringementKeyword": "Data protection, encryption",
+      "Summary": "The company states they take steps to protect user's information when it is transferred across borders, indicating data security measures in place.",
+      "ClauseSection": "Paragraph 2"
+    },
+    {
+      "InfringementKeyword": "Contractual Commitments, Data Protection",
+      "Summary": "The company asserts that personal information transferred outside of Europe and Switzerland is protected by contractual commitments comparable to Standard Contractual Clauses.",
+      "ClauseSection": "Paragraph 4"
+    },
+    {
+      "InfringementKeyword": "Data retention",
+      "Summary": "The company states that personal data will only be retained as long as necessary, indicating a commitment to delete (or anonymize) data when no longer needed, which is a good privacy practice.",
+      "ClauseSection": "Paragraph 6"
+    },
+    {
+      "InfringementKeyword": "Data protection",
+      "Summary": "The company has security measures in place to protect users' personal information, including independent audits of data storage and systems.",
+      "ClauseSection": "Data Protection"
+    },
+    {
+      "InfringementKeyword": "User rights",
+      "Summary": "Users have the ability to make requests about, or complaints regarding, how their personal information is processed.",
+      "ClauseSection": "User Contact"
+    },
+    {
+      "InfringementKeyword": "US Privacy Laws",
+      "Summary": "Shopify provides assurances about the handling of your personal data under US Privacy Laws. This may offer some protection to customers located in the United States",
+      "ClauseSection": "United States Regional Privacy Notice"
+    },
+    {
+      "InfringementKeyword": "User's control on data",
+      "Summary": "The clause mentions about using the user's precise device location only when the user has permitted the app to do so",
+      "ClauseSection": "Your device’s precise location"
+    },
+    {
+      "InfringementKeyword": "Data control",
+      "Summary": "You have the right to request what personal information they collect, use, or disclose about you and request corrections to any inaccurate personal information. It's a safety feature as it gives users control over their personal information.",
+      "ClauseSection": "Your rights over your information"
+    },
+    {
+      "InfringementKeyword": "data deletion",
+      "Summary": "This clause grants users the right to request for the deletion of their personal data. It offers safety as it puts the user in control of their data and reinforces their privacy.",
+      "ClauseSection": "Right to Request Deletion"
+    }
+  ]
+}

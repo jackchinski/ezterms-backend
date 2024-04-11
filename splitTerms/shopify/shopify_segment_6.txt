@@ -1,0 +1,17 @@
+Internet or other electronic network activity information, including information regarding the device and browser you use, network connection, IP address, and how you browse through our apps and sites;
+Geolocation data, including your mailing and billing address;
+Inferences, or information derived from other personal information about you, which could include your preferences, interests, and other information used to personalize your experience;
+Other information you provide; and
+Sensitive personal information, which may include:
+Government-issued identifiers, including social security, driver’s license, state identification card, or passport number;
+Your account access credentials (such as account log-in, financial account, debit or credit card number in combination with any required security access code, password, or credentials allowing access to an account);
+Your device’s precise location (if you are a Shop App user, but only when you allow Shop to access this information);
+Information you voluntarily disclose that may reveal certain characteristics about you such as your racial or ethnic origin or sexual orientation
+The contents of email messages in the email inboxes that you connect to your Shop account, and information from email messages you transfer to the app to be included in your order history (if you use Shop). Companies who help us provide you with our services, including cloud storage providers, payment processors, fulfillment partners, security vendors, email providers, marketplaces and data analytics vendors;
+Advertisers and marketing vendors;
+Merchants whose shops you visit or make purchases from;
+Partners who provide a range of services to merchants, such as by developing apps or themes for use by merchants, serving as an affiliate that refers potential merchants to us, or helping merchants build or manage stores;
+Law enforcement or other third parties in connection with legal requests, to comply with applicable law or to prevent harm. Why we collect and share your Personal Information
+We use and share your personal information for the purposes set out in the Shopify Privacy Policies. For categories of sensitive personal information that we collect, we only use or disclose such information either with your specific consent when required, or as otherwise permitted by law. Sources of Personal Information
+To make commerce better for everyone at Shopify, we collect and use personal information provided by:
+You: We collect the information you provide when you use our platform, including when you sign up for Shopify as a merchant, visit a Shopify-powered store, fill in order information, visit one of Shopify’s websites or contact Shopify support. We collect account and payment information you provide to us (including information about your business if you are a merchant), Shopify stores or items you save to favorites, purchases you make, reviews you post, and how you otherwise interact or communicate with stores or other users on our apps or services. We also collect information about how you browse through our apps and sites, including search terms you may enter.
