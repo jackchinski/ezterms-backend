@@ -16,7 +16,7 @@ export async function sendJSONToFirebase(companyName) {
   try {
     const combinedResponse = JSON.parse(fs.readFileSync(`combinedResponses/combinedResponse_${companyName}.json`));
 
-    const updateDbRef = db.collection("backend-test").doc(companyName);
+    const updateDbRef = db.collection("finalTerms").doc(companyName);
 
     await updateDbRef.set({
       Danger: combinedResponse["Danger"],
