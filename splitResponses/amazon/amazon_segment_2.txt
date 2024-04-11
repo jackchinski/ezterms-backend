@@ -1,0 +1,12 @@
+{"Danger": [
+  {"InfringementKeyword": "credit risks, scoring methods", "Summary": "Amazon may collect personal information to assess credit risks. This could be intrusive as it goes beyond the normal scope of data collection and enters into financial tracking.", "ClauseSection": "We use personal information to...credit risks."},
+  {"InfringementKeyword": "cookies and other identifiers", "Summary": "Amazon uses cookies and other identifiers to recognize your device. This implies tracking your location and collecting data beyond the normal scope of shopping services.", "ClauseSection": "What About Cookies and Other Identifiers?"},
+  {"InfringementKeyword": "sharing personal information, third-parties", "Summary": "Amazon shares customers' personal information with third-party providers. This might involve selling or sharing data with third-party services for various purposes.", "ClauseSection": "Does Amazon Share Your Personal Information?"},
+  {"InfringementKeyword": "Third-Party Service Providers", "Summary": "Amazon employs other companies to perform specific services, and these third-party services have access to personal information. This means user's data can be shared with external entities.", "ClauseSection": "Third-Party Service Providers."}
+  ],
+ "Caution": [
+  {"InfringementKeyword": "Business Transfers", "Summary": "In case Amazon is sold or buys other businesses, customer information may be transferred as part of business assets. This puts user's data at risk during these transactions.", "ClauseSection": "Business Transfers."}
+  ],
+ "Safety": [
+  {"InfringementKeyword": "Protection of Amazon", "Summary": "Amazon would disclose personal information only to comply with the law, to enforce their terms of use, or to protect rights and safety. This indicates the company respects individual's rights and legal requirements.", "ClauseSection": "Protection of Amazon and Others."}
+  ]}

@@ -1,0 +1,178 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "Personal Information Collection",
+      "Summary": "Amazon collects personal information in order to improve its products and services. It collects both information provided by the customers and also automatically collects certain types of information about the use of Amazon Services",
+      "ClauseSection": "What Personal Information About Customers Does Amazon Collect? "
+    },
+    {
+      "InfringementKeyword": "Third Party Information",
+      "Summary": "Amazon might receive information about the customers from other sources which can be used to correct their records and deliver purchase more easily",
+      "ClauseSection": "What Personal Information About Customers Does Amazon Collect?"
+    },
+    {
+      "InfringementKeyword": "Advertising",
+      "Summary": "Amazon uses personal information to display interest-based ads for features, products, and services. Although they do not use information that personally identifies for these ads, their collection of this information is concerning",
+      "ClauseSection": "For What Purposes Does Amazon Process Your Personal Information?"
+    },
+    {
+      "InfringementKeyword": "credit risks, scoring methods",
+      "Summary": "Amazon may collect personal information to assess credit risks. This could be intrusive as it goes beyond the normal scope of data collection and enters into financial tracking.",
+      "ClauseSection": "We use personal information to...credit risks."
+    },
+    {
+      "InfringementKeyword": "cookies and other identifiers",
+      "Summary": "Amazon uses cookies and other identifiers to recognize your device. This implies tracking your location and collecting data beyond the normal scope of shopping services.",
+      "ClauseSection": "What About Cookies and Other Identifiers?"
+    },
+    {
+      "InfringementKeyword": "sharing personal information, third-parties",
+      "Summary": "Amazon shares customers' personal information with third-party providers. This might involve selling or sharing data with third-party services for various purposes.",
+      "ClauseSection": "Does Amazon Share Your Personal Information?"
+    },
+    {
+      "InfringementKeyword": "Third-Party Service Providers",
+      "Summary": "Amazon employs other companies to perform specific services, and these third-party services have access to personal information. This means user's data can be shared with external entities.",
+      "ClauseSection": "Third-Party Service Providers."
+    },
+    {
+      "InfringementKeyword": "Third-Party Sharing",
+      "Summary": "The company shares your information with third parties for advertising, and although it doesn't directly share identifiable data, it uses cookies, device identifiers and encryption techniques to indirectly share your identifiable information.",
+      "ClauseSection": "What About Advertising? Third-Party Advertisers and Links to Other Websites."
+    },
+    {
+      "InfringementKeyword": "Cross-Border Data Transfers",
+      "Summary": "The company transfers personal information across borders, potentially to regions with different data protection laws.",
+      "ClauseSection": "Cross-Border Transfers."
+    },
+    {
+      "InfringementKeyword": "Payment Data Collection",
+      "Summary": "The company collects and stores your credit card data in adherence to the PCI DSS standards.",
+      "ClauseSection": "How Secure Is Information About Me?"
+    },
+    {
+      "InfringementKeyword": "Data Access, Data Usage, Personal Information",
+      "Summary": "The company keeps track of your personal information such as name, address, payment options, etc. and use them to offer services. The company also maintains a copy of any information you update for their records.",
+      "ClauseSection": "What Choices Do I Have?"
+    },
+    {
+      "InfringementKeyword": "Consent Withdrawal",
+      "Summary": "You can revoke your consent for data processing at any time. However, such action implies that the company was at some point processing your data for certain specific purposes, which can be considered as a danger-level privacy concern as it's not explicit what those purposes might be.",
+      "ClauseSection": "Your Account"
+    },
+    {
+      "InfringementKeyword": "excessive data collection, location tracking, data sharing",
+      "Summary": "The clauses heavily emphasize on data collection, including address, IP address, Wi-Fi credentials, device log files, etc., which goes beyond the scope of the Amazon Services. It also includes the potential for tracking your location and possibly sharing this data with third-party services or corporations.",
+      "ClauseSection": "Information You Give Us When You Use Amazon Services"
+    },
+    {
+      "InfringementKeyword": "location tracking, excessive data collection",
+      "Summary": "The agreement points out tracking the location of your device or computer, and collecting a wide range of use metrics. They talk about analyzing data such as login, password, downloads, streams, playback details, device use metrics, etc which is considered an excessive data collection.",
+      "ClauseSection": "Automatic Information"
+    },
+    {
+      "InfringementKeyword": "data sharing, credit history",
+      "Summary": "The terms mention getting delivery and address details from third parties and giving that same information to fulfill orders more efficiently. Also, they gather credit history from credit bureaus. These point towards data sharing with third parties and financial tracking.",
+      "ClauseSection": "Information from Other Sources"
+    },
+    {
+      "InfringementKeyword": "data collection and data sharing",
+      "Summary": "The clause states that Amazon has access to a myriad of personal data, including order history, personally identifiable information, payment settings, and even voice recordings associated with your account. This extensive data collection goes beyond the scope of selling products.",
+      "ClauseSection": "Information You Can Access"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Suspension without Explanation",
+      "Summary": "While not explicitly stated, Amazon reserves the right to terminate or suspend accounts without further explanations, which is typically an implicit clause of most terms of service",
+      "ClauseSection": "What Personal Information About Customers Does Amazon Collect?"
+    },
+    {
+      "InfringementKeyword": "Advertising",
+      "Summary": "Personal information collected is used for display of interest-based ads for features, products and services. This use of information for advertising could mean customers are targeted with specific content.",
+      "ClauseSection": "For What Purposes Does Amazon Process Your Personal Information?"
+    },
+    {
+      "InfringementKeyword": "Business Transfers",
+      "Summary": "In case Amazon is sold or buys other businesses, customer information may be transferred as part of business assets. This puts user's data at risk during these transactions.",
+      "ClauseSection": "Business Transfers."
+    },
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "The company uses your data to serve you with more relevant ads. It provides ad companies with information that helps them target their ads according to your preferences.",
+      "ClauseSection": "What About Advertising? Use of Third-Party Advertising Services."
+    },
+    {
+      "InfringementKeyword": "Data Storage Outside Province",
+      "Summary": "The company may store personal data outside of your province or country. These data could possibly be subjected to different data protection laws.",
+      "ClauseSection": "Cross-Border Transfers."
+    },
+    {
+      "InfringementKeyword": "Ads and Notifications",
+      "Summary": "The company uses your data to provide personalized ads and can send you in-app notifications. You can adjust these settings, but the default setting might involve data usage in this manner.",
+      "ClauseSection": "Advertising Preferences"
+    },
+    {
+      "InfringementKeyword": "Account suspension/limitation and applicable law",
+      "Summary": "The clause implies that the user's access to services might be limited or unavailable depending on their data choices and place of residence. It also mentions disputes are subject to the law of the state of Washington, potentially forcing users outside Washington or even outside the US to take legal action there.",
+      "ClauseSection": "Conditions of Use, Notices, and Revisions"
+    },
+    {
+      "InfringementKeyword": "using your data to create targeted ads, syncing your contacts, personalized content",
+      "Summary": "These clauses show a potential for the company to use your data, content, and contacts to provide personalized content, possibly including targeted ads. It also might share your data internationally - the clause doesn't make clear where the data will be stored.",
+      "ClauseSection": "Information You Give Us When You Use Amazon Services"
+    },
+    {
+      "InfringementKeyword": "targeted ads",
+      "Summary": "Amazon accesses data about your product views and purchases which is likely used for targeted advertising.",
+      "ClauseSection": "Information You Can Access"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Choice of Data Sharing",
+      "Summary": "Users do have the choice to not provide certain personal information, however, that might hinder the performance and availbility of many Amazon Services. Hence, a certain amount of user control over data is allowed",
+      "ClauseSection": "What Personal Information About Customers Does Amazon Collect?"
+    },
+    {
+      "InfringementKeyword": "Legal Obligations",
+      "Summary": "Amazon complies with legal obligations and collects personal information to the extent of complying with laws.",
+      "ClauseSection": "For What Purposes Does Amazon Process Your Personal Information?"
+    },
+    {
+      "InfringementKeyword": "Protection of Amazon",
+      "Summary": "Amazon would disclose personal information only to comply with the law, to enforce their terms of use, or to protect rights and safety. This indicates the company respects individual's rights and legal requirements.",
+      "ClauseSection": "Protection of Amazon and Others."
+    },
+    {
+      "InfringementKeyword": "Data Deletion Control",
+      "Summary": "You have the opportunity to choose not to share your information with third parties.",
+      "ClauseSection": "Sharing agreement"
+    },
+    {
+      "InfringementKeyword": "Data Encryption",
+      "Summary": "The company uses encryption protocols and software to secure your personal information during transmission.",
+      "ClauseSection": "How Secure Is Information About Me?"
+    },
+    {
+      "InfringementKeyword": "Safeguards",
+      "Summary": "The company maintains physical, electronic and procedural safeguards in connection with data collection, storage, and disclosure.",
+      "ClauseSection": "How Secure Is Information About Me?"
+    },
+    {
+      "InfringementKeyword": "Security Features",
+      "Summary": "Devices offer security features against unauthorized access and data loss. These features can be configured based on users' needs.",
+      "ClauseSection": "How Secure Is Information About Me?"
+    },
+    {
+      "InfringementKeyword": "Data control, Device permissions",
+      "Summary": "You have the right to control how your data is used. You can choose settings on not providing certain information, adjust customer communication preferences, control the receipt of in-app ads, and opt-out of certain types of data usage. You can also change your device permissions.",
+      "ClauseSection": "What Choices Do I Have?, Manage Your Content and Devices"
+    },
+    {
+      "InfringementKeyword": "Control over personal data",
+      "Summary": "This clause allows users to control their data by accessing, correcting, and potentially deleting their data on their own. It states that the user has rights regarding their personal data, which is an important aspect of user safety.",
+      "ClauseSection": "Seller/Aurthor Account Information/Conditions of Use, Notices, and Revisions"
+    }
+  ]
+}

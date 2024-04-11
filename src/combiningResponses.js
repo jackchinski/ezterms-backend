@@ -12,7 +12,6 @@ export async function combineJSONObjects(companyName) {
 
   try {
     const files = await fs.readdir(directoryPath);
-    console.log("files", files);
 
     for (const file of files) {
       const filePath = path.join(directoryPath, file);

@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "excessive data collection, location tracking, data sharing", "Summary": "The clauses heavily emphasize on data collection, including address, IP address, Wi-Fi credentials, device log files, etc., which goes beyond the scope of the Amazon Services. It also includes the potential for tracking your location and possibly sharing this data with third-party services or corporations.", "ClauseSection": "Information You Give Us When You Use Amazon Services"}], 
+
+"Caution": [{"InfringementKeyword": "using your data to create targeted ads, syncing your contacts, personalized content", "Summary": "These clauses show a potential for the company to use your data, content, and contacts to provide personalized content, possibly including targeted ads. It also might share your data internationally - the clause doesn't make clear where the data will be stored.", "ClauseSection": "Information You Give Us When You Use Amazon Services"}], 
+
+"Safety":  []}

@@ -29,7 +29,7 @@ function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".
 
   let currentSegment = [];
   let currentWordCount = 0;
-  let segmentIndex = 0;
+  let segmentIndex = 1; 
 
   sentences.forEach((sentence) => {
     const wordCount = sentence.split(/\s+/).length;

@@ -1,0 +1,6 @@
+{"Danger": [{"InfringementKeyword": "location tracking, excessive data collection", "Summary": "The agreement points out tracking the location of your device or computer, and collecting a wide range of use metrics. They talk about analyzing data such as login, password, downloads, streams, playback details, device use metrics, etc which is considered an excessive data collection.", "ClauseSection": "Automatic Information"}, 
+{"InfringementKeyword": "data sharing, credit history", "Summary": "The terms mention getting delivery and address details from third parties and giving that same information to fulfill orders more efficiently. Also, they gather credit history from credit bureaus. These point towards data sharing with third parties and financial tracking.", "ClauseSection": "Information from Other Sources"}], 
+
+"Caution": [], 
+
+"Safety": []}
