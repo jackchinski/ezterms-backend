@@ -1,0 +1,22 @@
+{"Danger": [
+  {"InfringementKeyword": "Geolocation Data", 
+   "Summary": "Geolocation data related to user's content is retained indefinitely until the user deletes the content or the account which risks user's privacy.", 
+   "ClauseSection": "How long do we keep information about you"},
+  {"InfringementKeyword": "Device and Equipment Data",
+   "Summary": "Certain device and connection data is kept indefinitely, which can be seen as over-collection of data.",
+   "ClauseSection": "How long do we keep information about you"},
+  {"InfringementKeyword": "Address Book Data",
+   "Summary": "The company keeps phone numbers in a hashed form indefinitely, which could lead to excessive data collection.",
+   "ClauseSection": "How long do we keep information about you"}],
+ "Caution": [
+  {"InfringementKeyword": "Content Data",
+   "Summary": "Content data is retained indefinitely (as long as you have an active account) or until the Content is deleted by you. This could be used to create targeted ads.",
+   "ClauseSection": "How long do we keep information about you"}],
+ "Safety": [
+   {"InfringementKeyword": "Right to delete content", 
+    "Summary": "Users are allowed to delete content data which will be removed from company servers, ensuring control over personal data.", 
+    "ClauseSection": "How long do we keep information about you"},
+  {"InfringementKeyword": "Notification",
+    "Summary": "Users have control over the notifications they receive, providing some control to the users.",
+    "ClauseSection": "What controls do you have over your information"}]
+}

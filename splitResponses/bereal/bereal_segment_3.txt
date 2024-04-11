@@ -1,0 +1,16 @@
+{"Danger": [
+    {"InfringementKeyword": "excessive data collection", "Summary": "Services are capturing data around application performance and usage for recommendation, which may be beyond the scope of the app.", "ClauseSection": "Services"},
+    {"InfringementKeyword": "data sharing", "Summary": "Information is being shared with different categories including BeReal, Other Users, Service providers and Partner Integrations.", "ClauseSection": "When we share information about you"},
+    {"InfringementKeyword": "information sale", "Summary": "In events of merger, acquisition, etc., BeReal may sell the information related to you", "ClauseSection": "Change in Ownership"}
+
+],
+ "Caution": [
+    {"InfringementKeyword": "data storage", "Summary": "Data is being distributed to partners who provide various services, some of them might operate beyond your country's jurisdiction.", "ClauseSection": "Service Providers"},
+    {"InfringementKeyword": "account termination", "Summary": "In case of merger, acquisition, etc., your information might be handed over, and it's unclear if your account will be ceased or continued", "ClauseSection": "Change in Ownership"},
+    {"InfringementKeyword": "legal actions", "Summary": "Company is forced to disclose user information when approached by legal authorities.", "ClauseSection": "Legal and Statutory Purposes"}
+
+],
+ "Safety": [
+    {"InfringementKeyword": "user choice", "Summary": "In research cases, the user is given a choice to participate, indicating the user has some control over their data and its usage.", "ClauseSection": "Research"}
+
+]}

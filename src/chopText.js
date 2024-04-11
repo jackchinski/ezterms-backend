@@ -19,7 +19,7 @@ function writeSegmentToFile(segment, index, outputDirectory, companyName) {
   const fileName = `${companyName}_segment_${index + 1}.txt`;
   const filePath = path.join(outputDirectory, fileName);
   fs.writeFileSync(filePath, segment, "utf8");
-  console.log(`Wrote Segment ${index} for ${companyName}`);
+  console.log(`Wrote Segment ${index + 1} for ${companyName}`);
 }
 
 function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".", companyName) {
@@ -29,7 +29,7 @@ function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".
 
   let currentSegment = [];
   let currentWordCount = 0;
-  let segmentIndex = 1; 
+  let segmentIndex = 0; 
 
   sentences.forEach((sentence) => {
     const wordCount = sentence.split(/\s+/).length;
@@ -52,7 +52,7 @@ function splitTextIntoSegments(text, wordsPerSegment = 500, outputDirectory = ".
     const segmentText = currentSegment.join(" ").trim();
     writeSegmentToFile(segmentText, segmentIndex, outputDirectory, companyName);
   }
-  console.log(`SPLITTER: Finished splitting the text into: ${segmentIndex} segments`);
+  console.log(`SPLITTER: Finished splitting the text into: ${segmentIndex + 1} segments`);
 }
 
 export function runSplitter(companyName) {

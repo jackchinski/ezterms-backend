@@ -1,0 +1,138 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "location data collection",
+      "Summary": "The terms contain location data collection which is beyond the scope of the application services",
+      "ClauseSection": "1.1 Data that you provide to us"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "The policy mentions collecting geolocation, biographical information, and profile pictures, which may be seen as excessive data collection not entirely needed for the services of the app. ",
+      "ClauseSection": "1.1 Data that you provide to us"
+    },
+    {
+      "InfringementKeyword": "Geolocation Data",
+      "Summary": "The user's location is tracked when they share content through the BeReal Services. Depending on the feature, this location can be precise or approximate.",
+      "ClauseSection": "Geolocation Data"
+    },
+    {
+      "InfringementKeyword": "Address Book Data",
+      "Summary": "BeReal has access to the user's address book and can identify friends who use BeReal, it could potentially lead to excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Address Book Data"
+    },
+    {
+      "InfringementKeyword": "Device and Equipment Data",
+      "Summary": "Device data like type, operating system version, language preference, and applications are collected. This could be seen as gathering additional data that is outside of the scope of the application",
+      "ClauseSection": "Device and Equipment Data"
+    },
+    {
+      "InfringementKeyword": "Integrations with partners",
+      "Summary": "BeReal receives necessary device data, and other optional data when users connect a partner application for a specific integration. This could lead to sharing or selling data to 3rd parties.",
+      "ClauseSection": "Integrations with partners"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "Services are capturing data around application performance and usage for recommendation, which may be beyond the scope of the app.",
+      "ClauseSection": "Services"
+    },
+    {
+      "InfringementKeyword": "data sharing",
+      "Summary": "Information is being shared with different categories including BeReal, Other Users, Service providers and Partner Integrations.",
+      "ClauseSection": "When we share information about you"
+    },
+    {
+      "InfringementKeyword": "information sale",
+      "Summary": "In events of merger, acquisition, etc., BeReal may sell the information related to you",
+      "ClauseSection": "Change in Ownership"
+    },
+    {
+      "InfringementKeyword": "Geolocation Data",
+      "Summary": "Geolocation data related to user's content is retained indefinitely until the user deletes the content or the account which risks user's privacy.",
+      "ClauseSection": "How long do we keep information about you"
+    },
+    {
+      "InfringementKeyword": "Device and Equipment Data",
+      "Summary": "Certain device and connection data is kept indefinitely, which can be seen as over-collection of data.",
+      "ClauseSection": "How long do we keep information about you"
+    },
+    {
+      "InfringementKeyword": "Address Book Data",
+      "Summary": "The company keeps phone numbers in a hashed form indefinitely, which could lead to excessive data collection.",
+      "ClauseSection": "How long do we keep information about you"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Operation, Improvement, and Provision of our Services",
+      "Summary": "BeReal uses user data to create an account, display content, and identify content or accounts that may interest the user. This could potentially be used to create targeted ads.",
+      "ClauseSection": "Operation, Improvement, and Provision of our Services"
+    },
+    {
+      "InfringementKeyword": "data storage",
+      "Summary": "Data is being distributed to partners who provide various services, some of them might operate beyond your country's jurisdiction.",
+      "ClauseSection": "Service Providers"
+    },
+    {
+      "InfringementKeyword": "account termination",
+      "Summary": "In case of merger, acquisition, etc., your information might be handed over, and it's unclear if your account will be ceased or continued",
+      "ClauseSection": "Change in Ownership"
+    },
+    {
+      "InfringementKeyword": "legal actions",
+      "Summary": "Company is forced to disclose user information when approached by legal authorities.",
+      "ClauseSection": "Legal and Statutory Purposes"
+    },
+    {
+      "InfringementKeyword": "Content Data",
+      "Summary": "Content data is retained indefinitely (as long as you have an active account) or until the Content is deleted by you. This could be used to create targeted ads.",
+      "ClauseSection": "How long do we keep information about you"
+    },
+    {
+      "InfringementKeyword": "Account deletion request & data retention",
+      "Summary": "While users have an option to delete their accounts, the company retains 'Account Creation Data' to prevent permanently suspended users from creating new accounts",
+      "ClauseSection": "Delete Your Account"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "manage information",
+      "Summary": "They give users control to manage the information shared.",
+      "ClauseSection": "1.1 Data that you provide to us"
+    },
+    {
+      "InfringementKeyword": "Cameras and Photos Library",
+      "Summary": "Users can create an account without allowing BeReal to access and collect data from the device’s camera or photo library.",
+      "ClauseSection": "Cameras and Photos Library"
+    },
+    {
+      "InfringementKeyword": "How we use information we receive about you",
+      "Summary": "BeReal claims that it does not sell the user's information and uses it carefully to provide the Services. This could symbolize encrypting stored data and giving users the right to control how much they share.",
+      "ClauseSection": "How we use information we receive about you"
+    },
+    {
+      "InfringementKeyword": "user choice",
+      "Summary": "In research cases, the user is given a choice to participate, indicating the user has some control over their data and its usage.",
+      "ClauseSection": "Research"
+    },
+    {
+      "InfringementKeyword": "Right to delete content",
+      "Summary": "Users are allowed to delete content data which will be removed from company servers, ensuring control over personal data.",
+      "ClauseSection": "How long do we keep information about you"
+    },
+    {
+      "InfringementKeyword": "Notification",
+      "Summary": "Users have control over the notifications they receive, providing some control to the users.",
+      "ClauseSection": "What controls do you have over your information"
+    },
+    {
+      "InfringementKeyword": "Control over data",
+      "Summary": "The company provides users with options to control their data, such as controlling settings, deleting account, getting a copy of their information, and contacting privacy support",
+      "ClauseSection": "6. What rights do you have over your information and Delete Your Account"
+    },
+    {
+      "InfringementKeyword": "Data controller, data processing practices, right to voice concerns with local supervisory",
+      "Summary": "The company assumes responsibility for your data and assures the user's right to question their data processing practices. Your rights to voice concerns with the local data protection authorities in the EU, EFTA States or the United Kingdom are confirmed.",
+      "ClauseSection": "Contact"
+    }
+  ]
+}

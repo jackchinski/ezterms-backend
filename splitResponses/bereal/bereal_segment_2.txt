@@ -1,0 +1,11 @@
+{"Danger": [
+    {"InfringementKeyword": "Geolocation Data", "Summary": "The user's location is tracked when they share content through the BeReal Services. Depending on the feature, this location can be precise or approximate.", "ClauseSection": "Geolocation Data"},
+    {"InfringementKeyword": "Address Book Data", "Summary": "BeReal has access to the user's address book and can identify friends who use BeReal, it could potentially lead to excessive data collection beyond the scope of the application.", "ClauseSection": "Address Book Data"},
+    {"InfringementKeyword": "Device and Equipment Data", "Summary": "Device data like type, operating system version, language preference, and applications are collected. This could be seen as gathering additional data that is outside of the scope of the application", "ClauseSection": "Device and Equipment Data"},
+    {"InfringementKeyword": "Integrations with partners", "Summary": "BeReal receives necessary device data, and other optional data when users connect a partner application for a specific integration. This could lead to sharing or selling data to 3rd parties.", "ClauseSection": "Integrations with partners"}
+], "Caution": [
+    {"InfringementKeyword": "Operation, Improvement, and Provision of our Services", "Summary": "BeReal uses user data to create an account, display content, and identify content or accounts that may interest the user. This could potentially be used to create targeted ads.", "ClauseSection": "Operation, Improvement, and Provision of our Services"}
+], "Safety": [
+    {"InfringementKeyword": "Cameras and Photos Library", "Summary": "Users can create an account without allowing BeReal to access and collect data from the device’s camera or photo library.", "ClauseSection": "Cameras and Photos Library"},
+    {"InfringementKeyword": "How we use information we receive about you", "Summary": "BeReal claims that it does not sell the user's information and uses it carefully to provide the Services. This could symbolize encrypting stored data and giving users the right to control how much they share.", "ClauseSection": "How we use information we receive about you"}
+]}
