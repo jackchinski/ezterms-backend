@@ -1,0 +1,408 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "The company may share your information with third-party platforms for advertising and promotions. This raises privacy concerns and may potentially lead to unsolicited ads.",
+      "ClauseSection": "Information from Advertising and Marketing Partners"
+    },
+    {
+      "InfringementKeyword": "Data sharing to third party",
+      "Summary": "The company may share your information with third parties to detect, prevent or prosecute illegal activity. This allows for the potential wide dissemination of your personal data.",
+      "ClauseSection": "To share information with law enforcement and respond to legal requests"
+    },
+    {
+      "InfringementKeyword": "Sharing Information",
+      "Summary": "Etsy shares user information with third parties for investigations or regulatory inquiries. This can involve data sharing and excessive data collection, posing potential privacy concerns.",
+      "ClauseSection": "Section 3 - Requests for Information Policy"
+    },
+    {
+      "InfringementKeyword": "Business Reorganization",
+      "Summary": "In case of business reorganization, Etsy may transfer user information as one of the business assets. This implies a potential data sharing or selling to third parties without explicit user consent.",
+      "ClauseSection": "Business Reorganization Section"
+    },
+    {
+      "InfringementKeyword": "Data Based on Consent",
+      "Summary": "Etsy, based on user's consent, can utilize various user data for marketing purposes. This may potentially involve excessive data collection beyond application context.",
+      "ClauseSection": "Consent Section"
+    },
+    {
+      "InfringementKeyword": "Personalizing Experience",
+      "Summary": "Etsy uses data to personalize the experience on the Sites and Apps for users in the European Region. This can involve collection of General Location Information, which is categorized as potentially invasive.",
+      "ClauseSection": "European Region Personalization Section"
+    },
+    {
+      "InfringementKeyword": "Precise Location Information",
+      "Summary": "Collects device-based precise location to personalize services, delivery, and shipping.",
+      "ClauseSection": "Service Usage Information"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "Shares your information with regulators, law enforcement or others where necessary to perform a task in the public interest like combating unlawful or harmful behavior.",
+      "ClauseSection": "Data used for tasks carried out in the public interest"
+    },
+    {
+      "InfringementKeyword": "Third Party Data Sharing",
+      "Summary": "Sharing your data with third parties for the purposes of performing services, legal operations or compliance with the privacy policy.",
+      "ClauseSection": "How We Share Your Information"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "Your reviews, account information, device information, etc. can be shared on search engines, third-party platforms, and within Etsy Group Companies. Sellers can know your buying habits and third parties connected to your Etsy account receive certain information about you. Business partners involved in facilitating transactions also need to share information related to the transaction. This increases the risk of your data being accessed by unauthorized parties or used for unacceptable purposes.",
+      "ClauseSection": "Data Sharing and Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "information sharing with third parties",
+      "Summary": "The clause indicates that your personal information may be shared with advisors, consultants, regulators, tax authorities, law enforcement, government agencies, civil litigants, and industry partners. This raises a danger as this would mean data being shared outside the companyv could possibly be misused or mishandled.",
+      "ClauseSection": "Section 3"
+    },
+    {
+      "InfringementKeyword": "data transfer in business reorganization",
+      "Summary": "The clause advises that in the event of a business reorganization, such as a sale, merger, liquidation, receivership, your information may be one of the transferred business assets. There's potential risk as your information may be transferred to a party that has different privacy standards.",
+      "ClauseSection": "Business Reorganization"
+    },
+    {
+      "InfringementKeyword": "data sharing with service providers",
+      "Summary": "The section states that Etsy shares your information with a list of third-party service providers such as research companies, analytics services, security providers, etc. The range of shared information is expansive which could lead to excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Service Providers"
+    },
+    {
+      "InfringementKeyword": "Transfer of personal information",
+      "Summary": "Etsy transfers personal information to different locations, including countries with different privacy laws and standards, in order to deliver the services.",
+      "ClauseSection": "To the extent that Etsy is deemed to transfer personal information"
+    },
+    {
+      "InfringementKeyword": "Data collection by third party",
+      "Summary": "Google reCAPTCHA Enterprise collects hardware and software information from users for security purposes and to help prevent spam, fraud, and abuse.",
+      "ClauseSection": "We use Google reCAPTCHA Enterprise in connection with our Services"
+    },
+    {
+      "InfringementKeyword": "Information Retention",
+      "Summary": "The company keeps your information as long as necessary to provide their services, maintain performance, security, and keeping business and financial records. The retention period is based on general rules, consent and contractual obligations.",
+      "ClauseSection": "Retention Period"
+    },
+    {
+      "InfringementKeyword": "KYC Compliance",
+      "Summary": "Etsy will retain and use your information to fulfill legal obligations such as KYC and tax laws.",
+      "ClauseSection": "Use of information for regulatory compliance"
+    },
+    {
+      "InfringementKeyword": "Prevention of harm",
+      "Summary": "Personal data may be retained for other legitimate purposes such as preventing harm, investigating violations, promoting safety, security and integrity or to protect the company's rights and platform.",
+      "ClauseSection": "Information used for other legitimate purposes"
+    },
+    {
+      "InfringementKeyword": "data sharing",
+      "Summary": "The clause mentions sharing user information with other group companies, trusted partners, and service providers. This is a risky practice as user data may be misused, sold, or lost during these exchanges.",
+      "ClauseSection": "Section 3"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "Many different types of personal and financial information are collected when a user signs up for an account or uses the services. This includes name, email, phone number, payment information, delivery address, regional info etc. This can be considered an overreach and represent a breach of privacy.",
+      "ClauseSection": "Section 1, Information You Provide to Us"
+    },
+    {
+      "InfringementKeyword": "Location",
+      "Summary": "The service tracks your location based on the information you provide in your profile and seller public profile. This could be used for excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Profile, Seller Public Profile Information"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "The service gathers information about your favorite items, stores, product reviews and linked third-party accounts which can be shared with other individuals on the platform or third parties.",
+      "ClauseSection": "Profile, Seller Public Profile Information"
+    },
+    {
+      "InfringementKeyword": "Financial tracking",
+      "Summary": "The service collects your credit or debit card information or other payment method. This could be used for financial tracking.",
+      "ClauseSection": "Guest Checkout Information"
+    },
+    {
+      "InfringementKeyword": "Data collection",
+      "Summary": "The service collects information about your transactions such as the items purchased, purchase price, and date of the transaction. This information might be used for excessive data collection",
+      "ClauseSection": "Transaction Information"
+    },
+    {
+      "InfringementKeyword": "Additional data access",
+      "Summary": "The service allows access to your camera for uploading photographs and videos. This could be used for gathering additional data from your device outside the scope of the application.",
+      "ClauseSection": "Photographs and Videos"
+    },
+    {
+      "InfringementKeyword": "Content License",
+      "Summary": "By uploading photos and videos or posting content in community spaces, you potentially give the service license to use your content.",
+      "ClauseSection": "Photographs and Videos, Forums/Community Information"
+    },
+    {
+      "InfringementKeyword": "Excessive data collection",
+      "Summary": "Collection of a wide array of information, some of which may be deemed excessive such as demographic information and business income breakdown.",
+      "ClauseSection": "Survey Responses and Market Research"
+    },
+    {
+      "InfringementKeyword": "Automated data collection",
+      "Summary": "The platform automatically collects information from the user's browser or device when they interact with the website or apps, infringing on the privacy of the user.",
+      "ClauseSection": "Information We Collect Automatically - Browser and Device Information"
+    },
+    {
+      "InfringementKeyword": "Utility tracking",
+      "Summary": "The service tracks how often users use the Apps, how they interact with the Services, which can infringe on users' privacy.",
+      "ClauseSection": "Service Usage Information"
+    },
+    {
+      "InfringementKeyword": "Location tracking",
+      "Summary": "General location data is used to tailor services and estimate shipping costs. Constant tracking could be an infringement on user privacy.",
+      "ClauseSection": "General Location Information"
+    },
+    {
+      "InfringementKeyword": "location tracking",
+      "Summary": "The company keeps track of your IP addresses, your general and precise location.",
+      "ClauseSection": "Precise Location Information"
+    },
+    {
+      "InfringementKeyword": "third-party information",
+      "Summary": "The company receives information about you from third parties, including details from payment processors like Paypal.",
+      "ClauseSection": "Information We Receive from Third Parties"
+    },
+    {
+      "InfringementKeyword": "data collection",
+      "Summary": "The company uses third-party software to record information such as how often you use the Site and/or Apps, your interaction with their services, performance data and app errors.",
+      "ClauseSection": "Analytics Information"
+    },
+    {
+      "InfringementKeyword": "Data Sharing, Third Parties",
+      "Summary": "The clause suggests that when you link our services with third-party applications, they receive your contact information and any additional information you authorize the third party to share with us, which might include delicate data.",
+      "ClauseSection": "Linking to Third-Party Applications"
+    },
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "The clause indicates the collection of information about a Non-Member in connection with certain features. This data collection might reach beyond the actual usage purpose.",
+      "ClauseSection": "Non-Member Information"
+    },
+    {
+      "InfringementKeyword": "Data Sharing, Third Parties",
+      "Summary": "The clause suggests that certain information will be shared with third-party partners – such as shipping and payment partners – risking privacy.",
+      "ClauseSection": "Facilitating Buying and Selling on Etsy"
+    },
+    {
+      "InfringementKeyword": "General Location Information",
+      "Summary": "The clause indicates that there's collection of general location data, potentially unveiling user's location",
+      "ClauseSection": "Buyer Account Information"
+    },
+    {
+      "InfringementKeyword": "Information from our Payment Processors",
+      "Summary": "This part entails details on financial transactions hence potential tracking of financial information",
+      "ClauseSection": "Etsy Payments service"
+    },
+    {
+      "InfringementKeyword": "Sharing with third parties",
+      "Summary": "Etsy may use, preserve, or release your personal information to a third party to comply with legal and regulatory obligations.",
+      "ClauseSection": "To comply with legal and regulatory obligations"
+    },
+    {
+      "InfringementKeyword": "Location tracking",
+      "Summary": "In the process of complying with legal and regulatory obligations, Etsy might collect and use your general location information.",
+      "ClauseSection": "To comply with legal and regulatory obligations"
+    },
+    {
+      "InfringementKeyword": "Location Tracking",
+      "Summary": "Tracks general location information for exploring ways to develop and grow their business.",
+      "ClauseSection": "Understanding How Etsy is Used"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "Collects various types of data including service usage, browser and device information, customer support information and cookie information.",
+      "ClauseSection": "Understanding How Etsy is Used"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "Uses service usage, browser and device information, and shop preferences to rank search results and customize services.",
+      "ClauseSection": "Ranking Etsy Search Results"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "Collects location and buyer profile information when providing advertising.",
+      "ClauseSection": "Providing On-Platform Advertising"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Account suspension without explanation",
+      "Summary": "The company may apply automated processing and manual review on your data to maintain security and integrity, and even detect violations of the company's terms of use. This could potentially lead to account suspension without further explanation.",
+      "ClauseSection": "To keep our Services safe and secure"
+    },
+    {
+      "InfringementKeyword": "No right to know why a company is suspending or flagging accounts",
+      "Summary": "The company states it may use your data to protect and exercise its legal rights or to resolve disputes. This suggests there might be no explicit right for users to know why their accounts are flagged or suspended.",
+      "ClauseSection": "To protect our legal rights"
+    },
+    {
+      "InfringementKeyword": "Personalized Ads",
+      "Summary": "Etsy uses user's consent to personalize ads on third-party platforms and sites. It involves using their data to create targeted ads, which can be concerning if a user is not comfortable with their data being used for such purposes.",
+      "ClauseSection": "Ads Personalization Section"
+    },
+    {
+      "InfringementKeyword": "Public Display of Information",
+      "Summary": "Certain information about users like public profile details, join date, reviewed items, purchased items etc are publicly displayed and shared via social networks.",
+      "ClauseSection": "How We Share Your Information"
+    },
+    {
+      "InfringementKeyword": "Linked Third-Party Websites or Services",
+      "Summary": "If you connect your Etsy account to a third-party application, the providers of those services receive certain information about you. Also, you're subjected to the third-party service provider's terms and privacy policy, which Etsy has no control over and might not be in alignment with Etsy's data standards and safety measures.",
+      "ClauseSection": "Data Sharing and Privacy Policy"
+    },
+    {
+      "InfringementKeyword": "data storage location",
+      "Summary": "The clause states that by using their services, you acknowledge that your information will be used in the United States, Ireland, and any other country where Etsy operates. As such there can be legal implications as data protection laws vary between countries.",
+      "ClauseSection": "4. How We Transfer Your Information"
+    },
+    {
+      "InfringementKeyword": "Data stored in another country",
+      "Summary": "Personal information is transferred and stored outside of the user's home country as part of the contract with Etsy.",
+      "ClauseSection": "As we operate in countries worldwide and use technical infrastructure in the US"
+    },
+    {
+      "InfringementKeyword": "data stored in another country",
+      "Summary": "Based on your location, your data may be controlled by a service provider located in another country. This can lead to potential jurisdictional issues, differing privacy laws, or slower response times for resolving issues.",
+      "ClauseSection": "Approximately third paragraph from the beginning"
+    },
+    {
+      "InfringementKeyword": "Data for targeted ads",
+      "Summary": "Data collected from your profile and seller public profile, including favorite items and stores, may be used to create targeted ads.",
+      "ClauseSection": "Profile, Seller Public Profile Information"
+    },
+    {
+      "InfringementKeyword": "Data storage",
+      "Summary": "Data collected throughout the use of the service, including messages and promotional participation, may be stored in another country.",
+      "ClauseSection": "Messages Information, Promotion Information"
+    },
+    {
+      "InfringementKeyword": "data from advertising partners",
+      "Summary": "The company receives certain information about you from advertising and marketing partners, including the marketing content you have viewed or clicked, responses to offers, and audience information.",
+      "ClauseSection": "Information from Advertising and Marketing Partners"
+    },
+    {
+      "InfringementKeyword": "To run promotions and sweepstakes",
+      "Summary": "The company might use user's data to personalize content for their benefit.",
+      "ClauseSection": "Running Promotions"
+    },
+    {
+      "InfringementKeyword": "Our Services are subject to laws",
+      "Summary": "The clause implies that the company will comply with laws potentially leading to termination of an account without reason",
+      "ClauseSection": "Legal Obligations"
+    },
+    {
+      "InfringementKeyword": "Lack of transparency",
+      "Summary": "While Etsy relies on legitimate interests to use your personal information in certain cases, the details of these interests are not explicitly stated, which could be concerning.",
+      "ClauseSection": "Legitimate Interests"
+    },
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "Service usage, browser and device information, and general location information are used to show personalized ads and promote sellers.",
+      "ClauseSection": "Advertising on Etsy"
+    },
+    {
+      "InfringementKeyword": "Data Collection for Advertising",
+      "Summary": "Your information may be used to display non-personalized ads on third-party platforms and sites.",
+      "ClauseSection": "Non-Personalized Ads on Third-Party Platforms"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Rights & Choices, Privacy Policy Changes",
+      "Summary": "These sections of the policy indicate that users have certain rights regarding their personal information and the company will inform them about updates on their privacy policy. This is considered safe as users have some control and will be kept informed.",
+      "ClauseSection": "7. Your Rights & Choices, 9. Privacy Policy Changes"
+    },
+    {
+      "InfringementKeyword": "Data encryption",
+      "Summary": "The company suggests it has measures to keep data safe and secure. However, it is not explicitly stated that data is encrypted.",
+      "ClauseSection": "To keep our Services safe and secure"
+    },
+    {
+      "InfringementKeyword": "Inform of updates",
+      "Summary": "The company implies that they will make efforts to prevent spam, abuse, harm, and other violations, and likely update users about these. However, no explicit statement is made about informing users of updates to terms and conditions.",
+      "ClauseSection": "To keep our Services safe and secure"
+    },
+    {
+      "InfringementKeyword": "user notification",
+      "Summary": "The clause mentions that Etsy will notify you by email or by putting a notice on the Site and the Apps if it intends to transfer information about you. This ensures transparency and allows you to take necessary action, if needed.",
+      "ClauseSection": "Business Reorganization"
+    },
+    {
+      "InfringementKeyword": "Data protection",
+      "Summary": "Etsy uses technical and administrative measures to protect personal information from unlawful, unauthorized, or destructive access, and encourages users to enhance account security through strong passwords and two-factor authentication.",
+      "ClauseSection": "How We Protect Your Information"
+    },
+    {
+      "InfringementKeyword": "Data retention policy",
+      "Summary": "Etsy retains your information only as long as necessary for the purposes outlined in the Policy, while the account is active, or to comply with legal obligations.",
+      "ClauseSection": "How Long We Store Your Information"
+    },
+    {
+      "InfringementKeyword": "User Rights",
+      "Summary": "Users have the right to access, edit or remove certain information. They can request a copy of their personal data, rectify inaccurate info and transmit particular information to another controller.",
+      "ClauseSection": "Your Rights and Choices"
+    },
+    {
+      "InfringementKeyword": "Data Portability",
+      "Summary": "Users have the right to receive their information in a structured and commonly used format.",
+      "ClauseSection": "Right to Portability"
+    },
+    {
+      "InfringementKeyword": "Right to Correction",
+      "Summary": "Users have the right to request for rectification of inaccurate information about them.",
+      "ClauseSection": "Right to Correction"
+    },
+    {
+      "InfringementKeyword": "Right to Restrict Processing, Right to Deletion, Right to Object, Right to Withdraw Consent, Right to File a Complaint",
+      "Summary": "This is about the user's right to control their data. They can restrict how their data is used, ask for it to be deleted, object to certain types of processing, and they have the right to withdraw their consent at any time. They are also allowed to file a complaint about how their data is handled.",
+      "ClauseSection": "Rights and Choices section"
+    },
+    {
+      "InfringementKeyword": "Communication Choices, Privacy Policy Changes",
+      "Summary": "You can opt out from receiving marketing emails. The privacy policy can be updated regularly and users will be notified of these changes via email or message.",
+      "ClauseSection": "21"
+    },
+    {
+      "InfringementKeyword": "How to Contact Us",
+      "Summary": "Provides options to ask questions including email and physical address, which gives users means to assert their data privacy rights.",
+      "ClauseSection": "22"
+    },
+    {
+      "InfringementKeyword": "User control to manage data",
+      "Summary": "As a buyer, you have the freedom to edit, remove, or limit your profile information through the account settings. This practice enhances user safety.",
+      "ClauseSection": "Buyer Public Profile Information paragraph"
+    },
+    {
+      "InfringementKeyword": "User Control",
+      "Summary": "You have control over personal information shared on your profile and seller public profile, and you can remove, limit or edit this information through your account settings.",
+      "ClauseSection": "Profile, Seller Public Profile Information"
+    },
+    {
+      "InfringementKeyword": "Control over data sharing",
+      "Summary": "The user has the opportunity to choose what information they provide in cases like surveys, research, and feedback mechanisms, providing some control over data sharing.",
+      "ClauseSection": "Survey Responses and Market Research"
+    },
+    {
+      "InfringementKeyword": "control over data",
+      "Summary": "The company uses your precise geo-location only where you have given them permission to do so through your device-based settings.",
+      "ClauseSection": "Precise Location Information"
+    },
+    {
+      "InfringementKeyword": "Data Consent",
+      "Summary": "The clause implies that certain information will be collected to set up your Etsy account and allow you to interact with the Etsy Community only after the user's consent.",
+      "ClauseSection": "Creating and Maintaining your Etsy account"
+    },
+    {
+      "InfringementKeyword": "To promote the safety, security and integrity of our Services",
+      "Summary": "This clause indicates the use of data to promote user's security on the platform",
+      "ClauseSection": "Service Security"
+    },
+    {
+      "InfringementKeyword": "To send Service communications",
+      "Summary": "The clause informs that the company will inform the users about updates and changes. This promotes transparency and allows the user to stay informed",
+      "ClauseSection": "Service Communications"
+    },
+    {
+      "InfringementKeyword": "Data usage notifications",
+      "Summary": "Etsy explains in detail the categories of data they use and how this data is used, including complying with local laws, verifying your identity, and improving services.",
+      "ClauseSection": "Why and How We Use Your Information"
+    }
+  ]
+}

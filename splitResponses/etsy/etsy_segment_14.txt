@@ -1,0 +1,19 @@
+{"Danger": [
+  {"InfringementKeyword": "information sharing with third parties",
+   "Summary": "The clause indicates that your personal information may be shared with advisors, consultants, regulators, tax authorities, law enforcement, government agencies, civil litigants, and industry partners. This raises a danger as this would mean data being shared outside the companyv could possibly be misused or mishandled.",
+   "ClauseSection": "Section 3"},
+   {"InfringementKeyword": "data transfer in business reorganization",
+   "Summary": "The clause advises that in the event of a business reorganization, such as a sale, merger, liquidation, receivership, your information may be one of the transferred business assets. There's potential risk as your information may be transferred to a party that has different privacy standards.",
+   "ClauseSection": "Business Reorganization"},
+   {"InfringementKeyword": "data sharing with service providers",
+   "Summary": "The section states that Etsy shares your information with a list of third-party service providers such as research companies, analytics services, security providers, etc. The range of shared information is expansive which could lead to excessive data collection beyond the scope of the application.",
+   "ClauseSection": "Service Providers"}],
+"Caution": [
+  {"InfringementKeyword": "data storage location",
+   "Summary": "The clause states that by using their services, you acknowledge that your information will be used in the United States, Ireland, and any other country where Etsy operates. As such there can be legal implications as data protection laws vary between countries.",
+   "ClauseSection": "4. How We Transfer Your Information"}],
+"Safety": [
+  {"InfringementKeyword": "user notification",
+   "Summary": "The clause mentions that Etsy will notify you by email or by putting a notice on the Site and the Apps if it intends to transfer information about you. This ensures transparency and allows you to take necessary action, if needed.",
+   "ClauseSection": "Business Reorganization"}]
+}

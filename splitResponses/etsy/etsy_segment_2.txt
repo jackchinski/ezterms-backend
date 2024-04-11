@@ -1,0 +1,24 @@
+{"Danger": 
+    [
+        {"InfringementKeyword": "data sharing", 
+         "Summary": "The clause mentions sharing user information with other group companies, trusted partners, and service providers. This is a risky practice as user data may be misused, sold, or lost during these exchanges.", 
+         "ClauseSection": "Section 3"},
+         
+        {"InfringementKeyword": "excessive data collection", 
+         "Summary": "Many different types of personal and financial information are collected when a user signs up for an account or uses the services. This includes name, email, phone number, payment information, delivery address, regional info etc. This can be considered an overreach and represent a breach of privacy.", 
+         "ClauseSection": "Section 1, Information You Provide to Us"}
+    ], 
+    
+    "Caution": 
+    [
+        {"InfringementKeyword": "data stored in another country", 
+         "Summary": "Based on your location, your data may be controlled by a service provider located in another country. This can lead to potential jurisdictional issues, differing privacy laws, or slower response times for resolving issues.", 
+         "ClauseSection": "Approximately third paragraph from the beginning"}
+    ], 
+    
+    "Safety": 
+    [
+        {"InfringementKeyword": "User control to manage data", 
+         "Summary": "As a buyer, you have the freedom to edit, remove, or limit your profile information through the account settings. This practice enhances user safety.", 
+         "ClauseSection": "Buyer Public Profile Information paragraph"}
+    ]}

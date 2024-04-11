@@ -1,0 +1,24 @@
+Here are some examples about information we receive about you:
+
+Your device information
+Websites you visit and cookie data, like through Social Plugins or the Meta Pixel
+Apps you use
+Games you play
+Purchases and transactions you make off of our Products using non-Meta checkout experiences
+Your demographics, like your education level
+The ads you see and how you interact with them
+How you use our partners’ products and services, online or in person
+
+Partners also share information like your email address, IP address and advertising device ID with us. This helps us match your activities with your account, if you have one. We receive this information whether or not you’re logged in or have an account on our Products. Partners also share with us their communications with you if they instruct us to provide services to their business, like helping them manage their communications. To learn how a business processes or shares your information, read their privacy policy or contact them directly. Partners use our Business Tools, integrations and Meta Audience Network technologies to share information with us. These partners collect your information when you visit their site or app or use their services, or through other businesses or organizations they work with. We require partners to have the right to collect, use and share your information before giving it to us. How do we use your information? Here are some of the ways we use your information:
+
+We personalize your experience, like by suggesting reels to watch or communities to join
+We improve our Products by applying information about what you use them to do, and what else is happening on your device when our app crashes
+We work to prevent harmful behavior and keep people safe on our Products
+We send you messages about the Products you use or ones you might like, if you let us
+We research for the good of people around the world, like to advance technology or to help out in a crisis
+
+We use information we collect to provide a personalized experience to you, including ads, along with the other purposes we explain in detail below. For some of these purposes, we use information across our Products and across your devices. The information we use for these purposes is automatically processed by our systems. But in some cases, we also use manual review to access and review your information. To use less information that’s connected to individual users, in some cases we de-identify or aggregate information or anonymize it so that it no longer identifies you. We use this information in the same ways we use your information as described in this section. Here are the ways we use your information:
+
+To provide, personalize and improve our Products
+
+We use information we have to provide and improve our Products. This includes personalizing features, content and recommendations, such as your Facebook Feed, Instagram feed, Stories and ads.

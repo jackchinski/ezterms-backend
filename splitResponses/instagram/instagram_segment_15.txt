@@ -1,0 +1,6 @@
+{"Danger": [{"InfringementKeyword": "Using your content", "Summary": "The company retains all rights to their intellectual property that you might use in your content but not the rights to your original content.", "ClauseSection": "Additional Rights We Retain"}], 
+
+"Caution": [{"InfringementKeyword": "Terminating account", "Summary": "The agreement allows the company to remove any content or information you share on the service if they believe it violates their terms of use. They can also terminate or disable your account without any notice.", "ClauseSection": "Content Removal and Disabling or Terminating Your Account"},
+{"InfringementKeyword": "No right to sue", "Summary": "The agreement states that the service can terminate your access or refuse to provide service to protect their community or if you create a legal risk for them.", "ClauseSection": "Content Removal and Disabling or Terminating Your Account"}], 
+
+"Safety": [{"InfringementKeyword": "Deleting your account", "Summary": "If you request to delete your content or account, the deletion process will automatically begin no more than 30 days after your request. It may take up to 90 days to delete the content and up to another 90 days to remove it from backups and disaster recovery systems.", "ClauseSection": "Content Removal and Disabling or Terminating Your Account"}]}

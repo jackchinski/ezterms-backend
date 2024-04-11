@@ -1,0 +1,8 @@
+{"Danger": 
+[{"InfringementKeyword": "Excessive data collection", "Summary": "Collection of a wide array of information, some of which may be deemed excessive such as demographic information and business income breakdown.", "ClauseSection": "Survey Responses and Market Research"}, 
+{"InfringementKeyword": "Automated data collection", "Summary": "The platform automatically collects information from the user's browser or device when they interact with the website or apps, infringing on the privacy of the user.", "ClauseSection": "Information We Collect Automatically - Browser and Device Information"}, 
+{"InfringementKeyword": "Utility tracking", "Summary": "The service tracks how often users use the Apps, how they interact with the Services, which can infringe on users' privacy.", "ClauseSection": "Service Usage Information"}, 
+{"InfringementKeyword": "Location tracking", "Summary": "General location data is used to tailor services and estimate shipping costs. Constant tracking could be an infringement on user privacy.", "ClauseSection": "General Location Information"}], 
+"Caution": [], 
+"Safety": 
+[{"InfringementKeyword": "Control over data sharing", "Summary": "The user has the opportunity to choose what information they provide in cases like surveys, research, and feedback mechanisms, providing some control over data sharing.", "ClauseSection": "Survey Responses and Market Research"}]}

@@ -1,0 +1,23 @@
+Hashtags you use
+The time, frequency and duration of your activities on our Products
+
+
+Information with special protections
+
+You might choose to provide information about your religious views, your sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs or trade union membership. These and other types of information could have special protections under the laws of your jurisdiction. Information we collect about your friends, followers and other connections
+
+We collect information about friends, followers, groups, accounts, Facebook Pages and other users and communities you’re connected to and interact with. This includes how you interact with them across our Products and which ones you interact with the most. Information we collect about contacts
+
+We also collect your contacts’ information, such as their name and email address or phone number, if you choose to upload or import it from a device, like by syncing an address book. If you don’t use Meta Products, or use them without an account, your information might still be collected. Information we collect or infer about you based on others’ activity
+
+We collect information about you based on others' activity. We also infer things about you based on others' activity. For example:
+
+We may suggest a friend to you through Facebook's People You May Know feature if you both appear on a contact list that someone uploads. We take into account whether your friends belong to a group when we suggest you join it. App, browser and device information
+
+We collect and receive information from and about the different devices you use and how you use them. Device information we collect and receive includes:
+
+The device and software you’re using, and other device characteristics. What you’re doing on your device, like whether our app is in the foreground or if your mouse is moving (which can help tell humans from bots)
+Identifiers that tell your device apart from other users’, including Family Device IDs. Signals from your device. Information you’ve shared with us through device settings, like GPS location, camera access, photos and related metadata. Information about the network you connect your device to and your connection, including your IP address
+Some location-related information, even if Location Services is turned off in your device settings. This includes using IP addresses to estimate your general location. Information about our Products’ performance on your device. Information from cookies and similar technologies. Information from partners, vendors and other third parties
+
+We collect and receive information from partners, measurement vendors, marketing vendors and  other third parties about a variety of your information and activities on and off our Products.

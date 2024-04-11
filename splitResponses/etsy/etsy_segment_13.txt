@@ -1,0 +1,11 @@
+{"Danger": [
+  {"InfringementKeyword": "Data Sharing",
+   "Summary": "Your reviews, account information, device information, etc. can be shared on search engines, third-party platforms, and within Etsy Group Companies. Sellers can know your buying habits and third parties connected to your Etsy account receive certain information about you. Business partners involved in facilitating transactions also need to share information related to the transaction. This increases the risk of your data being accessed by unauthorized parties or used for unacceptable purposes.",
+   "ClauseSection": "Data Sharing and Privacy Policy"}
+  ],
+ "Caution": [
+  {"InfringementKeyword": "Linked Third-Party Websites or Services",
+   "Summary": "If you connect your Etsy account to a third-party application, the providers of those services receive certain information about you. Also, you're subjected to the third-party service provider's terms and privacy policy, which Etsy has no control over and might not be in alignment with Etsy's data standards and safety measures.",
+   "ClauseSection": "Data Sharing and Privacy Policy"}
+   ],
+ "Safety": []}

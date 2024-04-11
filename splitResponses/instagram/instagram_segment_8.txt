@@ -1,0 +1,32 @@
+{"Danger": [
+    {
+      "InfringementKeyword": "Access your information, Share information with third parties",
+      "Summary": "Applications or websites connected to your Facebook or Instagram can access your non-public information. Instagram shares certain information with advertisers, partners, and businesses they hire for marketing and customer service.",
+      "ClauseSection": "How long they can access your information, How do we share information with third parties?"
+    },
+    {
+      "InfringementKeyword": "Integrated partners handle your information",
+      "Summary": "Integrated partners manage your shared information based on their terms and policies, not Instagram's. They may use different service providers to process this information.",
+      "ClauseSection": "How integrated partners handle your information"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Educate Yourself",
+      "Summary": "Users are encouraged to regularly visit their apps and websites settings to review which ones continue to have access to their information - implying users need to manage their own safety.",
+      "ClauseSection": "Apps or websites you’ve logged into using Facebook Login or connected to your Instagram account"
+    },
+    {
+      "InfringementKeyword": "Information retention",
+      "Summary": "Even if an application's access to your information has expired, it can still retain information previously shared. There may be no way to get that information deleted.",
+      "ClauseSection": "Apps or websites you’ve logged into using Facebook Login or connected to your Instagram account"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Don’t sell your information",
+      "Summary": "Instagram reassures that they don't sell user information and will never do so. They also have rules for partners and third parties about how they can use and disclose the information provided.",
+      "ClauseSection": "We don’t sell your information, and we never will"
+    }
+  ]
+}

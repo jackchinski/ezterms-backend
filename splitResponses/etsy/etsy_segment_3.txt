@@ -1,0 +1,17 @@
+{"Danger": [{"InfringementKeyword": "Location", "Summary": "The service tracks your location based on the information you provide in your profile and seller public profile. This could be used for excessive data collection beyond the scope of the application.", "ClauseSection": "Profile, Seller Public Profile Information"}, 
+
+{"InfringementKeyword": "Data sharing", "Summary": "The service gathers information about your favorite items, stores, product reviews and linked third-party accounts which can be shared with other individuals on the platform or third parties.", "ClauseSection": "Profile, Seller Public Profile Information"}, 
+
+{"InfringementKeyword": "Financial tracking", "Summary": "The service collects your credit or debit card information or other payment method. This could be used for financial tracking.", "ClauseSection": "Guest Checkout Information"}, 
+
+{"InfringementKeyword": "Data collection", "Summary": "The service collects information about your transactions such as the items purchased, purchase price, and date of the transaction. This information might be used for excessive data collection", "ClauseSection": "Transaction Information"}, 
+
+{"InfringementKeyword": "Additional data access", "Summary": "The service allows access to your camera for uploading photographs and videos. This could be used for gathering additional data from your device outside the scope of the application.", "ClauseSection": "Photographs and Videos"}, 
+
+{"InfringementKeyword": "Content License", "Summary": "By uploading photos and videos or posting content in community spaces, you potentially give the service license to use your content.", "ClauseSection": "Photographs and Videos, Forums/Community Information"}],
+
+ "Caution": [{"InfringementKeyword": "Data for targeted ads", "Summary": "Data collected from your profile and seller public profile, including favorite items and stores, may be used to create targeted ads.", "ClauseSection": "Profile, Seller Public Profile Information"}, 
+
+ {"InfringementKeyword": "Data storage", "Summary": "Data collected throughout the use of the service, including messages and promotional participation, may be stored in another country.", "ClauseSection": "Messages Information, Promotion Information"}],
+
+ "Safety": [{"InfringementKeyword": "User Control", "Summary": "You have control over personal information shared on your profile and seller public profile, and you can remove, limit or edit this information through your account settings.", "ClauseSection": "Profile, Seller Public Profile Information"}]}

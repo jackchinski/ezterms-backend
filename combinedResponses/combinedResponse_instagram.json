@@ -1,0 +1,353 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "The terms collect an excessive amount of data beyond the scope of the application, which could pose potential risks in terms of user privacy. This includes actions, content creation, payment transactions, interaction behavior, and other data that is not strictly necessary for the functionality of the application.",
+      "ClauseSection": "The information you give us...Your activity and information you provide"
+    },
+    {
+      "InfringementKeyword": "Financial Tracking",
+      "Summary": "The application collects user financial information, including credit card details for transactions made within the application. This can pose a risk in terms of financial security and data privacy.",
+      "ClauseSection": "Purchases or other transactions"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "The company shares user data with third parties both external researchers and other Meta companies. It also allows for the transfer of user data in the event of a business sale.",
+      "ClauseSection": "Third Parties, Other Third Parties, How do the Meta Companies work together, How can you manage or delete your information and exercise your rights"
+    },
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "The company collects extensive user data for multiple purposes, including improving product functionality, providing customer support, facilitating payments, conducting research, marketing and promotion",
+      "ClauseSection": "We share the information we have about you to receive these services"
+    },
+    {
+      "InfringementKeyword": "Data Use, Integration outside of Application Scope",
+      "Summary": "User data is shared across all Meta companies, including Facebook, Instagram, Messenger and WhatsApp. This data is used for integrated features across applications.",
+      "ClauseSection": "How do the Meta Companies work together, Why we share across the Meta Companies"
+    },
+    {
+      "InfringementKeyword": "Retention of data",
+      "Summary": "The clause mentions about keeping the user's information for as long as the company needs. This might range from a few months to several years, depending on the use case.",
+      "ClauseSection": "How long do we keep your information?"
+    },
+    {
+      "InfringementKeyword": "Ad targeting",
+      "Summary": "This clause refers to managing user's ad preferences and the use of Cookies for ads targeting, which can lead to excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Ad preferences"
+    },
+    {
+      "InfringementKeyword": "Financial transaction data",
+      "Summary": "The company retains financial transaction data and may access it even after account deletion requests. This data can also be preserved for legal claims, complaints and preventing violations of terms and policies.",
+      "ClauseSection": "Why we may preserve your information longer"
+    },
+    {
+      "InfringementKeyword": "Information transfer",
+      "Summary": "Data, including user information, is shared and transferred globally to partners, service providers, and other third parties, potentially risking user privacy.",
+      "ClauseSection": "Why is information transferred to other countries?"
+    },
+    {
+      "InfringementKeyword": "Data storage locations",
+      "Summary": "Information is stored in multiple locations including the United States, Ireland, Denmark, and Sweden, among others, increasing the risk of third-party data access.",
+      "ClauseSection": "Where is the information transferred?"
+    },
+    {
+      "InfringementKeyword": "Keep information to prevent bad activity",
+      "Summary": "The company mentions it keeps certain information of the users, which it believes can help in preventing or halting damaging actions. This might include confidential data and tracking.",
+      "ClauseSection": "Initial Part of the Document"
+    },
+    {
+      "InfringementKeyword": "Access, preserve, use and share your information",
+      "Summary": "The company declares it has the right to retain and share users' data, possibly with third parties. This potentially leads to data sold to other entities.",
+      "ClauseSection": "Access, Preserve, Use and Share Your Information"
+    },
+    {
+      "InfringementKeyword": "Permissions You Give to Us",
+      "Summary": "The clause essentially grants Instagram a nearly unrestricted, royalty-free, worldwide license to all content users post on their application, with a few stipulations.",
+      "ClauseSection": "Permissions You Give to Us"
+    },
+    {
+      "InfringementKeyword": "Using your content",
+      "Summary": "The company retains all rights to their intellectual property that you might use in your content but not the rights to your original content.",
+      "ClauseSection": "Additional Rights We Retain"
+    },
+    {
+      "InfringementKeyword": "License, Account deletion, Content deletion",
+      "Summary": "The company retains a license to use your content even if you delete your account. They might retain your content more than 90 days for investigation purposes or due to technical limitations.",
+      "ClauseSection": "Content Deletion Section"
+    },
+    {
+      "InfringementKeyword": "Location Services",
+      "Summary": "The company collects location-related information, even when Location Services on your device are turned off. They use IP addresses to estimate your general location.",
+      "ClauseSection": "App, browser and device information"
+    },
+    {
+      "InfringementKeyword": "Contacts Information",
+      "Summary": "The company collects your contacts’ information if you choose to sync your address book.",
+      "ClauseSection": "Information we collect about contacts"
+    },
+    {
+      "InfringementKeyword": "Device and Network Information",
+      "Summary": "The company collects information about your device, software, network, and connection including your IP address.",
+      "ClauseSection": "App, browser and device information"
+    },
+    {
+      "InfringementKeyword": "Third Party Information",
+      "Summary": "The company collects information from other partners, vendors, and third parties about your information and activities on and off their Product.",
+      "ClauseSection": "Information from partners, vendors and other third parties"
+    },
+    {
+      "InfringementKeyword": "Device Information, Websites visited, Apps Used, Transactions",
+      "Summary": "The company collects excessive data which goes beyond the scope of the application. It tracks the websites you visit, apps you use, and transactions you make, which is a violation of privacy.",
+      "ClauseSection": "Information we receive about you"
+    },
+    {
+      "InfringementKeyword": "Email, IP address, Advertising device ID",
+      "Summary": "The partners of the company share your private data including email, IP address and Advertising ID. This may lead to potential misuse of sensitive personal data.",
+      "ClauseSection": "Permissions given to partners"
+    },
+    {
+      "InfringementKeyword": "Location Tracking",
+      "Summary": "The company collects location-related information, and continuously tracks user location even if Location Services is turned off.",
+      "ClauseSection": "How we use location-related information"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "The company collects extensive data, including profile information, activity on and off of products, created or interacted content, inferred interests, and information about connections, potentially beyond the necessary scope of the application.",
+      "ClauseSection": "How we show ads and other sponsored or commercial content"
+    },
+    {
+      "InfringementKeyword": "Data Share & Sell",
+      "Summary": "The company uses all aforementioned data to personalize advertisements and sponsored content, implying potential sharing or selling of such data to third parties.",
+      "ClauseSection": "How we show ads and other sponsored or commercial content"
+    },
+    {
+      "InfringementKeyword": "Detect activity",
+      "Summary": "This clause allows for the tracking of user activity to investigate suspicious behaviour, which can potentially involve an excessive data collection beyond the scope of the service.",
+      "ClauseSection": "Investigate suspicious activity"
+    },
+    {
+      "InfringementKeyword": "Measurement and analytics",
+      "Summary": "This clause implies the company's practice of data sharing and usage for analytic services. Analyzing the user interactions and personal habits may involve sharing data with partners.",
+      "ClauseSection": "To provide measurement, analytics and business services"
+    },
+    {
+      "InfringementKeyword": "Sharing information, Integrated partners",
+      "Summary": "Your data like email address or birthday can be shared with a third-party application if you log into their app with Facebook. In this case, any data you have on Facebook could potentially be shared.",
+      "ClauseSection": "How is your information shared on Meta Products or with integrated partners?"
+    },
+    {
+      "InfringementKeyword": "Academic Research",
+      "Summary": "Your data might be shared or used in academic research or other studies, independently acquired.",
+      "ClauseSection": "We work with independent researchers to better understand the impact social media might have on elections and democratic processes"
+    },
+    {
+      "InfringementKeyword": "data sharing, content usage",
+      "Summary": "Users can share information about you, possibly publicizing your personal posts, photos, videos and interaction details. It can also be shared by the company and accessed or reshared via third party services.",
+      "ClauseSection": "How information about you can be shared"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "Integrated partners can access all public information, as well as other information like what you post or share, how you use their services, and device information.",
+      "ClauseSection": "With integrated partners - When you use an integrated partner’s product or service"
+    },
+    {
+      "InfringementKeyword": "Access your information, Share information with third parties",
+      "Summary": "Applications or websites connected to your Facebook or Instagram can access your non-public information. Instagram shares certain information with advertisers, partners, and businesses they hire for marketing and customer service.",
+      "ClauseSection": "How long they can access your information, How do we share information with third parties?"
+    },
+    {
+      "InfringementKeyword": "Integrated partners handle your information",
+      "Summary": "Integrated partners manage your shared information based on their terms and policies, not Instagram's. They may use different service providers to process this information.",
+      "ClauseSection": "How integrated partners handle your information"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "Meta shares information with advertisers and vendors that helps them understand users and their ad engagement. Personal identifiers are shared with marketing vendors to serve more relevant ads.",
+      "ClauseSection": "Meta also provides advertisers and their vendors with information about"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "The service collects information about user's actions and interaction with content, which might be utilized to tailor advertisements according to the user's pattern. While not being immediately dangerous, this could lead to uncomfortable user experiences.",
+      "ClauseSection": "Types of content, including ads, you view or interact with"
+    },
+    {
+      "InfringementKeyword": "No Right to Sue, Data Stored in Another Country",
+      "Summary": "Your data is shared among the different Meta Companies which have their data centers scattered in different countries.",
+      "ClauseSection": "Why we share across the Meta Companies, How can you manage or delete your information and exercise your rights"
+    },
+    {
+      "InfringementKeyword": "Jurisdiction based opt-out",
+      "Summary": "The clause mentions the possibility to opt out of targeted advertising, but it may not be applicable in all jurisdictions; also, certain restrictions may apply.",
+      "ClauseSection": "Cookie-based opt out"
+    },
+    {
+      "InfringementKeyword": "Limited account deletion",
+      "Summary": "The clause mentions the possibility to request for account deletion. However, the company reserves the right to retain certain data for legal reasons or other purposes.",
+      "ClauseSection": "But you can request that we delete your information"
+    },
+    {
+      "InfringementKeyword": "Account suspension",
+      "Summary": "The company reserves the right to preserve information from accounts that have been disabled or content removed, hindering user control over their data.",
+      "ClauseSection": "Why we may preserve your information longer"
+    },
+    {
+      "InfringementKeyword": "No control of data location",
+      "Summary": "User information can be transferred to other countries where the company's partners, vendors, service providers, and third parties are located, giving users limited control over where their data resides.",
+      "ClauseSection": "Where is the information transferred?"
+    },
+    {
+      "InfringementKeyword": "No impersonation, accurate information",
+      "Summary": "The service requests not to impersonate anyone and provide correct information. If inaccuracies are found, they may terminate the account without prior notice.",
+      "ClauseSection": "Your Commitments"
+    },
+    {
+      "InfringementKeyword": "Cannot create accounts or collect information in unauthorized ways",
+      "Summary": "The company strictly confines unauthorized account creation or data mining, implying account termination upon breach.",
+      "ClauseSection": "How You Can't Use Instagram"
+    },
+    {
+      "InfringementKeyword": "Permission to use your username, profile picture, and information",
+      "Summary": "Instagram outlines that user information may be used alongside ads and other sponsored content on their application, without compensation. A user's interactions can therefore contribute to targeted advertisements.",
+      "ClauseSection": "Permission to use your username, profile picture, and information"
+    },
+    {
+      "InfringementKeyword": "Terminating account",
+      "Summary": "The agreement allows the company to remove any content or information you share on the service if they believe it violates their terms of use. They can also terminate or disable your account without any notice.",
+      "ClauseSection": "Content Removal and Disabling or Terminating Your Account"
+    },
+    {
+      "InfringementKeyword": "No right to sue",
+      "Summary": "The agreement states that the service can terminate your access or refuse to provide service to protect their community or if you create a legal risk for them.",
+      "ClauseSection": "Content Removal and Disabling or Terminating Your Account"
+    },
+    {
+      "InfringementKeyword": "Terms update",
+      "Summary": "If you do not agree to updated Terms, the company gives an option to delete the account. This could be a disruptive and inconvenient process.",
+      "ClauseSection": "Updating these terms Section"
+    },
+    {
+      "InfringementKeyword": "Data Inference",
+      "Summary": "The company collects information about you based on others' activity on their platform, such as friends connection and group association.",
+      "ClauseSection": "Information we collect or infer about you based on others’ activity"
+    },
+    {
+      "InfringementKeyword": "Personalized Experience",
+      "Summary": "The company uses the data to personalize the user's experience including ads and recommendations, indicating a use of data for the purpose of targeted marketing.",
+      "ClauseSection": "Information Usage"
+    },
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "Your data is being used to create targeted ads, including your profile information, activity on and off the products, as well as content you create or interact with across platforms.",
+      "ClauseSection": "How we show ads and other sponsored or commercial content"
+    },
+    {
+      "InfringementKeyword": "Communication",
+      "Summary": "The company communicates with users based on the information they have given and they note using the information about how you interact with their messages. This can be interpreted as the service using personal data for targeted advertising.",
+      "ClauseSection": "To communicate with you"
+    },
+    {
+      "InfringementKeyword": "Sharing posts, Communicating with others",
+      "Summary": "Whatever you share or communicate with other people can be seen by them. If you choose to share a post or information with a selected audience, they can view, download, screenshot or reshare it anywhere.",
+      "ClauseSection": "People and accounts you share and communicate with"
+    },
+    {
+      "InfringementKeyword": "data being stored in another country",
+      "Summary": "Public content can be seen, accessed, reshared, or downloaded through third-party services in other countries, such as joint apps/websites, which might have different data storage laws.",
+      "ClauseSection": "Public content"
+    },
+    {
+      "InfringementKeyword": "Educate Yourself",
+      "Summary": "Users are encouraged to regularly visit their apps and websites settings to review which ones continue to have access to their information - implying users need to manage their own safety.",
+      "ClauseSection": "Apps or websites you’ve logged into using Facebook Login or connected to your Instagram account"
+    },
+    {
+      "InfringementKeyword": "Information retention",
+      "Summary": "Even if an application's access to your information has expired, it can still retain information previously shared. There may be no way to get that information deleted.",
+      "ClauseSection": "Apps or websites you’ve logged into using Facebook Login or connected to your Instagram account"
+    },
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "Your personal information is used to curate and show you personalized ads. These vendors also track your online activity to understand your interests better.",
+      "ClauseSection": "We share your device identifier or other identifiers with marketing vendors"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "User Data Control",
+      "Summary": "Users have a certain control over those data they provide, though it's not explicitly stated to what extent. Users also retain the right to report messages and content.",
+      "ClauseSection": "Content you create...Metadata about content and messages, subject to applicable law"
+    },
+    {
+      "InfringementKeyword": "Informed Changes",
+      "Summary": "The agreement explicitly encourages users to read the privacy policy and learn about how their data is being managed. However, it is not explicitly stated if the users would be informed about the changes in the terms and conditions.",
+      "ClauseSection": "We at Meta want you to understand"
+    },
+    {
+      "InfringementKeyword": "Encryption of Stored Data, User Control over Personal Info",
+      "Summary": "The company provides users with the tools to view, manage, download, and delete their own information.",
+      "ClauseSection": "How can you manage or delete your information and exercise your rights"
+    },
+    {
+      "InfringementKeyword": "Control over data",
+      "Summary": "The clause provides the user with an avenue to manage their data and exercise their privacy rights under applicable laws.",
+      "ClauseSection": "Manage your data"
+    },
+    {
+      "InfringementKeyword": "Option to opt out of Ads",
+      "Summary": "The clause provides various options to opt out from personalized ad targeting both within and outside of the product.",
+      "ClauseSection": "Manage Meta ads you see off our Products"
+    },
+    {
+      "InfringementKeyword": "Data encryption",
+      "Summary": "The company encrypts user information in transit on public networks to protect it from unauthorized access, enhancing security.",
+      "ClauseSection": "How do we safeguard your information?"
+    },
+    {
+      "InfringementKeyword": "You can delete content",
+      "Summary": "Users retain the right to delete their own content, individually or all at once, and upon deletion, Instagram’s license to use that content ends.",
+      "ClauseSection": "Permissions You Give to Us"
+    },
+    {
+      "InfringementKeyword": "Deleting your account",
+      "Summary": "If you request to delete your content or account, the deletion process will automatically begin no more than 30 days after your request. It may take up to 90 days to delete the content and up to another 90 days to remove it from backups and disaster recovery systems.",
+      "ClauseSection": "Content Removal and Disabling or Terminating Your Account"
+    },
+    {
+      "InfringementKeyword": "Notice of terms update",
+      "Summary": "The company will inform you about changes in Terms and give you the opportunity to review them",
+      "ClauseSection": "Updating these terms Section"
+    },
+    {
+      "InfringementKeyword": "Account deletion",
+      "Summary": "You have the right to delete your account if you do not wish to agree to the updated terms",
+      "ClauseSection": "Updating these terms Section"
+    },
+    {
+      "InfringementKeyword": "De-identification of data",
+      "Summary": "For safety, the company de-identifies or aggregates the information so that it no longer identifies the user. However, it is not specified if this process is effective or fully anonymizes the data.",
+      "ClauseSection": "Data Anonymization"
+    },
+    {
+      "InfringementKeyword": "Data Encryption",
+      "Summary": "The company uses measures to promote safety, security and integrity, such as verifying accounts and activity, and addressing violations of terms or policies.",
+      "ClauseSection": "To promote safety, security and integrity"
+    },
+    {
+      "InfringementKeyword": "Policy updates",
+      "Summary": "The company promises to use user information to keep them updated about changes in policies and terms of service, ensuring that users are aware of any amendments to the agreement.",
+      "ClauseSection": "To communicate with you"
+    },
+    {
+      "InfringementKeyword": "Research for Public Interests",
+      "Summary": "The company uses collected information for research and innovation to promote overall safety, health, and well-being. It expresses the company's commitment to using data for positive social impact.",
+      "ClauseSection": "To research and innovate for social good"
+    },
+    {
+      "InfringementKeyword": "Don’t sell your information",
+      "Summary": "Instagram reassures that they don't sell user information and will never do so. They also have rules for partners and third parties about how they can use and disclose the information provided.",
+      "ClauseSection": "We don’t sell your information, and we never will"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{"Danger": [
+    {"InfringementKeyword": "Data sharing", 
+    "Summary": "The company may share your information with third-party platforms for advertising and promotions. This raises privacy concerns and may potentially lead to unsolicited ads.", 
+    "ClauseSection": "Information from Advertising and Marketing Partners"}, 
+
+    {"InfringementKeyword": "Data sharing to third party", 
+    "Summary": "The company may share your information with third parties to detect, prevent or prosecute illegal activity. This allows for the potential wide dissemination of your personal data.", 
+    "ClauseSection": "To share information with law enforcement and respond to legal requests"}
+    ], 
+
+"Caution": [
+    {"InfringementKeyword": "Account suspension without explanation", 
+    "Summary": "The company may apply automated processing and manual review on your data to maintain security and integrity, and even detect violations of the company's terms of use. This could potentially lead to account suspension without further explanation.", 
+    "ClauseSection": "To keep our Services safe and secure"}, 
+    {"InfringementKeyword": "No right to know why a company is suspending or flagging accounts", 
+    "Summary": "The company states it may use your data to protect and exercise its legal rights or to resolve disputes. This suggests there might be no explicit right for users to know why their accounts are flagged or suspended.", 
+    "ClauseSection": "To protect our legal rights"}
+    ], 
+
+"Safety": [
+    {"InfringementKeyword": "Data encryption", 
+    "Summary": "The company suggests it has measures to keep data safe and secure. However, it is not explicitly stated that data is encrypted.", 
+    "ClauseSection": "To keep our Services safe and secure"}, 
+    {"InfringementKeyword": "Inform of updates", 
+    "Summary": "The company implies that they will make efforts to prevent spam, abuse, harm, and other violations, and likely update users about these. However, no explicit statement is made about informing users of updates to terms and conditions.", 
+    "ClauseSection": "To keep our Services safe and secure"}
+    ]
+}

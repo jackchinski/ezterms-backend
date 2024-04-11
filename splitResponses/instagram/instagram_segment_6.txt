@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "Sharing information, Integrated partners", "Summary": "Your data like email address or birthday can be shared with a third-party application if you log into their app with Facebook. In this case, any data you have on Facebook could potentially be shared.", "ClauseSection": "How is your information shared on Meta Products or with integrated partners?"}, {"InfringementKeyword": "Academic Research", "Summary": "Your data might be shared or used in academic research or other studies, independently acquired.", "ClauseSection": "We work with independent researchers to better understand the impact social media might have on elections and democratic processes"}], 
+
+"Caution": [{"InfringementKeyword": "Sharing posts, Communicating with others", "Summary": "Whatever you share or communicate with other people can be seen by them. If you choose to share a post or information with a selected audience, they can view, download, screenshot or reshare it anywhere.", "ClauseSection": "People and accounts you share and communicate with"}], 
+
+"Safety": []}

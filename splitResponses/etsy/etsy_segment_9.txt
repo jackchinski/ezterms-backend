@@ -1,0 +1,13 @@
+{"Danger": [
+        {"InfringementKeyword": "Location Tracking", "Summary": "Tracks general location information for exploring ways to develop and grow their business.", "ClauseSection": "Understanding How Etsy is Used"},
+        {"InfringementKeyword": "Data Collection", "Summary": "Collects various types of data including service usage, browser and device information, customer support information and cookie information.", "ClauseSection": "Understanding How Etsy is Used"},
+        {"InfringementKeyword": "Data Collection", "Summary": "Uses service usage, browser and device information, and shop preferences to rank search results and customize services.", "ClauseSection": "Ranking Etsy Search Results"},
+        {"InfringementKeyword": "Data Collection", "Summary": "Collects location and buyer profile information when providing advertising.", "ClauseSection": "Providing On-Platform Advertising"}
+    ],
+  "Caution": [
+        {"InfringementKeyword": "Targeted Ads", "Summary": "Service usage, browser and device information, and general location information are used to show personalized ads and promote sellers.", "ClauseSection": "Advertising on Etsy"}, 
+        {"InfringementKeyword": "Data Collection for Advertising", "Summary": "Your information may be used to display non-personalized ads on third-party platforms and sites.", "ClauseSection": "Non-Personalized Ads on Third-Party Platforms"}
+    ], 
+  "Safety": [
+  ]
+}

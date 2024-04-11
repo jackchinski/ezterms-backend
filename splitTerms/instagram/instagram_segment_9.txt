@@ -1,0 +1,26 @@
+Meta also provides advertisers and their vendors with information about:
+
+Ads and commercial content people engaged with, if any
+When people engaged with ads and commercial content
+Where that ad or commercial content was shown (for example, on Instagram, or on Facebook)
+
+We also confirm which ads or commercial content you viewed that led you to take an action with an advertiser, such as downloading an advertiser's app. But we don't share information with these advertisers and their vendors that by itself can be used to contact or identify you, such as your name or email address, unless you give us permission. Audience Network publishers and their vendors
+
+Meta Audience Network lets advertisers place ads with us that will be published on other apps and websites outside of Meta. To help show you ads on their apps and websites, we share information with publishers who use Audience Network, as well as vendors who facilitate that use. For example, we share:
+
+How many people see and engage with ads on publisher apps
+Information related to or in response to a publisher’s request to serve an ad on its app. But we don't share information with these publishers and their vendors that by itself can be used to contact or identify you, such as your name or email address, unless you give us permission. Vendors
+
+Measurement vendors
+
+We don’t create every measurement and analytics report ourselves. We share information (like whether people saw an ad or engaged with it) with our measurement vendors, who aggregate it to provide their reports. For example, an advertiser might ask a measurement vendor to help figure out the impact its ads on Facebook have had on sales. The measurement vendor compares information from us about clicks on the advertiser’s Facebook ads with information from the advertiser about product purchases. Then the measurement vendor creates and provides aggregated reports that show the advertiser how its ads are performing. Marketing vendors
+
+We share information about you with marketing vendors. For example, we share your device identifier or other identifiers with marketing vendors to help us serve you ads most relevant to your interests. Marketing vendors support our marketing and advertising efforts by:
+
+Serving our advertisements across the internet, including on mobile, desktop and connected television devices
+Tracking and categorizing your online and mobile app activity
+Providing us information about your interests and community and advertising interactions
+
+These marketing vendors help us understand who might find our advertising most relevant to their interests, and which of our Products might interest you. This information can be used to personalize which of our ads are shown to you. Marketing vendors also use this information to measure response to our marketing efforts and the effectiveness of our advertising. Service providers
+
+Service providers provide services to us that help us provide our Products to you.

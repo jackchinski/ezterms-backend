@@ -1,0 +1,11 @@
+{"Danger": [
+  {"InfringementKeyword": "Data Sharing", 
+   "Summary": "Meta shares information with advertisers and vendors that helps them understand users and their ad engagement. Personal identifiers are shared with marketing vendors to serve more relevant ads.", 
+   "ClauseSection": "Meta also provides advertisers and their vendors with information about"}
+], 
+ "Caution": [
+  {"InfringementKeyword": "Targeted Ads", 
+   "Summary": "Your personal information is used to curate and show you personalized ads. These vendors also track your online activity to understand your interests better.", 
+   "ClauseSection": "We share your device identifier or other identifiers with marketing vendors"}
+ ], 
+ "Safety": []}

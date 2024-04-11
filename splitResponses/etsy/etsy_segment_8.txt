@@ -1,0 +1,9 @@
+{"Danger": [
+    {"InfringementKeyword": "Sharing with third parties", "Summary": "Etsy may use, preserve, or release your personal information to a third party to comply with legal and regulatory obligations.", "ClauseSection": "To comply with legal and regulatory obligations"}, 
+    {"InfringementKeyword": "Location tracking", "Summary": "In the process of complying with legal and regulatory obligations, Etsy might collect and use your general location information.", "ClauseSection": "To comply with legal and regulatory obligations"}], 
+
+"Caution": [
+    {"InfringementKeyword": "Lack of transparency", "Summary": "While Etsy relies on legitimate interests to use your personal information in certain cases, the details of these interests are not explicitly stated, which could be concerning.", "ClauseSection": "Legitimate Interests"}],
+
+"Safety": [
+    {"InfringementKeyword": "Data usage notifications", "Summary": "Etsy explains in detail the categories of data they use and how this data is used, including complying with local laws, verifying your identity, and improving services.", "ClauseSection": "Why and How We Use Your Information"}]}

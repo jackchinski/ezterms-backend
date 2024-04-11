@@ -1,0 +1,36 @@
+The person who shared the post can also change their audience at any time after you’ve interacted with it. How information about you can be shared
+
+People who use our Products can share information about you with the audience they choose. For example, they can:
+
+Share a photo or video of you in a post, comment, story, reel or message
+Mention you in a post or story
+Tag you in a post, comment, story or location
+Share details about you in a post, story or message
+
+Public content
+
+What content is public? Some of your information and activity are always public. This includes your name, Facebook and Instagram username, profile picture and activity on public Facebook Pages and groups. Other content you can choose to set to Public, like posts, photos and videos you post to your profile, Stories or Reels. Who can see public content? When content is public, it can be seen by anyone on or across our Products, and in some cases off our Products, even if they don’t have an account. For example, if you comment on Marketplace, a public Facebook Page or a public Instagram account, or if you leave a rating or review, your comment, rating or review will be visible to anyone. It could appear in any of our Products or be seen by anyone, including off our Products. Where can public content be shared? We, you and people using our Products can send public content (like your profile photo, or information you share on a Facebook Page or public Instagram account) to anyone on, across or off our Products. For example, users can share it in a public forum, or it can appear in search results on the internet. Public content can also be seen, accessed, reshared or downloaded through third-party services, like:
+
+Search engines
+APIs
+The media, like TV
+Other apps and websites connected to our Products
+
+With integrated partners
+
+You can choose to connect with integrated who use our Products. If you do, these integrated partners receive information about you and your activity. These integrated partners can always access information that’s public on our Products. Learn more about other information they receive and how they handle your information:
+
+When you use an integrated partner’s product or service
+
+Information they receive automatically
+
+When you use an integrated partner’s products or services, they can access:
+
+What you post or share from these products or services
+What you use their services to do
+Information from and about the device you’re using
+The language setting you’ve chosen on our Products
+
+Information they receive with your permission
+
+Sometimes these integrated partners ask you for permission to access certain additional information from your Facebook, Instagram or Messenger account. In their request, they’ll explain what information they’d like to access and let you choose whether to share it. On Facebook, this includes things like your email address, hometown or birthday.

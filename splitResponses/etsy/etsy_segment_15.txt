@@ -1,0 +1,11 @@
+{"Danger": [
+    {"InfringementKeyword": "Transfer of personal information", "Summary": "Etsy transfers personal information to different locations, including countries with different privacy laws and standards, in order to deliver the services.", "ClauseSection": "To the extent that Etsy is deemed to transfer personal information"},
+    {"InfringementKeyword": "Data collection by third party", "Summary": "Google reCAPTCHA Enterprise collects hardware and software information from users for security purposes and to help prevent spam, fraud, and abuse.", "ClauseSection": "We use Google reCAPTCHA Enterprise in connection with our Services"}
+    ], 
+"Caution": [
+    {"InfringementKeyword": "Data stored in another country", "Summary": "Personal information is transferred and stored outside of the user's home country as part of the contract with Etsy.", "ClauseSection": "As we operate in countries worldwide and use technical infrastructure in the US"}
+    ], 
+"Safety": [
+    {"InfringementKeyword": "Data protection", "Summary": "Etsy uses technical and administrative measures to protect personal information from unlawful, unauthorized, or destructive access, and encourages users to enhance account security through strong passwords and two-factor authentication.", "ClauseSection": "How We Protect Your Information"},
+    {"InfringementKeyword": "Data retention policy", "Summary": "Etsy retains your information only as long as necessary for the purposes outlined in the Policy, while the account is active, or to comply with legal obligations.", "ClauseSection": "How Long We Store Your Information"}
+]}

@@ -1,0 +1,39 @@
+Please be aware that the privacy laws and standards
+in certain countries, including the rights of authorities to access your personal information,
+may differ from those that apply in the country in which you reside. To the extent that Etsy
+is deemed to transfer personal information outside of the EEA, we rely separately,
+alternatively, and independently on the following legal bases to transfer your information:
+Adequacy Decisions Where available, we rely on decisions of the European Commission,
+known as “adequacy decisions,” recognising that certain countries offer a level of
+protection of personal data that is essentially equivalent to the EEA. A list of adequacy
+decisions is available here via the European Commission website. 18
+
+Standard Contractual Clauses Otherwise, we primarily rely on the European Commission’s
+Standard Contractual Clauses for the international and onward transfer of personal data
+outside of the EEA to third countries, including, for example, to the United States and
+India. This includes transfers from Etsy Ireland UC to Etsy, Inc. and other Etsy Group
+Companies. You can request a copy of our Standard Contractual Clauses by emailing
+dpo@etsy.com. Necessary for the Performance of the Contract Between Etsy and Its Users You can
+choose whether or not to use the Etsy Services. As we operate in countries worldwide and
+use technical infrastructure in the US to deliver the Services to you, in accordance with the
+contract between us (our Terms of Use), we transfer your personal information to the US
+and to other jurisdictions as necessary to provide the Services. Simply put, we can’t
+provide you with the Services and perform our contract with you without moving your
+personal information outside of your home country, including the UK or EEA
+
+5. How We Protect Your Information
+The security of your personal information is important to us. We protect your personal
+information through technical and administrative measures designed to mitigate the risk of
+unlawful or unauthorized access, destruction, loss, alteration, disclosure or use of your
+data. To protect your account, we encourage you to choose your password carefully and
+enable two factor authentication (2FA) for signing in. You can learn more about enhancing
+your account security in your account settings. We use Google reCAPTCHA Enterprise in connection with our Services to help prevent
+spam, fraud, and abuse. reCAPTCHA Enterprise collects hardware and software
+information, such as device and application data, and sends it to Google for purposes of
+providing, maintaining, and improving reCAPTCHA Enterprise and for general security
+purposes. Your use of reCAPTCHA Enterprise is subject to Google’s Privacy Policy and
+Terms of Use. 6. How Long We Store Your Information
+Etsy will retain your information only for as long as is necessary for the purposes set out in
+this Policy, for as long as your account is active, or as needed to comply with our legal
+obligations under national applicable law. We decide how long we need information on a
+case-by-case basis and depending on the retention laws applicable.

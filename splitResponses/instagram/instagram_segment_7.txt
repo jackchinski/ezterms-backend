@@ -1,0 +1,8 @@
+{"Danger": [
+  {"InfringementKeyword": "data sharing, content usage", "Summary": "Users can share information about you, possibly publicizing your personal posts, photos, videos and interaction details. It can also be shared by the company and accessed or reshared via third party services.", "ClauseSection": "How information about you can be shared"},
+  {"InfringementKeyword": "excessive data collection", "Summary": "Integrated partners can access all public information, as well as other information like what you post or share, how you use their services, and device information.", "ClauseSection": "With integrated partners - When you use an integrated partner’s product or service"}
+], 
+"Caution": [
+  {"InfringementKeyword": "data being stored in another country", "Summary": "Public content can be seen, accessed, reshared, or downloaded through third-party services in other countries, such as joint apps/websites, which might have different data storage laws.", "ClauseSection": "Public content"}
+], 
+"Safety": []}

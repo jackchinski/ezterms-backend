@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "Precise Location Information", "Summary": "Collects device-based precise location to personalize services, delivery, and shipping.", "ClauseSection": "Service Usage Information"}, {"InfringementKeyword": "Data sharing", "Summary": "Shares your information with regulators, law enforcement or others where necessary to perform a task in the public interest like combating unlawful or harmful behavior.", "ClauseSection": "Data used for tasks carried out in the public interest"}, {"InfringementKeyword": "Third Party Data Sharing", "Summary": "Sharing your data with third parties for the purposes of performing services, legal operations or compliance with the privacy policy.", "ClauseSection": "How We Share Your Information"}], 
+
+"Caution": [{"InfringementKeyword": "Public Display of Information", "Summary": "Certain information about users like public profile details, join date, reviewed items, purchased items etc are publicly displayed and shared via social networks.", "ClauseSection": "How We Share Your Information"}], 
+
+"Safety": []}

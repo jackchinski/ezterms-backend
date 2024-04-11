@@ -1,0 +1,11 @@
+{"Danger": [
+    {"InfringementKeyword": "Location Tracking", "Summary": "The company collects location-related information, and continuously tracks user location even if Location Services is turned off.", "ClauseSection": "How we use location-related information"},
+    {"InfringementKeyword": "Data Collection", "Summary": "The company collects extensive data, including profile information, activity on and off of products, created or interacted content, inferred interests, and information about connections, potentially beyond the necessary scope of the application.", "ClauseSection": "How we show ads and other sponsored or commercial content"},
+    {"InfringementKeyword": "Data Share & Sell", "Summary": "The company uses all aforementioned data to personalize advertisements and sponsored content, implying potential sharing or selling of such data to third parties.", "ClauseSection": "How we show ads and other sponsored or commercial content"}
+],
+"Caution": [
+    {"InfringementKeyword": "Targeted Ads", "Summary": "Your data is being used to create targeted ads, including your profile information, activity on and off the products, as well as content you create or interact with across platforms.", "ClauseSection": "How we show ads and other sponsored or commercial content"}
+],
+"Safety": [
+    {"InfringementKeyword": "Data Encryption", "Summary": "The company uses measures to promote safety, security and integrity, such as verifying accounts and activity, and addressing violations of terms or policies.", "ClauseSection": "To promote safety, security and integrity"}
+]}

@@ -1,0 +1,11 @@
+{"Danger": [
+{"InfringementKeyword": "Information Retention", "Summary": "The company keeps your information as long as necessary to provide their services, maintain performance, security, and keeping business and financial records. The retention period is based on general rules, consent and contractual obligations.", "ClauseSection": "Retention Period"},
+{"InfringementKeyword": "KYC Compliance", "Summary": "Etsy will retain and use your information to fulfill legal obligations such as KYC and tax laws.", "ClauseSection": "Use of information for regulatory compliance"},
+{"InfringementKeyword": "Prevention of harm", "Summary": "Personal data may be retained for other legitimate purposes such as preventing harm, investigating violations, promoting safety, security and integrity or to protect the company's rights and platform.", "ClauseSection": "Information used for other legitimate purposes"}], 
+
+"Caution": [], 
+
+"Safety": [
+{"InfringementKeyword": "User Rights", "Summary": "Users have the right to access, edit or remove certain information. They can request a copy of their personal data, rectify inaccurate info and transmit particular information to another controller.", "ClauseSection": "Your Rights and Choices"},
+{"InfringementKeyword": "Data Portability", "Summary": "Users have the right to receive their information in a structured and commonly used format.", "ClauseSection": "Right to Portability"},
+{"InfringementKeyword": "Right to Correction", "Summary": "Users have the right to request for rectification of inaccurate information about them.", "ClauseSection": "Right to Correction"}]}

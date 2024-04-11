@@ -1,0 +1,8 @@
+{"Danger": [{"InfringementKeyword": "Sharing Information", "Summary": "Etsy shares user information with third parties for investigations or regulatory inquiries. This can involve data sharing and excessive data collection, posing potential privacy concerns.", "ClauseSection": "Section 3 - Requests for Information Policy"}, 
+{"InfringementKeyword": "Business Reorganization", "Summary": "In case of business reorganization, Etsy may transfer user information as one of the business assets. This implies a potential data sharing or selling to third parties without explicit user consent.", "ClauseSection": "Business Reorganization Section"}, 
+{"InfringementKeyword": "Data Based on Consent", "Summary": "Etsy, based on user's consent, can utilize various user data for marketing purposes. This may potentially involve excessive data collection beyond application context.", "ClauseSection": "Consent Section"}, 
+{"InfringementKeyword": "Personalizing Experience", "Summary": "Etsy uses data to personalize the experience on the Sites and Apps for users in the European Region. This can involve collection of General Location Information, which is categorized as potentially invasive.", "ClauseSection": "European Region Personalization Section"}],
+
+"Caution": [{"InfringementKeyword": "Personalized Ads", "Summary": "Etsy uses user's consent to personalize ads on third-party platforms and sites. It involves using their data to create targeted ads, which can be concerning if a user is not comfortable with their data being used for such purposes.", "ClauseSection": "Ads Personalization Section"}],
+
+"Safety": []}

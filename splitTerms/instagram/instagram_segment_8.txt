@@ -1,0 +1,22 @@
+On Instagram, this includes content, like photos and videos, that you’ve shared from your account when the account was set to private. We automatically log when you receive a request from an integrated partner to access your information. These requests to access information are separate from the Apps and Websites access that you manage in your Facebook or Instagram ad settings or in your mobile device settings. How long they can access your information
+
+Apps or websites you’ve logged into using Facebook Login or connected to your Instagram account can access your nonpublic information on Meta Products unless it appears to us that you haven’t used the app or website in 90 days. Note that even if an app’s access to your information has expired, it can still retain information you shared with it previously. We encourage you to visit your Apps and Websites settings from time to time to review which apps and websites continue to have access to your information through Facebook Login or Instagram. When you interact with someone else’s content on an integrated partner’s product or service
+
+Integrated partners receive information about your activity when you interact with other Facebook, Instagram or Messenger users while they’re using the integrated partner’s product or service. For example, a gamer livestreams to Facebook using a partner app. Then you comment on that livestream. The app developer will receive information about your comment. How integrated partners handle your information
+
+Integrated partners handle the information you share with them according to their own terms and policies, not Meta’s. You can review their privacy policy on their website or app to learn how they receive and process your information. In some cases, they use a separate service provider to receive and process your information. How do we share information with third parties? We share certain information with:
+
+Advertisers who show ads on our Products
+Businesses we hire to market our Products for us
+Businesses we hire to do things like offer customer service or conduct surveys
+Researchers who use it to do things like innovate, advance technology, or improve people’s safety
+
+We don’t sell your information, and we never will. We don't sell any of your information to anyone, and we never will. We also require partners and other third parties to follow rules about how they can and cannot use and disclose the information we provide. Here’s more detail about who we share information with:
+
+Partners 
+
+Advertisers and Audience Network publishers
+
+Advertisers
+
+We provide advertisers with reports about the number and kinds of people who see and engage with their ads and commercial content. These reports include information about the general demographics and interests of people who engaged with an advertiser’s ad or commercial content. Then advertisers can better understand their audience.

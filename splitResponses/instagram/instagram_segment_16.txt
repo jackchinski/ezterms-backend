@@ -1,0 +1,7 @@
+{"Danger": [{"InfringementKeyword": "License, Account deletion, Content deletion", "Summary": "The company retains a license to use your content even if you delete your account. They might retain your content more than 90 days for investigation purposes or due to technical limitations.", "ClauseSection": "Content Deletion Section"}], 
+
+"Caution": [{"InfringementKeyword": "Terms update", "Summary": "If you do not agree to updated Terms, the company gives an option to delete the account. This could be a disruptive and inconvenient process.", "ClauseSection": "Updating these terms Section"}], 
+
+"Safety": [{"InfringementKeyword":"Notice of terms update", "Summary": "The company will inform you about changes in Terms and give you the opportunity to review them", "ClauseSection":"Updating these terms Section"}, 
+
+{"InfringementKeyword": "Account deletion", "Summary": "You have the right to delete your account if you do not wish to agree to the updated terms", "ClauseSection": "Updating these terms Section"}]}
