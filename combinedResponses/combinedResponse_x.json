@@ -1,0 +1,223 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "location tracking, data collection, financial tracking, external data collection",
+      "Summary": "The clause reveals collect data such as location, personal and professional account information, payment details, address book, and biometric data possibly beyond the scope of the application.",
+      "ClauseSection": "1. Information We Collect"
+    },
+    {
+      "InfringementKeyword": "additional data",
+      "Summary": "Clause implies that further data is collected when you use the service, this could implicate excessive data gathering beyond the purposes of the service.",
+      "ClauseSection": "1.2 Information we collect when you use X"
+    },
+    {
+      "InfringementKeyword": "Excessive data collection, Device Information",
+      "Summary": "The clause about collecting information from and about your devices could potentially lead to excessive data collection beyond the scope of the application. This might include information about your IP address, browser, operating system, and apps installed on your device.",
+      "ClauseSection": "Device Information"
+    },
+    {
+      "InfringementKeyword": "Location Tracking",
+      "Summary": "The clause about collecting your location information implies the app is keeping track of your location. This includes your approximate location or specific locations where you've used the app if you've enabled these settings.",
+      "ClauseSection": "Location Information"
+    },
+    {
+      "InfringementKeyword": "Financial Tracking",
+      "Summary": "In the 'Purchase and payments' section, the clause indicates that your transaction information such as date, subscription expiry, and amounts paid is tracked.",
+      "ClauseSection": "Purchase and payments"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "The section 'Inferred Identity' indicates that data may be shared across different devices associated with your account, which could involve data sharing with other 3rd parties.",
+      "ClauseSection": "Inferred Identity"
+    },
+    {
+      "InfringementKeyword": "Additional data gathering",
+      "Summary": "The clause allowing the application to access your device address book is a case of gathering additional data outside the scope of the application.",
+      "ClauseSection": "Device Information"
+    },
+    {
+      "InfringementKeyword": "location",
+      "Summary": "The terms include tracking your location data, possibly without explicit user consent or notice.",
+      "ClauseSection": "Log Information"
+    },
+    {
+      "InfringementKeyword": "device information",
+      "Summary": "Collecting data regarding your device and IP information beyond what might be necessary for the application's primary function",
+      "ClauseSection": "Log Information"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "Collecting log information even when not signed in or interacting with the service suggesting excess data collection. Also, cookies and similar tech used to collect more data",
+      "ClauseSection": "Cookies and Similar Technologies"
+    },
+    {
+      "InfringementKeyword": "data sharing",
+      "Summary": "Sharing information received from users with ad and business partners and third parties.",
+      "ClauseSection": "Information we Receive From Third Parties"
+    },
+    {
+      "InfringementKeyword": "excessive data collection, data sharing, third party data collection",
+      "Summary": "The clause mentions about collecting data from third party ad partners, affiliates, and other services linked to X account. It also indicates the collection of data from accounts of other services that connect with X. This is flagged due to the potential for excessive data collection and sharing of user data with multiple parties.",
+      "ClauseSection": "Introduction and Section 2.1"
+    },
+    {
+      "InfringementKeyword": "data usage for targeted ads",
+      "Summary": "The clause talks about using the collected data for personalizing services, including showing users more relevant content and ads. It also mentions using user data to provide advertising and sponsored content services. This can potentially lead to overreach in an effort to target ads.",
+      "ClauseSection": "Section 2.1"
+    },
+    {
+      "InfringementKeyword": "Sharing Information",
+      "Summary": "This clause outlines several ways the company may share your data, which includes publically on their platform, as well as with other users or third party partners. Moreover, there's a specific point within the clause that acknowledges sharing with service providers.",
+      "ClauseSection": "3. Sharing Information"
+    },
+    {
+      "InfringementKeyword": "Data sharing with business partners",
+      "Summary": "This clause indicates the optional sharing of users' personal information to third-party business partners.",
+      "ClauseSection": "3.1 With partners"
+    },
+    {
+      "InfringementKeyword": "Sharing information, Data collection",
+      "Summary": "The service provider shares user data with third parties for a variety of purposes, including payment processing, service provision, advertising, and fraud detection. External advertisers and third-party partners can collect personal information from users, and user info is also disclosed with consent.",
+      "ClauseSection": "We may share your information with our service providers, With advertisers, Third-party content & integrations, Through our APIs"
+    },
+    {
+      "InfringementKeyword": "APIs and how data is used",
+      "Summary": "Public user information may be accessed by third-party websites, apps, etc. through APIs. User data may not be updated in real-time with these entities, meaning outdated information may be used.",
+      "ClauseSection": "Through our APIs"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "The clause gives the platform the right to share, sell, or transfer your information in case of changes in ownership such as mergers, acquisitions, reorganizations, or bankruptcy.",
+      "ClauseSection": "3.5 As a result of a change in ownership"
+    },
+    {
+      "InfringementKeyword": "Excessive data collection",
+      "Summary": "Different types of data are collected and stored for different lengths of time, potentially beyond the immediate need.",
+      "ClauseSection": "4. How Long We Keep Information"
+    },
+    {
+      "InfringementKeyword": "data collection, move your data",
+      "Summary": "The company collects, uses, shares, and processes your information. In addition, your data is moved across borders which can potentially expose it to different data protection laws.",
+      "ClauseSection": "6. Your Rights and Ours"
+    },
+    {
+      "InfringementKeyword": "behavioral advertising",
+      "Summary": "The company adheres to the online behavioral and interest-based advertising principles which involve collecting data about your online activities to provide targeted ads.",
+      "ClauseSection": "5.3"
+    },
+    {
+      "InfringementKeyword": "data sharing",
+      "Summary": "The clause states data may be shared with a third party. Although the third party must maintain the same protections, this still reinforces a risk of privacy breach.",
+      "ClauseSection": "7"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "contacts syncing, targeted ads",
+      "Summary": "The clause suggests that User contacts can be uploaded to the service and personal information such as employment and educational history etc. is being used for targeted advertising.",
+      "ClauseSection": "1. Information We Collect"
+    },
+    {
+      "InfringementKeyword": "Targeted Ads",
+      "Summary": "The clause 'Location Information' mentions using your location data to show you relevant ads, implying the use of your data to create targeted advertisements.",
+      "ClauseSection": "Location Information"
+    },
+    {
+      "InfringementKeyword": "Sync Contacts",
+      "Summary": "In the 'Device Information' section, it's mentioned that your device address book can be shared if you choose to do so, indicating a potential for syncing contacts.",
+      "ClauseSection": "Device Information"
+    },
+    {
+      "InfringementKeyword": "Targeted ads",
+      "Summary": "Using users data to serve them targeted advertisement.",
+      "ClauseSection": "Advertisements"
+    },
+    {
+      "InfringementKeyword": "Data stored in another country",
+      "Summary": "Possible data storage and processing in countries outside of the user's residence.",
+      "ClauseSection": "Log Information"
+    },
+    {
+      "InfringementKeyword": "using your data to create targeted ads",
+      "Summary": "The terms mention the collection of information to deliver personalized ads. User information is used to measure the effectiveness of ads and to recognize user devices to serve ads both on and off the platform.",
+      "ClauseSection": "Section 2.1"
+    },
+    {
+      "InfringementKeyword": "evaluate and affect the safety and quality of content",
+      "Summary": "The clause highlights the company's intention to enforce policies and terms to maintain the safety of content. There appears to be an implicit risk of account termination or suspension as a result of any possible violation of these terms.",
+      "ClauseSection": "2.3 Measure, analyze and make our services better"
+    },
+    {
+      "InfringementKeyword": "Account termination",
+      "Summary": "The platform reserves the right to keep the identifiers used to create the account (email or phone number) indefinitely in case of violation of rules causing suspension.",
+      "ClauseSection": "4. How Long We Keep Information"
+    },
+    {
+      "InfringementKeyword": "No right to sue",
+      "Summary": "The clause rejects user requests for access, correction, or portability in case of certain situations which can be related to the inability of the user to verify their identity.",
+      "ClauseSection": "5.1 Access, Correction, Portability"
+    },
+    {
+      "InfringementKeyword": "account deactivation",
+      "Summary": "The company allows for the deactivation of your account with possible restoration for up to 30 days. This implies potentially permanent loss of account and data without the right to an explanation.",
+      "ClauseSection": "Beginning of the excerpt"
+    },
+    {
+      "InfringementKeyword": "limitations in access to certain features",
+      "Summary": "Adjustments in privacy settings might limit your ability to access certain features, making the user experience restrictive.",
+      "ClauseSection": "5.3"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "data control",
+      "Summary": "It appears users can set preferences that will be respected by the service thus giving a degree of control over data sharing.",
+      "ClauseSection": "1. Information We Collect"
+    },
+    {
+      "InfringementKeyword": "account authentication, safety and security",
+      "Summary": "The clause talks about using information for ensuring the safety and security of users, products, services, and user accounts. This includes verifying user identity, authenticating the account, and defending against fraud, unauthorised use, and illegal activity which includes safety precautions.",
+      "ClauseSection": "Section 2.2"
+    },
+    {
+      "InfringementKeyword": "Communicate with you about our services",
+      "Summary": "This clause adds a safety measure by ensuring the company communicates with users about product updates and changes to policies and terms.",
+      "ClauseSection": "2.4 Communicate with you about our services"
+    },
+    {
+      "InfringementKeyword": "Control whether X shares your personal information",
+      "Summary": "The company provides an option to control whether personal information is shared with business partners, adding a measure of user control over personal data.",
+      "ClauseSection": "3.1 With partners"
+    },
+    {
+      "InfringementKeyword": "Encrypting stored data",
+      "Summary": "The platform follows safety measures by verifying user identity before granting access or complying with a deletion, portability, or other related request.",
+      "ClauseSection": "5.2 Deleting your Information"
+    },
+    {
+      "InfringementKeyword": "Delete your account",
+      "Summary": "The platform provides instructions to deactivate the account and queue your data for deletion.",
+      "ClauseSection": "5.2 Deleting your Information"
+    },
+    {
+      "InfringementKeyword": "manage privacy settings, non-selling of personal information",
+      "Summary": "The company allows you to manage your privacy settings and states that it does not sell your personal information, providing users with a degree of control over their data.",
+      "ClauseSection": "5.3, 6.1"
+    },
+    {
+      "InfringementKeyword": "account deactivation",
+      "Summary": "You are allowed to deactivate your account which provides an option to remove your public profile from the platform.",
+      "ClauseSection": "Beginning of the excerpt"
+    },
+    {
+      "InfringementKeyword": "Update notification",
+      "Summary": "The clause pledges to inform users about any significant revisions to the privacy policy, providing users an opportunity to review the changes before continuing to use the service.",
+      "ClauseSection": "8"
+    },
+    {
+      "InfringementKeyword": "Data rights",
+      "Summary": "User can request a copy of the Standard Contractual Clauses (SCCs) to ensure data rights are protected. Data is also controlled according to different jurisdiction, indicating that the company is taking the legal obligations of data protection seriously.",
+      "ClauseSection": "7"
+    }
+  ]
+}

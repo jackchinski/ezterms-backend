@@ -30,5 +30,5 @@ export async function sendJSONToFirebase(companyName) {
 }
 
 // test
-// const companyName = "linkedin";
+// const companyName = "x";
 // sendJSONToFirebase(companyName);

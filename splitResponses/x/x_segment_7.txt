@@ -1,0 +1,8 @@
+{"Danger": [{"InfringementKeyword": "Data sharing", "Summary": "The clause gives the platform the right to share, sell, or transfer your information in case of changes in ownership such as mergers, acquisitions, reorganizations, or bankruptcy.", "ClauseSection": "3.5 As a result of a change in ownership"},
+{"InfringementKeyword": "Excessive data collection", "Summary": "Different types of data are collected and stored for different lengths of time, potentially beyond the immediate need.", "ClauseSection": "4. How Long We Keep Information"}],
+ 
+"Caution": [{"InfringementKeyword": "Account termination", "Summary": "The platform reserves the right to keep the identifiers used to create the account (email or phone number) indefinitely in case of violation of rules causing suspension.", "ClauseSection": "4. How Long We Keep Information"},
+{"InfringementKeyword": "No right to sue", "Summary": "The clause rejects user requests for access, correction, or portability in case of certain situations which can be related to the inability of the user to verify their identity.", "ClauseSection": "5.1 Access, Correction, Portability"}],
+
+"Safety": [{"InfringementKeyword": "Encrypting stored data", "Summary": "The platform follows safety measures by verifying user identity before granting access or complying with a deletion, portability, or other related request.", "ClauseSection": "5.2 Deleting your Information"},
+{"InfringementKeyword": "Delete your account", "Summary": "The platform provides instructions to deactivate the account and queue your data for deletion.", "ClauseSection": "5.2 Deleting your Information"}]}

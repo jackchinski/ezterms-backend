@@ -1,0 +1,16 @@
+{"Danger": [
+  {"InfringementKeyword": "location tracking, data collection, financial tracking, external data collection", 
+   "Summary": "The clause reveals collect data such as location, personal and professional account information, payment details, address book, and biometric data possibly beyond the scope of the application.", 
+   "ClauseSection": "1. Information We Collect"},
+   {"InfringementKeyword": "additional data", 
+   "Summary": "Clause implies that further data is collected when you use the service, this could implicate excessive data gathering beyond the purposes of the service.", 
+   "ClauseSection": "1.2 Information we collect when you use X"}], 
+ "Caution": [
+  {"InfringementKeyword": "contacts syncing, targeted ads", 
+   "Summary": "The clause suggests that User contacts can be uploaded to the service and personal information such as employment and educational history etc. is being used for targeted advertising.", 
+   "ClauseSection": "1. Information We Collect"}],
+ "Safety": [
+  {"InfringementKeyword": "data control", 
+   "Summary": "It appears users can set preferences that will be respected by the service thus giving a degree of control over data sharing.", 
+   "ClauseSection": "1. Information We Collect"}]
+}

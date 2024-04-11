@@ -1,0 +1,10 @@
+{"Danger": [
+{"InfringementKeyword": "Sharing Information", "Summary": "This clause outlines several ways the company may share your data, which includes publically on their platform, as well as with other users or third party partners. Moreover, there's a specific point within the clause that acknowledges sharing with service providers.", "ClauseSection": "3. Sharing Information"},
+{"InfringementKeyword": "Data sharing with business partners", "Summary": "This clause indicates the optional sharing of users' personal information to third-party business partners.", "ClauseSection": "3.1 With partners"}], 
+
+"Caution": [
+{"InfringementKeyword": "evaluate and affect the safety and quality of content", "Summary": "The clause highlights the company's intention to enforce policies and terms to maintain the safety of content. There appears to be an implicit risk of account termination or suspension as a result of any possible violation of these terms.", "ClauseSection": "2.3 Measure, analyze and make our services better"}], 
+
+"Safety": [
+{"InfringementKeyword": "Communicate with you about our services", "Summary": "This clause adds a safety measure by ensuring the company communicates with users about product updates and changes to policies and terms.", "ClauseSection": "2.4 Communicate with you about our services"},
+{"InfringementKeyword": "Control whether X shares your personal information", "Summary": "The company provides an option to control whether personal information is shared with business partners, adding a measure of user control over personal data.", "ClauseSection": "3.1 With partners"}]}

@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "Sharing information, Data collection", "Summary": "The service provider shares user data with third parties for a variety of purposes, including payment processing, service provision, advertising, and fraud detection. External advertisers and third-party partners can collect personal information from users, and user info is also disclosed with consent.", "ClauseSection": "We may share your information with our service providers, With advertisers, Third-party content & integrations, Through our APIs"}, {"InfringementKeyword": "APIs and how data is used", "Summary": "Public user information may be accessed by third-party websites, apps, etc. through APIs. User data may not be updated in real-time with these entities, meaning outdated information may be used.", "ClauseSection": "Through our APIs"}], 
+
+"Caution": [], 
+
+"Safety": []}

@@ -4,8 +4,7 @@ import path from "path";
 let combinedObject = {
   Danger: [],
   Caution: [],
-  Safe: [],
-  Other: [],
+  Safety: [],
 };
 
 export async function combineJSONObjects(companyName) {
@@ -13,6 +12,7 @@ export async function combineJSONObjects(companyName) {
 
   try {
     const files = await fs.readdir(directoryPath);
+    console.log("files", files);
 
     for (const file of files) {
       const filePath = path.join(directoryPath, file);
@@ -34,4 +34,4 @@ export async function combineJSONObjects(companyName) {
   }
 }
 
-// combineJSONObjects("linkedin");
+// combineJSONObjects("x");
