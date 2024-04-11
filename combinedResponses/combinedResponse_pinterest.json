@@ -1,0 +1,193 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "excessive data collection, tracking location, data sharing",
+      "Summary": "The policy mentions that they collect precise location data, content, and account information. It also notes that they gather data on user interactions and communications, as well as contact information.",
+      "ClauseSection": "We collect information in a few different ways"
+    },
+    {
+      "InfringementKeyword": "sync contacts",
+      "Summary": "Pinterest collects information about your synced contacts who are also Pinterest users.",
+      "ClauseSection": "Your contacts"
+    },
+    {
+      "InfringementKeyword": "Device information, Log data, Usage data and inferences, Location Information",
+      "Summary": "This clause suggests that Pinterest collects a significant amount of data from users, including device information, log data, activity data, and location information, which could be perceived as excessive data collection beyond the scope of the application.",
+      "ClauseSection": "2. We also get technical information when you use Pinterest"
+    },
+    {
+      "InfringementKeyword": "Third party platforms",
+      "Summary": "Data is being shared with or received from third-party platforms and advertisers, which could potentially involve selling or sharing user data to these third parties.",
+      "ClauseSection": "3. Our partners and advertisers share information with us"
+    },
+    {
+      "InfringementKeyword": "Third-party data sharing, precise location tracking",
+      "Summary": "Information about users is received from technical service partners including marketing firms, advertisers, and other partners. This data is used to show ads and improve ad performance. The company uses precise location data to customize experience, potentially endangering user privacy.",
+      "ClauseSection": "Technical service partners, Advertisers or other partners"
+    },
+    {
+      "InfringementKeyword": "Excessive data collection",
+      "Summary": "Excessive data is collected about users' interests to personalize their experiences. Additionally, website tracking through Pinterest Tag may carry potential risks for data privacy.",
+      "ClauseSection": "How we use the info we collect"
+    },
+    {
+      "InfringementKeyword": "Data collection, device location",
+      "Summary": "The platform keeps track of your location and users data for promotional purposes and improving services.",
+      "ClauseSection": "The second paragraph of the agreement documentation"
+    },
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "The service may access user information in relation to a legal claim, litigation, or regulatory proceeding, analyzing users’ log data and device information to identify and investigate suspicious behavior.",
+      "ClauseSection": "The fourth paragraph of the agreement documentation"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "The service shares some user data such as cookie IDs, IP address or a hashed version of your email address to third parties for targeted advertising.",
+      "ClauseSection": "The sixth paragraph of the agreement documentation"
+    },
+    {
+      "InfringementKeyword": "targeted advertising, sharing, selling",
+      "Summary": "The company shares information with advertisers, which may be considered targeted advertising, sharing or selling. You can opt-out.",
+      "ClauseSection": "For example, we would report to an advertiser..."
+    },
+    {
+      "InfringementKeyword": "Precise location, Photos",
+      "Summary": "Your mobile device lets you choose how and whether your precise location, photos, and other data is shared with us. This could lead to excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Additional rights in the EEA, the UK, and Switzerland"
+    },
+    {
+      "InfringementKeyword": "Data sharing with other services",
+      "Summary": "Pinterst shares your data with other services at your direction, this includes linking your Pinterest account to third party services or when you publish your content on Pinterest to these services.",
+      "ClauseSection": "How and when we share information"
+    },
+    {
+      "InfringementKeyword": "Data shared with vendors",
+      "Summary": "Pinterest shares data with vendors that they employ to process information on their behalf. This could result in third-party data sharing.",
+      "ClauseSection": "How and when we share information"
+    },
+    {
+      "InfringementKeyword": "Data shared for advertising",
+      "Summary": "Pinterest shares your data for advertising and related purposes, including showing you ads about Pinterest on third-party services and helping advertisers understand how ads on Pinterest perform.",
+      "ClauseSection": "How and when we share information"
+    },
+    {
+      "InfringementKeyword": "Law enforcement authorities",
+      "Summary": "Your data could be shared with law enforcement authorities if they believe that the disclosure is required by law or to protect rights and safety. While this could potentially protect you, it could also lead to unnecessary intrusion.",
+      "ClauseSection": "Transferring your information"
+    },
+    {
+      "InfringementKeyword": "Merger, acquisition, bankruptcy",
+      "Summary": "Your information could be shared or transferred if Pinterest undergoes a merger, acquisition, bankruptcy, or similar transaction. This potentially exposes your data to third parties.",
+      "ClauseSection": "Transferring your information"
+    },
+    {
+      "InfringementKeyword": "Transfer and store your information",
+      "Summary": "By using Pinterest's services, you authorize them to transfer and store your data outside your home country, including in the US, potentially putting your data at risk due to varying privacy protections.",
+      "ClauseSection": "Transferring your information"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "using your data to create targeted ads",
+      "Summary": "Pinterest uses the data collected to show you personalized ads based on your information gathered.",
+      "ClauseSection": "To do that, we show you personalized content and ads based on information we collect from you"
+    },
+    {
+      "InfringementKeyword": "Data usage for targeted ads and content",
+      "Summary": "User data is used to create and improve targeted ads and content, which may may push extraordinarily personalized content. The user has limited control over these settings.",
+      "ClauseSection": "How we use the info we collect"
+    },
+    {
+      "InfringementKeyword": "Syncing contacts",
+      "Summary": "The company uses synced contacts to connect with other users which may potentially expose users' information to others.",
+      "ClauseSection": "How we use the info we collect"
+    },
+    {
+      "InfringementKeyword": "Data Storage, Targeted Ads",
+      "Summary": "The service uses user data to show personalized ads based on interests, activities onsite and offsite. This data includes ad interactions and can be shared to improve ad performance.",
+      "ClauseSection": "The seventh paragraph of the agreement documentation"
+    },
+    {
+      "InfringementKeyword": "Data Use for Personalized Content",
+      "Summary": "The company uses the data to customize the ad content by identifying your interests.",
+      "ClauseSection": "Fifth paragraph in the document"
+    },
+    {
+      "InfringementKeyword": "data stored in another country",
+      "Summary": "The policy applies to residents in the EEA, Switzerland, UK, thus indicating data may be stored or processed in different countries.",
+      "ClauseSection": "Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information"
+    },
+    {
+      "InfringementKeyword": "Suing constraints",
+      "Summary": "The process for appealing decisions in regards to your personal rights involves appealing directly to Pinterest, potentially limiting your legal recourse.",
+      "ClauseSection": "Additional rights in the EEA, the UK, and Switzerland"
+    },
+    {
+      "InfringementKeyword": "Targeted ads",
+      "Summary": "Pinterest uses your data to create targeted ads. This can lead to personalized content.",
+      "ClauseSection": "How and when we share information"
+    },
+    {
+      "InfringementKeyword": "Keep your information",
+      "Summary": "Pinterest retains your data for as long as necessary or for other legitimate purposes, even after you have stopped using their services. This could expose your data to potential risks over an extended period of time.",
+      "ClauseSection": "How long we keep your information"
+    },
+    {
+      "InfringementKeyword": "Age requirement for consent",
+      "Summary": "Pinterest defers to state or country laws for age of consent for data processing. This could potentially confuse users about how their data is being handled.",
+      "ClauseSection": "Our policy on children's information"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Right to know about data controller",
+      "Summary": "Pinterest notifies their EEA, Switzerland and UK residents about the specific data controllers of their personal data.",
+      "ClauseSection": "For the purposes of the General Data Protection Regulation"
+    },
+    {
+      "InfringementKeyword": "Control over data usage",
+      "Summary": "Users have the option to control the company's usage of their data for ad personalization and some specific features. This gives users a degree of control over their information.",
+      "ClauseSection": "Your Privacy and Data Settings"
+    },
+    {
+      "InfringementKeyword": "Unsubscribe and Notification Settings",
+      "Summary": "Users are allowed to unsubscribe from promotional emails and update other notification settings.",
+      "ClauseSection": "The first paragraph of the agreement documentation"
+    },
+    {
+      "InfringementKeyword": "Data Protection",
+      "Summary": "Pledge to use data to keep users and the public safe from spam or risky activity. It also creates aggregated or de-identified information that cannot reasonably be used to identify you.",
+      "ClauseSection": "The Third and fourth paragraph of the agreement documentation"
+    },
+    {
+      "InfringementKeyword": "deletion, targeted advertising opt-out",
+      "Summary": "The company allows user to control their data, request access, correct, delete their data and opt out of targeted advertising.",
+      "ClauseSection": "Your Rights and Choices"
+    },
+    {
+      "InfringementKeyword": "Data control",
+      "Summary": "Pinterest gives you direct control over your information and several settings options",
+      "ClauseSection": "Additional rights in the EEA, the UK, and Switzerland"
+    },
+    {
+      "InfringementKeyword": "Account deletion",
+      "Summary": "Pinterest gives you the right to delete your account and all your data at any time.",
+      "ClauseSection": "Additional rights in the EEA, the UK, and Switzerland"
+    },
+    {
+      "InfringementKeyword": "Depersonalize or remove information",
+      "Summary": "Pinterest pledges to remove your data from their systems or depersonalize it so they can't identify you when they no longer need it. This ensures your data privacy.",
+      "ClauseSection": "How long we keep your information"
+    },
+    {
+      "InfringementKeyword": "Policy changes notification",
+      "Summary": "Pinterest will notify users about changes to the policy on their page, ensuring transparency.",
+      "ClauseSection": "How we make changes to this policy"
+    },
+    {
+      "InfringementKeyword": "Policy changes and update notifications",
+      "Summary": "This clause states that if there are significant changes in the policies, the company may provide more prominent notice such as emailing the users. This infers that the company wishes to inform users when they update their terms and conditions, hence putting user's interest into consideration",
+      "ClauseSection": "Change in policies and contact information"
+    }
+  ]
+}

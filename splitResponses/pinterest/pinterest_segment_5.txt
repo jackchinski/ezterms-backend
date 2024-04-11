@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "targeted advertising, sharing, selling", "Summary": "The company shares information with advertisers, which may be considered targeted advertising, sharing or selling. You can opt-out.", "ClauseSection": "For example, we would report to an advertiser..."}],
+
+"Caution": [{"InfringementKeyword": "data stored in another country", "Summary": "The policy applies to residents in the EEA, Switzerland, UK, thus indicating data may be stored or processed in different countries.", "ClauseSection": "Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information"}],
+
+"Safety": [{"InfringementKeyword": "deletion, targeted advertising opt-out", "Summary": "The company allows user to control their data, request access, correct, delete their data and opt out of targeted advertising.", "ClauseSection": "Your Rights and Choices"}]}

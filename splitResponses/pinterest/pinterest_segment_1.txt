@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "excessive data collection, tracking location, data sharing", "Summary": "The policy mentions that they collect precise location data, content, and account information. It also notes that they gather data on user interactions and communications, as well as contact information.", "ClauseSection": "We collect information in a few different ways"}, {"InfringementKeyword": "sync contacts", "Summary": "Pinterest collects information about your synced contacts who are also Pinterest users.", "ClauseSection": "Your contacts"}], 
+
+"Caution": [{"InfringementKeyword": "using your data to create targeted ads", "Summary": "Pinterest uses the data collected to show you personalized ads based on your information gathered.", "ClauseSection": "To do that, we show you personalized content and ads based on information we collect from you"}], 
+
+"Safety": [{"InfringementKeyword": "Right to know about data controller", "Summary": "Pinterest notifies their EEA, Switzerland and UK residents about the specific data controllers of their personal data.", "ClauseSection": "For the purposes of the General Data Protection Regulation"}]}
