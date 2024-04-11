@@ -1,0 +1,12 @@
+{"Danger": 
+[{"InfringementKeyword": "Data Collection", "Summary": "TikTok collects a large array of user data such as username, password, date of birth, email address, telephone number, user content, feedback, reviews, livestreams, and messages. This information may go beyond the scope of the application and infringe upon user privacy.", "ClauseSection": "What information we collect - Information You Provide"},
+ {"InfringementKeyword": "Content Use", "Summary": "The platform collects user's content, even if it has not been saved or uploaded, and maintains a version of the content without effects for personalized recommendations. This clause suggests a far-reaching license on user's content.", "ClauseSection": "What information we collect - User content"},
+ {"InfringementKeyword": "Location Data", "Summary": "TikTok collects metadata associated with user content, which may include location data showing where the content was created.", "ClauseSection": "What information we collect - User content"},
+ {"InfringementKeyword": "Financial Tracking", "Summary": "Information about purchases made on the platform is being collected.", "ClauseSection": "What information we collect - Purchase information"}], 
+
+"Caution": 
+[{"InfringementKeyword": "Data Sharing", "Summary": "TikTok points out that it is not responsible for how other users use or share messages sent to them on the platform, which could potentially lead to unwanted data sharing.", "ClauseSection": "What information we collect - Messages"},
+ {"InfringementKeyword": "Cross-border Data Storage", "Summary": "TikTok, being a Singapore-based company, may store data outside the user's home country, which could lead to legal complications or data security concerns.", "ClauseSection": "Welcome to TikTok"}], 
+
+"Safety": 
+[{"InfringementKeyword": "Privacy Commitment", "Summary": "TikTok asserts a commitment to protect and respect user privacy, which suggests data encryption and secure storage.", "ClauseSection": "Welcome to TikTok"}]}

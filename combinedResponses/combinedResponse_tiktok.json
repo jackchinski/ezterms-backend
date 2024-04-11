@@ -1,0 +1,658 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "TikTok collects a large array of user data such as username, password, date of birth, email address, telephone number, user content, feedback, reviews, livestreams, and messages. This information may go beyond the scope of the application and infringe upon user privacy.",
+      "ClauseSection": "What information we collect - Information You Provide"
+    },
+    {
+      "InfringementKeyword": "Content Use",
+      "Summary": "The platform collects user's content, even if it has not been saved or uploaded, and maintains a version of the content without effects for personalized recommendations. This clause suggests a far-reaching license on user's content.",
+      "ClauseSection": "What information we collect - User content"
+    },
+    {
+      "InfringementKeyword": "Location Data",
+      "Summary": "TikTok collects metadata associated with user content, which may include location data showing where the content was created.",
+      "ClauseSection": "What information we collect - User content"
+    },
+    {
+      "InfringementKeyword": "Financial Tracking",
+      "Summary": "Information about purchases made on the platform is being collected.",
+      "ClauseSection": "What information we collect - Purchase information"
+    },
+    {
+      "InfringementKeyword": "International Transfers",
+      "Summary": "Data is transferred internationally in order to provide services, potentially creating risk of data exposure.",
+      "ClauseSection": "International Transfers"
+    },
+    {
+      "InfringementKeyword": "Access Logs",
+      "Summary": "The company keeps logs of your application access for at least 6 months. This can be a potential risk of privacy infringement.",
+      "ClauseSection": "Access Logs"
+    },
+    {
+      "InfringementKeyword": "excessive data collection, data stored in another country",
+      "Summary": "TikTok has terms for excessive data collection and storage of data in foreign jurisdictions like United States, Malaysia, Ireland, and Singapore.",
+      "ClauseSection": "Transfer Outside Your Jurisdiction"
+    },
+    {
+      "InfringementKeyword": "Personal Data Disclosure",
+      "Summary": "TikTok provides an option for the user to withdraw consent for the disclosure of personal data to third parties. This can lead to decreased functionality and is a possible privacy risk for users wanting full privacy.",
+      "ClauseSection": "Your Choices"
+    },
+    {
+      "InfringementKeyword": "data storage",
+      "Summary": "Data is stored for five (5) years or more even after termination of account use",
+      "ClauseSection": "Data retention"
+    },
+    {
+      "InfringementKeyword": "personal data sharing",
+      "Summary": "Personal data may be shared with a third party for purposes outside the scope of the platform use",
+      "ClauseSection": "How we share your personal data"
+    },
+    {
+      "InfringementKeyword": "data processing, data transferred",
+      "Summary": "The service is admitting to processing your data based on your consent when signing up and they acknowledge that they transfer your data from Russia to Singapore. The potential dangers lie within the scope of the data they process and the legal protections of your data within Singapore.",
+      "ClauseSection": "Russia Privacy Policy Section"
+    },
+    {
+      "InfringementKeyword": "share your personal data",
+      "Summary": "Although the section doesn't detail how and with whom the data is shared, it clearly indicates that some form of data sharing occurs, which might involve third party sharing.",
+      "ClauseSection": "South Korea Privacy Policy Section"
+    },
+    {
+      "InfringementKeyword": "User-generated content, advertising and marketing campaigns",
+      "Summary": "This indicates that the company uses user-generated content in advertising and marketing, which could potentially lead to a misuse of personal data.",
+      "ClauseSection": "First paragraph"
+    },
+    {
+      "InfringementKeyword": "Data Retention",
+      "Summary": "The company retains personal data for a significant period of time, even after the purpose has been achieved.",
+      "ClauseSection": "First paragraph"
+    },
+    {
+      "InfringementKeyword": "Overseas Transfer of Personal Data",
+      "Summary": "This clause indicates that the company transfers personal data to affiliates and IT service providers, possibly in different countries.",
+      "ClauseSection": "Central paragraph"
+    },
+    {
+      "InfringementKeyword": "sharing of your personal data",
+      "Summary": "Sharing your personal data is inherently dangerous as it can lead to privacy issues. When using the platform, user agrees to this sharing policy.",
+      "ClauseSection": "How we share your personal data"
+    },
+    {
+      "InfringementKeyword": "Financial Tracking",
+      "Summary": "The platform collects your payment transaction, billing, and contact details when making a purchase which is sensitive financial information.",
+      "ClauseSection": "Financial and purchase information"
+    },
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "The platform collects, accesses, and matches your phone and social network contacts which is beyond the scope of the application.",
+      "ClauseSection": "Your phone and social network contacts"
+    },
+    {
+      "InfringementKeyword": "Location Tracking",
+      "Summary": "The platform collects information about your approximate location and with your permission, it can also collect precise data (like GPS). This indicates location tracking.",
+      "ClauseSection": "Location Information"
+    },
+    {
+      "InfringementKeyword": "data analysis, revenue generation",
+      "Summary": "The service analyzes all content, potentially including personal data, for tailored advertising and revenue generation.",
+      "ClauseSection": "Our automated systems analyze your content"
+    },
+    {
+      "InfringementKeyword": "intellectual property rights",
+      "Summary": "By using the services, the user grants the company an unlimited right to use their content for multiple purposes, including advertising, sponsorships, promotions.",
+      "ClauseSection": "7. Content"
+    },
+    {
+      "InfringementKeyword": "termination of license, user content usage",
+      "Summary": "By accepting these terms, the user grants TikTok a worldwide license to use, download, and access for personal and non-commercial use. TikTok reserves a right to terminate this license anytime they want without giving a reason. It also states that all rights are reserved with respect to sound recordings and the music works. Also, users are generating content at their own risk.",
+      "ClauseSection": "Terms of Usage"
+    },
+    {
+      "InfringementKeyword": "License",
+      "Summary": "Upon using the services with your content, you give the company an irrevocable, non-exclusive, royalty-free license to modify, use, distribute your content in any format and on any platform.",
+      "ClauseSection": "You or the owner of your User Content still own the copyright in User Content sent to us"
+    },
+    {
+      "InfringementKeyword": "Personal Identity",
+      "Summary": "The company also receives a royalty-free license to use your name, image, voice, and likeness to identify you as the source of your content.",
+      "ClauseSection": "You further grant us a royalty-free license to use your user name, image, voice, and likeness to identify you as the source of any of your User Content."
+    },
+    {
+      "InfringementKeyword": "royalty-free license",
+      "Summary": "This clause states that by using the service, users grant the company the right to use their User Content without the obligation to pay royalties to any third party. This could involve various instances of data usage that a user might not be comfortable with.",
+      "ClauseSection": "Rights granted in preceding paragraphs of the Section"
+    },
+    {
+      "InfringementKeyword": "Waiver of Rights to User Content",
+      "Summary": "This clause signifies that by posting User Content, users waive any rights to inspection or approval of any use of such User Content, which could also imply giving up privacy rights related to the User Content.",
+      "ClauseSection": "Waiver of Rights to User Content"
+    },
+    {
+      "InfringementKeyword": "User content, third-party sharing",
+      "Summary": "The section provides the company with the right to disclose user identity to any third party claiming any User Content violation. The clause also implies that they can modify your content at their sole discretion and remove anything that they deem inappropriate",
+      "ClauseSection": "User Content"
+    },
+    {
+      "InfringementKeyword": "Unlimited permission",
+      "Summary": "User grants TikTok unlimited permission to use and exploit their feedback for any purpose without any restriction, including making commercial products",
+      "ClauseSection": "Feedback"
+    },
+    {
+      "InfringementKeyword": "excessive data collection",
+      "Summary": "Collecting data on user created content like nature of audio, words spoken, objects and scenery identified in images or videos. This goes beyond the scope of the platform and is used for content and ad recommendations.",
+      "ClauseSection": "We may collect information about the videos, images and audio"
+    },
+    {
+      "InfringementKeyword": "Cookies",
+      "Summary": "Extraction of user detailed information through use of cookies and similar technologies, which may be used for advertising, among other things, and could be shared with third parties.",
+      "ClauseSection": "Cookies"
+    },
+    {
+      "InfringementKeyword": "Third-party social network",
+      "Summary": "Your information from third-party social networks is being shared with the company and can be used to link to your TikTok account.",
+      "ClauseSection": "Information From Other Sources"
+    },
+    {
+      "InfringementKeyword": "User–Generated Content",
+      "Summary": "By using the services, users irrevocably waive any right to raise any objection or other claim in relation to the rights granted and licensed to the company. This can include giving the company a license to use user's content in any way they see fit.",
+      "ClauseSection": "User–Generated Content"
+    },
+    {
+      "InfringementKeyword": "Data collection",
+      "Summary": "The platform collects information about users from various sources including user content, direct messages, publicly available sources, and from merchants and payment providers. This is flagged as a danger because it sounds like they collect a broad scope of information some of which may be beyond the scope of the application.",
+      "ClauseSection": "Data Collection"
+    },
+    {
+      "InfringementKeyword": "Data usage",
+      "Summary": "The platform uses collected information in various ways including personalizing content, promoting the platform, and customizing ad experiences. This is classified as a danger because it includes using data for targeted advertising and promotions.",
+      "ClauseSection": "Data Usage"
+    },
+    {
+      "InfringementKeyword": "Sharing User Content",
+      "Summary": "The platform allows your content to be used in other users’ videos which is a danger because it constitutes giving the platform a license to use your content.",
+      "ClauseSection": "Sharing User Content"
+    },
+    {
+      "InfringementKeyword": "Ad campaigns",
+      "Summary": "The platform uses user content in advertising and marketing campaigns to promote the platform. This falls under a danger because they could potentially use your content in ways you might not agree with.",
+      "ClauseSection": "Advertising and Marketing"
+    },
+    {
+      "InfringementKeyword": "location-based services",
+      "Summary": "The service may use your location data to provide personalized content and advertising. This means they are keeping track of your location.",
+      "ClauseSection": "Consistent with your permissions, to provide you with location-based services, such as advertising and other personalized content."
+    },
+    {
+      "InfringementKeyword": "data sharing, third-party",
+      "Summary": "Your data will be shared with third-party services when you grant permissions, which could include sensitive account information.",
+      "ClauseSection": "If you choose to allow a third-party service to access your account, we will share certain information about you with the third party."
+    },
+    {
+      "InfringementKeyword": "analytics providers",
+      "Summary": "The service shares user data with analytics providers, which can be considered excessive data collection beyond the scope of the application.",
+      "ClauseSection": "Analytics providers: We use analytics providers to help us in the optimisation and improvement of the Platform. Our third-party analytics providers also help us serve targeted advertisements."
+    },
+    {
+      "InfringementKeyword": "information share",
+      "Summary": "Your personal information is shared with business partners and social network platforms, potentially putting your privacy at risk.",
+      "ClauseSection": "We share your information with the following parties: Business Partners"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "Your data is shared with third-party advertisers and companies for advertisement purposes. This could lead to unsolicited targeted ads.",
+      "ClauseSection": "Advertisers, Advertising Networks and Measurement Partners"
+    },
+    {
+      "InfringementKeyword": "Third-party researchers",
+      "Summary": "Your information is being shared with independent researchers which could lead to privacy infringement.",
+      "ClauseSection": "Independent Researchers"
+    },
+    {
+      "InfringementKeyword": "Data selling",
+      "Summary": "Your data may be traded in business transactions, potentially without your consent.",
+      "ClauseSection": "Sale, Merger or Other Business Transactions"
+    },
+    {
+      "InfringementKeyword": "Inclusion of third-party links",
+      "Summary": "The document states that the site includes links to and from partner networks, advertisers, and affiliates with different privacy policies. It signifies that your data could get collected by these third-party websites too.",
+      "ClauseSection": "Third-party links"
+    },
+    {
+      "InfringementKeyword": "Retention of Information",
+      "Summary": "The text indicates that your information is retained for as long as it is necessary. This broad statement could entail a wide range of possibilities, resulting in your data being held indefinitely.",
+      "ClauseSection": "Retention of Information"
+    },
+    {
+      "InfringementKeyword": "access to your data",
+      "Summary": "The clause implies that unspecified entities have remote access to user data.",
+      "ClauseSection": "Australia additional terms"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "TikTok points out that it is not responsible for how other users use or share messages sent to them on the platform, which could potentially lead to unwanted data sharing.",
+      "ClauseSection": "What information we collect - Messages"
+    },
+    {
+      "InfringementKeyword": "Cross-border Data Storage",
+      "Summary": "TikTok, being a Singapore-based company, may store data outside the user's home country, which could lead to legal complications or data security concerns.",
+      "ClauseSection": "Welcome to TikTok"
+    },
+    {
+      "InfringementKeyword": "Limitations to your rights",
+      "Summary": "The company may refuse to comply with user requests that infringe on their business or legal obligations.",
+      "ClauseSection": "Limitations to rights"
+    },
+    {
+      "InfringementKeyword": "terminating an account without further explanation, data stored in another country",
+      "Summary": "The company has terms and conditions which allow it to terminate an account without explanation. The data is also stored in a country different from the user's location.",
+      "ClauseSection": "Internal Policies and Access Controls"
+    },
+    {
+      "InfringementKeyword": "Account termination",
+      "Summary": "TikTok retains the right to erase and dispose of the user's personal data, which may lead to termination of account and decreased access to TikTok's features, functionality.",
+      "ClauseSection": "Your Choices"
+    },
+    {
+      "InfringementKeyword": "suspension of account",
+      "Summary": "Users under age 18 may have their account suspended if the terms are not reviewed with a parent or guardian",
+      "ClauseSection": "If you are using our services in Israel"
+    },
+    {
+      "InfringementKeyword": "personalized advertising",
+      "Summary": "Personal data is used to provide personalized advertising",
+      "ClauseSection": "How we use your personal data"
+    },
+    {
+      "InfringementKeyword": "Public profiles",
+      "Summary": "By default, your account settings may be set to 'Public Profile' and that means your personal data is publicly distributed until you manually change the setting.",
+      "ClauseSection": "Russia Privacy Policy Section"
+    },
+    {
+      "InfringementKeyword": "Customized Ads",
+      "Summary": "The company uses data to create targeted advertisements, which may include personal preferences, interests, etc.",
+      "ClauseSection": "First paragraph"
+    },
+    {
+      "InfringementKeyword": "Overseas storage",
+      "Summary": "The company stores data in different locations including overseas, which means data would be subject to said country's laws, which might not offer the same level of protection.",
+      "ClauseSection": "Central paragraph"
+    },
+    {
+      "InfringementKeyword": "Governing law and dispute resolution",
+      "Summary": "The company states that any dispute will be governed by and interpreted in accordance with the laws of the UAE. This can limit the user's ability to sue if they do not reside in UAE.",
+      "ClauseSection": "Governing law and dispute resolution"
+    },
+    {
+      "InfringementKeyword": "Data Used for Personalization",
+      "Summary": "The application infers your attributes such as your interests, gender, and age range to personalize content.",
+      "ClauseSection": "Inferred Information"
+    },
+    {
+      "InfringementKeyword": "Data Stored in Another Country",
+      "Summary": "The company might store the collected information from your device in a different country. This information includes your IP address, user agent, mobile carrier, etc.",
+      "ClauseSection": "Technical Information we collect about you"
+    },
+    {
+      "InfringementKeyword": "disable your user account",
+      "Summary": "The company reserves the right to disable user accounts at any time, if they believe activities violate any third-party rights, laws, or regulations or might cause damage to the Services.",
+      "ClauseSection": "4. Your Account with Us"
+    },
+    {
+      "InfringementKeyword": "terminate accounts",
+      "Summary": "The company reserves the right to refuse service, terminate accounts, or limit access to the services at their discretion. This could be arbitrary and without any given reason.",
+      "ClauseSection": "1"
+    },
+    {
+      "InfringementKeyword": "disable access",
+      "Summary": "The company can remove or disable access to content at their discretion for any reason or no reason. Users might find themselves unexpectedly unable to use the service.",
+      "ClauseSection": "4"
+    },
+    {
+      "InfringementKeyword": "account termination",
+      "Summary": "The company reserves the right to terminate accounts who infringe or are allegedly infringing any copyrights.",
+      "ClauseSection": "6. Intellectual Property Rights"
+    },
+    {
+      "InfringementKeyword": "Account termination, No liability for third-party contents",
+      "Summary": "TikTok maintains the right to terminate your license for any or no reason, also they do not take any responsibility for the contents fed by others or third parties. The information provided by users hasn't been verified or approved by TikTok and they do not take any responsibility for user views.",
+      "ClauseSection": "User-Generated Content"
+    },
+    {
+      "InfringementKeyword": "Account termination, content removal",
+      "Summary": "The company reserves the right to block, delete user posting, and even terminate accounts if they believe your post doesn't comply with their standards, and they can do these without any notice or liability to the user.",
+      "ClauseSection": "User Content and Account Management"
+    },
+    {
+      "InfringementKeyword": "Termination without notice",
+      "Summary": "TikTok reserves the right to change, suspend or restrict availability of the platform without prior notice to the user",
+      "ClauseSection": "Exclusion of Warranties"
+    },
+    {
+      "InfringementKeyword": "Limitation of Liability, Account Information, Cessation of Services, Handling of Digital Content",
+      "Summary": "This section suggests TikTok will not be responsible for any loss or damage incurred due to inaccurate account information, any changes or cessation in the platform's services, or any losses due to misuse on the user's behalf. Additionally, liability in terms of digital content damaging a user's device is limited, freedom to suspend or flag accounts is in their hands. ",
+      "ClauseSection": "LIMITATION OF LIABILITY"
+    },
+    {
+      "InfringementKeyword": "Termination of account",
+      "Summary": "While not explicit, the linking and data connection with third-party networks might imply termination potential.",
+      "ClauseSection": "Information From Other Sources"
+    },
+    {
+      "InfringementKeyword": "Data used for targeted ads",
+      "Summary": "The collected data is being used to create targeted advertisements",
+      "ClauseSection": "Advertisers, measurement and other partners share information with us"
+    },
+    {
+      "InfringementKeyword": "Disputes and Waiver",
+      "Summary": "You have no right to sue the company or ask for damages from them if any issues arise with a third party. Disputes are between you and the third party directly and by using the services, you release the company from any claims or damages connected to the dispute.",
+      "ClauseSection": "Other Terms"
+    },
+    {
+      "InfringementKeyword": "Arbitration and Jurisdiction",
+      "Summary": "Any disputes arising out of the use of the services will be resolved by arbitration in Singapore, governed by Singapore law. This restricts users from initiating any legal procedures to their own geographical location.",
+      "ClauseSection": "Applicable Law and Jurisdiction"
+    },
+    {
+      "InfringementKeyword": "Account Termination",
+      "Summary": "The company reserves the right to terminate an account without an explanation, especially if the user does not meet the age limit set on their platform.",
+      "ClauseSection": "Age Limit"
+    },
+    {
+      "InfringementKeyword": "Account termination, no right to sue, jurisdiction",
+      "Summary": "The terms state that any invalid provision of the Terms can be removed without affecting the rest of the Terms, potentially terminating an account without further explanation. There's also an implied restriction on the right to sue by stating any court 'having jurisdiction'.",
+      "ClauseSection": "Severability"
+    },
+    {
+      "InfringementKeyword": "Accepting the Terms, Applicable Law and Jurisdiction",
+      "Summary": "By accessing or using the Services, users provide their consent to be bound by these Terms. The terms are governed by Brazilian law and the courts of Brazil have exclusive jurisdiction, meaning any legal actions must be taken in Brazil.",
+      "ClauseSection": "Accepting the Terms, Applicable Law and Jurisdiction"
+    },
+    {
+      "InfringementKeyword": "Age Limit, Limitation of Liabilities",
+      "Summary": "Accounts can be limited or terminated based on our discretion and liabilities might not always be covered",
+      "ClauseSection": "Accepting the Terms, Limitation of Liabilities"
+    },
+    {
+      "InfringementKeyword": "Termination",
+      "Summary": "The clause does not make it clear if users have the right to know why their account is being flagged or terminated.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "Legal action",
+      "Summary": "There was no clause stating rights or restrictions about suing the company or where such actions must take place.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "Stored Data",
+      "Summary": "The terms and conditions do not specify if the data is stored in a different country.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "data control",
+      "Summary": "Your data is shared and stored with various parties, including in different countries. This can potentially lead to data security issues.",
+      "ClauseSection": "Service Providers: We provide information and content to service providers who support our business, such as cloud service providers and providers of content moderation services to ensure that the Platform is a safe and enjoyable place and service providers that assist us in marketing the Platform."
+    },
+    {
+      "InfringementKeyword": "personalized content",
+      "Summary": "Your data is used to create targeted advertisements, suggesting a lack of control over how your information is used.",
+      "ClauseSection": "Consistent with your permissions, to provide you with location-based services, such as advertising and other personalized content."
+    },
+    {
+      "InfringementKeyword": "Account default settings",
+      "Summary": "Your account is set to public by default. Your data would be accessible by anyone, including third parties.",
+      "ClauseSection": "Public Profiles"
+    },
+    {
+      "InfringementKeyword": "Data stored outside country",
+      "Summary": "The data of the users might be stored in servers located outside their country. This could potentially lead to issues related to data breaches or unauthorized access of data.",
+      "ClauseSection": "Where we store your information"
+    },
+    {
+      "InfringementKeyword": "Account Termination",
+      "Summary": "The clause permits immediate removal of your profile and user content from public view on violation of Terms of Service and other conditions or policies, which could happen without any prior warning or adequate explanation.",
+      "ClauseSection": "Account Management"
+    },
+    {
+      "InfringementKeyword": "Jurisdiction",
+      "Summary": "Users are directed to a link for complaints which might be interpreted as requirement to reach out to the company directly before seeking other avenues of redress.",
+      "ClauseSection": "Complaints Procedure"
+    },
+    {
+      "InfringementKeyword": "limited remote access",
+      "Summary": "Some entities have limited remote access to user information, which could be potentially risky, especially as they are not specified.",
+      "ClauseSection": "Australia additional terms"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Privacy Commitment",
+      "Summary": "TikTok asserts a commitment to protect and respect user privacy, which suggests data encryption and secure storage.",
+      "ClauseSection": "Welcome to TikTok"
+    },
+    {
+      "InfringementKeyword": "Verifying your identity",
+      "Summary": "The company requires specific information and/or documents to verify your identity before responding to a request concerning your data. This provides a layer of privacy protection.",
+      "ClauseSection": "Verifying your identity"
+    },
+    {
+      "InfringementKeyword": "Right to lodge a complaint",
+      "Summary": "The company provides you with options to lodge complaints regarding your data usage to the appropriate authority.",
+      "ClauseSection": "Contact"
+    },
+    {
+      "InfringementKeyword": "encrypting stored data",
+      "Summary": "The company outlines their internal policies and access control measures which include restricting access to personal information to only necessary employees.",
+      "ClauseSection": "Internal Policies and Access Controls"
+    },
+    {
+      "InfringementKeyword": "the right to delete your account and all your data",
+      "Summary": "The user has rights to access, update, rectify their personal information and can withdraw consent to data collection at any time.",
+      "ClauseSection": "Your Choices"
+    },
+    {
+      "InfringementKeyword": "being able to control how much you share",
+      "Summary": "The company provides controls to the user to manage preferences regarding personalized advertising and other privacy settings.",
+      "ClauseSection": "Your Choices"
+    },
+    {
+      "InfringementKeyword": "Data Erasure",
+      "Summary": "Users have the right to request TikTok to erase their stored personal data. TikTok will comply, although it may lead to limited features and functionality.",
+      "ClauseSection": "Your Choices"
+    },
+    {
+      "InfringementKeyword": "Data Breach Notification",
+      "Summary": "Planned protocol by TikTok to notify users in case of any breach of personal data. This upholds transparency between the company and the user, potentially helping in early damage control.",
+      "ClauseSection": "Notification"
+    },
+    {
+      "InfringementKeyword": "Data Retention Period",
+      "Summary": "TikTok only retains user data as long as necessary to provide their service. This ensures no indefinite storage of user information once it's no longer needed.",
+      "ClauseSection": "Data retention"
+    },
+    {
+      "InfringementKeyword": "user rights",
+      "Summary": "Users have the right to access, rectify, cancel, oppose, withdraw consent, limit use and disclosure of their data",
+      "ClauseSection": "Your Rights"
+    },
+    {
+      "InfringementKeyword": "data control",
+      "Summary": "Users have control over limiting secondary purpose of personalized advertising",
+      "ClauseSection": "How we use your personal data"
+    },
+    {
+      "InfringementKeyword": "rights to information, object, access, rectification, erasure",
+      "Summary": "According to the Philippines National Privacy Commission, the service allows users to exercise rights including access, rectification and erasure of personal data. However, the user must verify their identity or account details before such requests can be processed.",
+      "ClauseSection": "Philippines Privacy Policy Section"
+    },
+    {
+      "InfringementKeyword": "Destruction of Personal Data",
+      "Summary": "The company ensures the deletion of personal data, when it is no longer needed, making it unrestorable.",
+      "ClauseSection": "Central paragraph"
+    },
+    {
+      "InfringementKeyword": "Data Rights",
+      "Summary": "Users are granted the right to access, rectify, delete, and request the suspension of processing of their personal data.",
+      "ClauseSection": "Central paragraph"
+    },
+    {
+      "InfringementKeyword": "Data Security",
+      "Summary": "The company has technical, managerial and physical safeguards to protect unauthorized access or alteration of the data held.",
+      "ClauseSection": "Central paragraph"
+    },
+    {
+      "InfringementKeyword": "right to request correction or deletion",
+      "Summary": "This clause affirms the user's right to request correction of incomplete or inaccurate data, and deletion or destruction of personal data, signifying enhanced control over personal data.",
+      "ClauseSection": "Your rights section"
+    },
+    {
+      "InfringementKeyword": "inform about data processing",
+      "Summary": "The policy provides the right to the users to know whether their personal data is being processed and for what purposes, increasing transparency of data usage.",
+      "ClauseSection": "Your rights section"
+    },
+    {
+      "InfringementKeyword": "inform about third-party data transfer",
+      "Summary": "The company undertakes to inform users about third parties to whom personal data is transferred, both within and outside the country, ensuring users are aware on how and where their data is being used.",
+      "ClauseSection": "Your rights section"
+    },
+    {
+      "InfringementKeyword": "right to claim damages",
+      "Summary": "This clause gives users the right to claim indemnification for damages incurred due to illegal processing of personal data, ensuring legal protections for users' data.",
+      "ClauseSection": "Your rights section"
+    },
+    {
+      "InfringementKeyword": "right to object",
+      "Summary": "The policy grants users the right to object to negative results due to the analysis of their personal data by automated means, offering users an opportunity to dispute and correct potentially harmful analyses.",
+      "ClauseSection": "Your rights section"
+    },
+    {
+      "InfringementKeyword": "Exercise rights, contact",
+      "Summary": "The company allows its users to exercise their rights related to data privacy and offers a point of contact. This highlights transparency and gives users a sense of control.",
+      "ClauseSection": "Contact"
+    },
+    {
+      "InfringementKeyword": "Amendments",
+      "Summary": "The company commits to inform the users about amendments in their policy",
+      "ClauseSection": "Amendments"
+    },
+    {
+      "InfringementKeyword": "Right to delete data; Right to know; Right to access",
+      "Summary": "These are your data rights that allow you to control and/or delete any data associated with your account.",
+      "ClauseSection": "Data subject's rights and obligations"
+    },
+    {
+      "InfringementKeyword": "In jurisdictions where the national or official language is not English",
+      "Summary": "Local language translations may provide additional security details specific to your jurisdiction.",
+      "ClauseSection": "Other Jurisdictions"
+    },
+    {
+      "InfringementKeyword": "Updating terms and conditions",
+      "Summary": "The company commits to notify all users of any material changes to the terms and conditions. This contributes to a safer user experience by ensuring that users are informed of changes that might affect how their data is handled or how the services function.",
+      "ClauseSection": "Changes to the Terms"
+    },
+    {
+      "InfringementKeyword": "User Control",
+      "Summary": "The platform allows you to control the syncing of your phone and social network contacts and sharing their public profile information.",
+      "ClauseSection": "Your phone and social network contacts"
+    },
+    {
+      "InfringementKeyword": "User Control",
+      "Summary": "Platform asks your permission to collect precise location data which gives you control on how much you share.",
+      "ClauseSection": "Location Information"
+    },
+    {
+      "InfringementKeyword": "delete your account",
+      "Summary": "Users have the right to delete their account and once done, they won't be able to reactivate the account or retrieve any of the added content or information.",
+      "ClauseSection": "4. Your Account with Us"
+    },
+    {
+      "InfringementKeyword": "acceptance of new Terms",
+      "Summary": "The company will inform users when they update their terms and conditions agreement. Users' continued access or use of the Services after the date of the new Terms signifies their acceptance.",
+      "ClauseSection": "Your Access to and Use of Our Services"
+    },
+    {
+      "InfringementKeyword": "intellectual property rights",
+      "Summary": "The service respects intellectual property rights. Also, user's own all User Content they upload or transmit through the Services.",
+      "ClauseSection": "7. Content"
+    },
+    {
+      "InfringementKeyword": "Content control, privacy settings",
+      "Summary": "The user has control over how their User Content is made publicly available on the Services, allowing them to restrict access by selecting privacy settings within the Platform.",
+      "ClauseSection": "User Content and Privacy Settings"
+    },
+    {
+      "InfringementKeyword": "Security",
+      "Summary": "Implies that the company has steps and strategies in place to secure their platform, which is a safety feature, however without saying explicitly what is done for security, it is not as strong as a clause that says exactly how data is encrypted or protected.",
+      "ClauseSection": "Security"
+    },
+    {
+      "InfringementKeyword": "Encryption",
+      "Summary": "The clause does not indicate if they encrypt stored data.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "Account deletion",
+      "Summary": "The clause does not specify the right to delete one's account and all personal data.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "Data Control",
+      "Summary": "There's no indication of whether users can control how much they share vs what the service will not access.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "Update Notification",
+      "Summary": "The clause does not mention if the company will inform users about updates to their terms and conditions agreement.",
+      "ClauseSection": "None Found"
+    },
+    {
+      "InfringementKeyword": "terms enforcement",
+      "Summary": "The service has a system in place to detect abuses and violations of their terms, signifying measures taken to maintain platform integrity.",
+      "ClauseSection": "To enforce our Terms of Service, Community Guidelines, and other conditions and policies."
+    },
+    {
+      "InfringementKeyword": "content moderation",
+      "Summary": "Service providers are employed for content moderation services, which can serve as a measure of data safety and security.",
+      "ClauseSection": "Service Providers: We provide information and content to service providers who support our business, such as cloud service providers and providers of content moderation services to ensure that the Platform is a safe and enjoyable place and service providers that assist us in marketing the Platform."
+    },
+    {
+      "InfringementKeyword": "Rights and Choices",
+      "Summary": "The users have rights and choices when it comes to their information. They can access, delete, update, or rectify their data, and can also exercise other rights under applicable laws.",
+      "ClauseSection": "Your rights and choices"
+    },
+    {
+      "InfringementKeyword": "Data control tools",
+      "Summary": "The company provides a number of tools to control who can view the user's videos, send messages, or post comments to their videos, and the user can also delete their account.",
+      "ClauseSection": "Your rights and choices"
+    },
+    {
+      "InfringementKeyword": "Data Encryption",
+      "Summary": "The company takes steps to ensure the security of the users' information, such as encryption.",
+      "ClauseSection": "The security of your information"
+    },
+    {
+      "InfringementKeyword": "Data Security",
+      "Summary": "The company maintains and improves their security systems to ensure safety, security, and stability of the platform which is a good practice.",
+      "ClauseSection": "Data Security"
+    },
+    {
+      "InfringementKeyword": "Policy Update Notification",
+      "Summary": "The company commits to notify users of any updates to the Privacy Policy.",
+      "ClauseSection": "Privacy Policy Updates"
+    },
+    {
+      "InfringementKeyword": "rights with respect to personal data",
+      "Summary": "The company is adhering to Law No. 25,326, Regulatory Decree No. 1558/2001 providing users right to access, rectify and delete their personal data.",
+      "ClauseSection": "Argentina additional terms"
+    },
+    {
+      "InfringementKeyword": "correction of incomplete, inaccurate or outdated data",
+      "Summary": "The company adheres to Brazil's General Data Protection Law - LGPD, respecting user's data rights which includes correct, anonymize, block or delete user data.",
+      "ClauseSection": "Brazil additional terms"
+    }
+  ]
+}

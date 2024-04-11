@@ -1,0 +1,13 @@
+{"Danger": [
+{"InfringementKeyword": "Financial Tracking", "Summary": "The platform collects your payment transaction, billing, and contact details when making a purchase which is sensitive financial information.", "ClauseSection": "Financial and purchase information"},
+{"InfringementKeyword": "Data Collection", "Summary": "The platform collects, accesses, and matches your phone and social network contacts which is beyond the scope of the application.", "ClauseSection": "Your phone and social network contacts"},
+{"InfringementKeyword": "Location Tracking", "Summary": "The platform collects information about your approximate location and with your permission, it can also collect precise data (like GPS). This indicates location tracking.", "ClauseSection": "Location Information"}
+], 
+"Caution": [
+{"InfringementKeyword": "Data Used for Personalization", "Summary": "The application infers your attributes such as your interests, gender, and age range to personalize content.", "ClauseSection": "Inferred Information"},
+{"InfringementKeyword": "Data Stored in Another Country", "Summary": "The company might store the collected information from your device in a different country. This information includes your IP address, user agent, mobile carrier, etc.", "ClauseSection": "Technical Information we collect about you"}
+],
+ "Safety": [
+ {"InfringementKeyword": "User Control", "Summary": "The platform allows you to control the syncing of your phone and social network contacts and sharing their public profile information.", "ClauseSection": "Your phone and social network contacts"},
+ {"InfringementKeyword": "User Control", "Summary": "Platform asks your permission to collect precise location data which gives you control on how much you share.", "ClauseSection": "Location Information"}
+ ]}

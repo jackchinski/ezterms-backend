@@ -31,4 +31,4 @@ async function main(companyName) {
 }
 
 // ENTER SERVICE NAME BELOW
-main("telegram").then(() => console.log("All processes completed successfully!"));
+main("tiktok").then(() => console.log("All processes completed successfully!"));

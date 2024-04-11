@@ -1,0 +1,11 @@
+{"Danger": 
+[{"InfringementKeyword": "data storage", "Summary": "Data is stored for five (5) years or more even after termination of account use", "ClauseSection": "Data retention"},
+{"InfringementKeyword": "personal data sharing", "Summary": "Personal data may be shared with a third party for purposes outside the scope of the platform use", "ClauseSection": "How we share your personal data"}],
+
+"Caution": 
+[{"InfringementKeyword": "suspension of account", "Summary": "Users under age 18 may have their account suspended if the terms are not reviewed with a parent or guardian", "ClauseSection": "If you are using our services in Israel"},
+{"InfringementKeyword": "personalized advertising", "Summary": "Personal data is used to provide personalized advertising", "ClauseSection": "How we use your personal data"}],
+
+"Safety": 
+[{"InfringementKeyword": "user rights", "Summary": "Users have the right to access, rectify, cancel, oppose, withdraw consent, limit use and disclosure of their data", "ClauseSection": "Your Rights"},
+{"InfringementKeyword": "data control", "Summary": "Users have control over limiting secondary purpose of personalized advertising", "ClauseSection": "How we use your personal data"}]}

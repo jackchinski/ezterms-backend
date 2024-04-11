@@ -1,0 +1,8 @@
+You may not:
+access or use the Services if you are not fully able and legally competent to agree to these Terms;
+make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any derivative works of the Services or any content included therein, including any files, tables or documentation (or any portion thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied by the Services or any derivative works thereof;
+distribute, license, transfer, or sell, in whole or in part, any of the Services or any derivative works thereof;
+market, rent or lease the Services for a fee or charge, or use the Services to advertise or perform any commercial solicitation;
+use the Services, without our express written consent, for any commercial or unauthorized purpose, including communicating or facilitating any commercial advertisement or solicitation or spamming;
+interfere with or attempt to interfere with the proper working of the Services, disrupt our website or any networks connected to the Services, or bypass any measures we may use to prevent or restrict access to the Services;
+incorporate the Services or any portion thereof into any other program or product.

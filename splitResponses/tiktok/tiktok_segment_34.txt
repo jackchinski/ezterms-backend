@@ -1,0 +1,1 @@
+{"Danger": [], "Caution": [{"InfringementKeyword": "Age Limit, Limitation of Liabilities", "Summary": "Accounts can be limited or terminated based on our discretion and liabilities might not always be covered", "ClauseSection": "Accepting the Terms, Limitation of Liabilities"}], "Safety": []}

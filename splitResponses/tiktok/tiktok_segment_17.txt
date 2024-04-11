@@ -1,0 +1,5 @@
+{"Danger": [{"InfringementKeyword": "sharing of your personal data", "Summary": "Sharing your personal data is inherently dangerous as it can lead to privacy issues. When using the platform, user agrees to this sharing policy.", "ClauseSection": "How we share your personal data"}], 
+
+"Caution": [{"InfringementKeyword": "Governing law and dispute resolution", "Summary": "The company states that any dispute will be governed by and interpreted in accordance with the laws of the UAE. This can limit the user's ability to sue if they do not reside in UAE.", "ClauseSection": "Governing law and dispute resolution"}],
+
+"Safety": [{"InfringementKeyword": "Exercise rights, contact", "Summary": "The company allows its users to exercise their rights related to data privacy and offers a point of contact. This highlights transparency and gives users a sense of control.", "ClauseSection": "Contact"}, {"InfringementKeyword": "Amendments", "Summary": "The company commits to inform the users about amendments in their policy", "ClauseSection": "Amendments"}]}
