@@ -1,0 +1,8 @@
+{"Danger": [
+{"InfringementKeyword": "Data sharing", "Summary": "The service may be required to share your information when required by law or other legal procedures, or when they believe it's necessary to protect their services or the rights and safety of LinkedIn, their members, or others. The service may also share your data as part of a sale, merger, or change of control.", "ClauseSection": "3.7 Change in Control or Sale"},
+{"InfringementKeyword": "Data collection and retention", "Summary": "The service retains your personal data as long as your account is open, and even if you only use the service occasionally. This includes data you or others provided, as well as data generated or inferred from your use.", "ClauseSection": "4.1 Data Retention"}],
+
+"Caution": [],
+
+"Safety": [
+{"InfringementKeyword": "Rights to access and control data", "Summary": "You are allowed to access or delete your personal data and have many choices about how your data is collected, used, and shared.", "ClauseSection": "4.2 Rights to Access and Control Your Personal Data"}]}

@@ -1,0 +1,11 @@
+{"Danger": [
+  {"InfringementKeyword": "Communication Archival", "Summary": "This clause enables archiving of your communications outside the Service, potentially leading to data sharing with third party archiving services, which could raise privacy concerns.", "ClauseSection": "3.2 Communication Archival"}, 
+  {"InfringementKeyword": "Others’ Services", "Summary": "Linking your account with other services will make your data available to them. Third-party services have their own privacy policies which may use your data in ways not regulated by this service.", "ClauseSection": "3.3 Others’ Services"},
+  {"InfringementKeyword": "Related Services", "Summary": "Your personal data is shared across different Services and affiliated entities, and combined internally, which could lead to excessive data collection.", "ClauseSection": "3.4 Related Services"},
+  {"InfringementKeyword": "Service Providers", "Summary": "Your data is shared with service providers who help maintain the Service, potentially leading to data sharing and third party access.", "ClauseSection": "3.5 Service Providers"},
+  {"InfringementKeyword": "Legal Disclosures", "Summary": "Your data may be shared when required by law, potentially leading to data sharing with legal entities and third parties.", "ClauseSection": "3.6 Legal Disclosures"}
+], 
+"Caution": [
+  {"InfringementKeyword": "Others’ Services", "Summary": "When linking your account with other services, your personal data becomes available to them. This could lead to your data leaving the jurisdiction of this service and being stored in different countries.", "ClauseSection": "3.3 Others’ Services"}
+],
+"Safety": []}

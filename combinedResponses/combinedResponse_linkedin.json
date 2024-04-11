@@ -1,0 +1,268 @@
+{
+  "Danger": [
+    {
+      "InfringementKeyword": "Data Collection",
+      "Summary": "The company collects personal data including name, email address, mobile number and potentially credit card and billing information. This could be a risk if the data is mishandled or misused.",
+      "ClauseSection": "1. Data We Collect - 1.1 Data You Provide To Us"
+    },
+    {
+      "InfringementKeyword": "Communication Archival",
+      "Summary": "This clause enables archiving of your communications outside the Service, potentially leading to data sharing with third party archiving services, which could raise privacy concerns.",
+      "ClauseSection": "3.2 Communication Archival"
+    },
+    {
+      "InfringementKeyword": "Others’ Services",
+      "Summary": "Linking your account with other services will make your data available to them. Third-party services have their own privacy policies which may use your data in ways not regulated by this service.",
+      "ClauseSection": "3.3 Others’ Services"
+    },
+    {
+      "InfringementKeyword": "Related Services",
+      "Summary": "Your personal data is shared across different Services and affiliated entities, and combined internally, which could lead to excessive data collection.",
+      "ClauseSection": "3.4 Related Services"
+    },
+    {
+      "InfringementKeyword": "Service Providers",
+      "Summary": "Your data is shared with service providers who help maintain the Service, potentially leading to data sharing and third party access.",
+      "ClauseSection": "3.5 Service Providers"
+    },
+    {
+      "InfringementKeyword": "Legal Disclosures",
+      "Summary": "Your data may be shared when required by law, potentially leading to data sharing with legal entities and third parties.",
+      "ClauseSection": "3.6 Legal Disclosures"
+    },
+    {
+      "InfringementKeyword": "Data sharing",
+      "Summary": "The service may be required to share your information when required by law or other legal procedures, or when they believe it's necessary to protect their services or the rights and safety of LinkedIn, their members, or others. The service may also share your data as part of a sale, merger, or change of control.",
+      "ClauseSection": "3.7 Change in Control or Sale"
+    },
+    {
+      "InfringementKeyword": "Data collection and retention",
+      "Summary": "The service retains your personal data as long as your account is open, and even if you only use the service occasionally. This includes data you or others provided, as well as data generated or inferred from your use.",
+      "ClauseSection": "4.1 Data Retention"
+    },
+    {
+      "InfringementKeyword": "Cross-Border Data Transfers",
+      "Summary": "The company stores and uses data outside the user's country. There may be different laws applicable to the data depending on where it is stored. This could potentially bring about privacy concerns if the data is being stored in a country with less stringent data protection laws.",
+      "ClauseSection": "5.2 Cross-Border Data Transfers"
+    },
+    {
+      "InfringementKeyword": "excessive data collection, data sharing, syncing address book, collecting address book and calendar information",
+      "Summary": "The service is collecting additional data outside the scope of application such as syncing address book and calendar. They are also collecting data when others sync their contacts or calendar with the service.",
+      "ClauseSection": "Posting and Uploading, Data from Others, Contact and Calendar Information, Customers and Partners, Related Companies and Other Services"
+    },
+    {
+      "InfringementKeyword": "License to content",
+      "Summary": "Your data such as information on your profile, job applications data, and other data you upload to this service can be used by the service and can be made publicly available.",
+      "ClauseSection": "Profile"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Device Information",
+      "Summary": "Company tracks your device information and operating system details, using cookies and similar technologies. This involves excessive data collection beyond the scope of the application.",
+      "ClauseSection": "1.4 Cookies and Similar Technologies"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Device and Location Tracking",
+      "Summary": "The company collects location data, using cookies and technologies, from your device when you use the Services. It requires you to opt in before using GPS tools to precisely track your location, but the general collection of location data based on phone settings is already implied.",
+      "ClauseSection": "1.5 Your Device and Location"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Third Party Data, Data Sharing, Excessive Data",
+      "Summary": "LinkedIn collects data when users visit other sites that have LinkedIn cookies, ads, or any plugins. The collection of data outside LinkedIn services potentially exposes users to excessive data collection and sharing, which can pose a security threat.",
+      "ClauseSection": "1.8 Sites and Services of Others"
+    },
+    {
+      "InfringementKeyword": "Data Collection, Changing Use of Data",
+      "Summary": "LinkedIn's services are dynamic and they introduce new ways to use data. This can lead to the collection of different personal data and changes on how they collect, use or share your data.",
+      "ClauseSection": "1.9 Other"
+    },
+    {
+      "InfringementKeyword": "Location Tracking, Data Sharing",
+      "Summary": "The agreement mentions that the user's precise location can be used for certain tasks such as suggesting nearby members, which is an instance of location tracking. It also refers to data usage to suggest connections, which could be seen as excessive data collection and data sharing.",
+      "ClauseSection": "First Section"
+    },
+    {
+      "InfringementKeyword": "Excessive Data Collection",
+      "Summary": "The agreement mentions the use of user's data to suggest skills or personalize content which may lead to excessive data collection beyond the scope of the app.",
+      "ClauseSection": "Second section"
+    },
+    {
+      "InfringementKeyword": "Data use for recommendations",
+      "Summary": "The clause outlines how the company uses user data to create relevant content and recommendations, which may include sharing data with recruiters and using automated systems. This represents an excessive data collection beyond the application scope.",
+      "ClauseSection": "Productivity"
+    },
+    {
+      "InfringementKeyword": "Data storage by premium customers",
+      "Summary": "Premium customers can store data about you, including resume, contact info or sales history. This represents a potential risk of excessive data collection, storage, and sharing.",
+      "ClauseSection": "2.2 Premium Services"
+    },
+    {
+      "InfringementKeyword": "Data collection and usage",
+      "Summary": "The company gathers various types of data from the services, including user-provided information, usage data, and data from advertising technologies. This data is used to target and measure advertisements, which implies excessive data collection beyond the scope of the service.",
+      "ClauseSection": "Targeting Ads"
+    },
+    {
+      "InfringementKeyword": "Data Sharing",
+      "Summary": "The company shares hashed IDs or device identifiers with third-party advertisers or ad networks. Although personal data is not shared directly, ad providers may identify the user through mechanisms such as cookies.",
+      "ClauseSection": "Info to Ad Providers"
+    },
+    {
+      "InfringementKeyword": "tracking, data sharing",
+      "Summary": "The service is using members’ data and content for advertising purposes and to promote their own services and growth. This includes using personal data for research to understand social and economic trends.",
+      "ClauseSection": "Section 2.6 Developing Services and Research"
+    },
+    {
+      "InfringementKeyword": "data sharing, third party",
+      "Summary": "The service works with trusted third parties for research purposes and aims to protect privacy in these scenarios.",
+      "ClauseSection": "Section 2.6 Other Research"
+    },
+    {
+      "InfringementKeyword": "data storage",
+      "Summary": "The service uses your data to produce insights and statistics for internal purposes. This would not identify the user.",
+      "ClauseSection": "Section 2.8 Insights That Do Not Identify You"
+    },
+    {
+      "InfringementKeyword": "data sharing, data visibility",
+      "Summary": "Any data included on the user's profile and any content posted will be visible to others based on the individual's settings. The visibility of this data isn't limited to only members of the service, but also to third-party search engine users.",
+      "ClauseSection": "Section 3.1 Our Services, Profile"
+    },
+    {
+      "InfringementKeyword": "Viewing and Sharing Information",
+      "Summary": "This clause indicates the service is allowed to display your information, and other users can re-share your information. The platform is capable of tracking actions performed by users such as viewing another user's profile, liking or commenting, which suggests a degree of data collection that might be beyond the scope of the service.",
+      "ClauseSection": "Posts, Likes, Follows, Comments, Messages"
+    },
+    {
+      "InfringementKeyword": "Employer Oversight",
+      "Summary": "Your employer is able to review and manage your use of enterprise Services, thus potentially infringing upon your privacy. It might result in excessive data collection and sharing, especially if it involves your personal account data.",
+      "ClauseSection": "Enterprise Accounts"
+    }
+  ],
+  "Caution": [
+    {
+      "InfringementKeyword": "Change of Privacy Policy",
+      "Summary": "The company can modify its Privacy Policy. If you continue using the services after updates have been made to the policy, it is understood as you accepting the updates. However, you may not necessarily agree with the changes, and it could impact your usage and privacy.",
+      "ClauseSection": "Change"
+    },
+    {
+      "InfringementKeyword": "Others’ Services",
+      "Summary": "When linking your account with other services, your personal data becomes available to them. This could lead to your data leaving the jurisdiction of this service and being stored in different countries.",
+      "ClauseSection": "3.3 Others’ Services"
+    },
+    {
+      "InfringementKeyword": "Account termination",
+      "Summary": "Your data is only partially deleted after you terminate your account, with some information kept for a variety of reasons including legal obligations and 'security'. Also, your data might still be visible in the services of others like search engine results until they refresh their cache.",
+      "ClauseSection": "4.3 Account Closure"
+    },
+    {
+      "InfringementKeyword": "Data Storage Outside the Country",
+      "Summary": "User's data is stored and used outside of their home country which might expose it to potential risks if the laws of the host country are not as protective as those of the user's own country.",
+      "ClauseSection": "5.2 Cross-Border Data Transfers"
+    },
+    {
+      "InfringementKeyword": "Targeted connections",
+      "Summary": "The service is using the data collected from your address book or calendar to suggest connections for you and others and providing information about events.",
+      "ClauseSection": "Posting and Uploading"
+    },
+    {
+      "InfringementKeyword": "Data use for Targeted Ads",
+      "Summary": "The company uses data gathered from cookies and similar technologies for ad targeting and ad-related purposes. This includes tracking your behavior on other sites.",
+      "ClauseSection": "1.4 Cookies and Similar Technologies"
+    },
+    {
+      "InfringementKeyword": "Data use, Personalization",
+      "Summary": "LinkedIn uses data to personalize its Services, this data acquired is also used to make automated systems inferences thus leading to targeted services.",
+      "ClauseSection": "2. How We Use Your Data"
+    },
+    {
+      "InfringementKeyword": "Data use for targeted content",
+      "Summary": "The agreement mentions that they use user's data to improve their professional skills or learn new ones by personalizing the services provided to the user, which can be classified as using user's data for creating targeted content.",
+      "ClauseSection": "Second Section"
+    },
+    {
+      "InfringementKeyword": "Data use for targeted ads",
+      "Summary": "Your data is used to serve you tailored ads both on and off services. This might involve extensive profiling and syncing data.",
+      "ClauseSection": "2.4 Advertising"
+    },
+    {
+      "InfringementKeyword": "No opt-out from service messages",
+      "Summary": "The company reserves the right to send service messages including security and legal notices, and users don't have the option to opt-out of receiving these messages.",
+      "ClauseSection": "2.3 Communications"
+    },
+    {
+      "InfringementKeyword": "Targeted ads",
+      "Summary": "The company uses the collected data to create personalized advertisements. Users have limited control over this process, as they can only opt out of certain categories of data use and interest-based ads.",
+      "ClauseSection": "Ad Choices"
+    },
+    {
+      "InfringementKeyword": "Data Storage",
+      "Summary": "Usage data, including search history, connections, and groups participation, is used to target ads and stored for this purpose. The company does not explicitly disclose where this information is stored.",
+      "ClauseSection": "Targeting Ads"
+    },
+    {
+      "InfringementKeyword": "Profile Visibility",
+      "Summary": "The availability of your profile and visibility of certain fields is based on various settings and use of the services, it might violate your right to control how much you share.",
+      "ClauseSection": "Posts, Likes, Follows, Comments, Messages"
+    },
+    {
+      "InfringementKeyword": "Marketing Strategies",
+      "Summary": "When you like and follow organizations, you are visible to others and to the page owners, which is suggestive of potential targeted advertising strategies at work.",
+      "ClauseSection": "Posts, Likes, Follows, Comments, Messages"
+    }
+  ],
+  "Safety": [
+    {
+      "InfringementKeyword": "Rights to access and control data",
+      "Summary": "You are allowed to access or delete your personal data and have many choices about how your data is collected, used, and shared.",
+      "ClauseSection": "4.2 Rights to Access and Control Your Personal Data"
+    },
+    {
+      "InfringementKeyword": "Data control",
+      "Summary": "You have control over your data. You can request the company to erase, change, correct, limit or stop using your data. You also have the right to access your data and request a copy. The policy, however, doesn't mention the possibility to control what data the service does not access.",
+      "ClauseSection": "Personal Data Control"
+    },
+    {
+      "InfringementKeyword": "Data security",
+      "Summary": "The company implements security safeguards designed to protect your data, such as HTTPS, and regularly monitors their systems for possible vulnerabilities and attacks.",
+      "ClauseSection": "5.1. Security"
+    },
+    {
+      "InfringementKeyword": "Right to Withdraw Consent",
+      "Summary": "A user has the right to withdraw consent for data collection, usage and sharing at any time, giving the user control over their personal data.",
+      "ClauseSection": "5.3 Lawful Bases for Processing"
+    },
+    {
+      "InfringementKeyword": "Safe Encryption Measures",
+      "Summary": "While no guarantee can be given against breaches, the company does provide information on how to use the service safely, including two-factor authentication.",
+      "ClauseSection": "Physical, technical, or managerial safeguards"
+    },
+    {
+      "InfringementKeyword": "Control over profile information",
+      "Summary": "User is able to control what information they want to include in their profile and how much of it can be made public. They can choose not to add personal data that they would not want to be made publicly available.",
+      "ClauseSection": "Profile"
+    },
+    {
+      "InfringementKeyword": "Privacy Policy, Notification",
+      "Summary": "LinkedIn will notify users if they collect materially different personal data or make significant changes on how they collect, use or share your data.",
+      "ClauseSection": "1.9 Other"
+    },
+    {
+      "InfringementKeyword": "Connecting Settings",
+      "Summary": "LinkedIn allows users to connect with professionals, however, the data shared is subject to users' privacy settings.",
+      "ClauseSection": "Stay Connected"
+    },
+    {
+      "InfringementKeyword": "Control of communication preferences",
+      "Summary": "You may adjust your settings to control what messages you receive and how often you receive certain types of messages, giving you some control over your data.",
+      "ClauseSection": "2.3 Communications"
+    },
+    {
+      "InfringementKeyword": "data security, fraud prevention",
+      "Summary": "The service utilizes the data to enhance security measures, prevent fraud and investigate possible violations of their terms.",
+      "ClauseSection": "Section 2.9 Security and Investigations"
+    },
+    {
+      "InfringementKeyword": "Sensitive Activity Management",
+      "Summary": "Indicates that sensitive actions such as job hunting and personal messages are not shared with your employer, suggesting some degree of user data safety.",
+      "ClauseSection": "Enterprise Accounts"
+    }
+  ]
+}

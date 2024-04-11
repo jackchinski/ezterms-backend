@@ -1,0 +1,5 @@
+{"Danger": [], 
+
+"Caution": [{"InfringementKeyword": "Account termination", "Summary": "Your data is only partially deleted after you terminate your account, with some information kept for a variety of reasons including legal obligations and 'security'. Also, your data might still be visible in the services of others like search engine results until they refresh their cache.", "ClauseSection": "4.3 Account Closure"}], 
+
+"Safety": [{"InfringementKeyword": "Data control", "Summary": "You have control over your data. You can request the company to erase, change, correct, limit or stop using your data. You also have the right to access your data and request a copy. The policy, however, doesn't mention the possibility to control what data the service does not access.", "ClauseSection": "Personal Data Control"}, {"InfringementKeyword": "Data security", "Summary": "The company implements security safeguards designed to protect your data, such as HTTPS, and regularly monitors their systems for possible vulnerabilities and attacks.", "ClauseSection": "5.1. Security"}] }

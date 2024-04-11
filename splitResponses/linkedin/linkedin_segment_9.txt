@@ -1,0 +1,10 @@
+{"Danger": 
+[{"InfringementKeyword": "Viewing and Sharing Information", "Summary": "This clause indicates the service is allowed to display your information, and other users can re-share your information. The platform is capable of tracking actions performed by users such as viewing another user's profile, liking or commenting, which suggests a degree of data collection that might be beyond the scope of the service.", "ClauseSection": "Posts, Likes, Follows, Comments, Messages"}, 
+{"InfringementKeyword": "Employer Oversight", "Summary": "Your employer is able to review and manage your use of enterprise Services, thus potentially infringing upon your privacy. It might result in excessive data collection and sharing, especially if it involves your personal account data.", "ClauseSection": "Enterprise Accounts"}], 
+
+"Caution": 
+[{"InfringementKeyword": "Profile Visibility", "Summary": "The availability of your profile and visibility of certain fields is based on various settings and use of the services, it might violate your right to control how much you share.", "ClauseSection": "Posts, Likes, Follows, Comments, Messages"}, 
+{"InfringementKeyword": "Marketing Strategies", "Summary": "When you like and follow organizations, you are visible to others and to the page owners, which is suggestive of potential targeted advertising strategies at work.", "ClauseSection": "Posts, Likes, Follows, Comments, Messages"}],
+
+"Safety":
+[{"InfringementKeyword": "Sensitive Activity Management", "Summary": "Indicates that sensitive actions such as job hunting and personal messages are not shared with your employer, suggesting some degree of user data safety.", "ClauseSection": "Enterprise Accounts"}]}
